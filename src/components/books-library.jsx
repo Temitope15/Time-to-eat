@@ -1,5 +1,5 @@
-import { books } from "../data/library";
-const BooksLibrary = () => {
+/* eslint-disable react/prop-types */
+const BooksLibrary = ({ books }) => {
     return ( <>
     <h1 className="font-bold">Latest books of Pastor banjo Ayeka</h1>
     <div className="container mx-auto">
@@ -9,7 +9,7 @@ const BooksLibrary = () => {
             <div className="flex gap-3 items-center"><img src={book.image} className="w-[100px] h-[100px] "></img>
             <div>
                     <h2 className="font-bold">{book.title}</h2>
-                    <p className="italic font-semibold">{book.author}</p>
+                    <p className="italic font-semibold"> by{book.author}</p>
                 </div>
             </div>
                 
@@ -18,6 +18,7 @@ const BooksLibrary = () => {
                 </div>
             </div>
         ))}
+        
     </div>
     </> );
 }
