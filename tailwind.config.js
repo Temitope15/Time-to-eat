@@ -7,8 +7,9 @@ export default {
   theme: { 
     fontFamily: {
       'primary': ['Open Sans', "sans-serif"],
-      'secondary': ['Luxurious Script', "cursive"],
-   
+      'secondary':['Asul', 'serif'],
+      'tertiary': ['Luxurious Script', "cursive"],
+     
     extend: {
       
       colors: {
