@@ -6,13 +6,15 @@ import { books } from "../data/library";
 import { Link } from 'react-router-dom';
 import Card from "../components/card";
 import { banjoDiary } from "../data/banjo-diary";
-
-
+import Hero from "../components/Hero";
+import Navbar from "../components/navbar";
 
 const  Home = () => {
   const slicedBooks =  books.slice(0,3)
   return (
     <div>
+    <Navbar/>
+    <Hero/>
       {/* <div>
         <h1 className="font-primary block text-2xl"></h1>
       </div>
@@ -30,6 +32,7 @@ const  Home = () => {
       
       <Footer/>
     </div>
+
   );
 }
 
