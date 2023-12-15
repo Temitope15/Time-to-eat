@@ -20,6 +20,7 @@ export default {
         grey: "#7D8184",
         dark: "#1A1A1A",
     },
+
     },
   },
   plugins: [],

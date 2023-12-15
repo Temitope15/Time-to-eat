@@ -5,3 +5,7 @@
 *{
     box-sizing: border-box;
 }
+section{
+    max-width: 400px;
+    margin-inline: auto;
+}
