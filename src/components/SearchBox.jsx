@@ -13,7 +13,7 @@ function SearchBox() {
     e.preventDefault();
     books?.map((e) => {
     if(e.title.toLocaleLowerCase().includes(search) && search != "" ){
-    window.location.href = '/book-list/' + books[0].title
+    window.location.href = '/book-list/' + search
     }
   })
     return false;

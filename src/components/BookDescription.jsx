@@ -7,14 +7,14 @@ function BookDescription() {
   const { bookId } = useParams();
 
   return (
-    <div className="bg-yellow-100 h-screen">
+    <div className="bg-yellow-100 h-full">
     <Navbar/>
         <section className="pt-10">
           {books?.map((e) => {
             if (e.title.toLowerCase().includes(bookId.toLowerCase()) && bookId != "") {
               return (
                 <div
-        
+        className="my-14"
                   key={e.id}
                 >
                   <div >
