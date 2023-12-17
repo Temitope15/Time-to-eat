@@ -20,7 +20,7 @@ const Home = () => {
       <Navbar />
       <Hero />
       <div>
-        <FaSearch style={{ color: "red", fontSize: "50px" }} />
+    
       </div> 
       <section className="my-10 px-3">
         <div>
