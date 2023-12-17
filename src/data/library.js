@@ -57,7 +57,7 @@ export const books =[
     },
     {
         id:5,
-        title: "Understanding the three dimensionalways of protesting",
+        title: "Understanding the three dimensional ways of protesting",
         author: "Banjo Ayeka",
         description: "We have the Physical protest walk,online protest work,Prayer protest walk,respectively.",
         image: Diary,
@@ -184,6 +184,15 @@ export const books =[
     {
         id:19,
         title: "The Simplicity of faith",
+        author: "Banjo Ayeka",
+        description: "Grace enables you to do what you need to do so that what you need to get will come to you.",
+        image: Diary,
+        authorImg:PstBanjo,
+        link:"https://drive.google.com/file/d/1TwXosmmvgJHLWllG0E4mnOf_DSAdQm_r/view?usp=sharing",
+    },
+    {
+        id:20,
+        title: "The Power of Ideology",
         author: "Banjo Ayeka",
         description: "Grace enables you to do what you need to do so that what you need to get will come to you.",
         image: Diary,
