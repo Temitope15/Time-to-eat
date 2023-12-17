@@ -2,7 +2,7 @@ import { MdFastfood } from "react-icons/md";
 import { Link } from "react-router-dom";
 const TimeToEat = () => {
     return ( 
-        <>
+        <div>
             <div className="p-4 border-b-2 border-blue-500 rounded-lg  ">
                 <div className="shadow-xl m-2 p-2 rounded-lg" >
                     <h1 className="flex items-center text-xl font-bold gap-2">
@@ -12,7 +12,7 @@ const TimeToEat = () => {
                     <p>To join this movement <Link to="" className="font-bold text-blue-500">click me</Link></p>
                 </div>
             </div>
-        </>
+        </div>
      );
 }
  
