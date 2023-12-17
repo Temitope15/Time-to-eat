@@ -17,13 +17,15 @@ const DiaryPages = () => {
             ))}
           </p>
         ))
-    return ( <>
+    return (
+       <section>
         <div className="px-10 ">
         <h1>Diary Page {id}</h1>
       {/* loop through the banjo diary pages */}
         <div>{filteredData}</div>
       </div>
-    </> );
+    </section> 
+    );
 }
  
 export default DiaryPages;

@@ -6,14 +6,16 @@ import Card from "../components/card";
 import { banjoDiary } from "../data/banjo-diary";
 import Hero from "../components/Hero";
 import Navbar from "../components/navbar";
-import Footer from "../components/footer";
+import { FaSearch } from "react-icons/fa";
+import { Link } from "react-router-dom";
+import TimeToEat from "../components/time-to-eat"
 
 const Home = () => {
   const slicedBooks = books.slice(0, 3);
 
   const bookLibraryText = "Books written by Pastor Banjo Ayeka";
   return (
-    <>
+    <div>
     <div>
       <Navbar />
       <Hero />
@@ -40,10 +42,9 @@ const Home = () => {
         <h1 className="font-primary font-bold text-xl  italic px-4 flex items-center gap-2"><BsPenFill className="text-blue-500"/>Latest on Banjo Ayeka Diary...</h1>
         <Card pages={banjoDiary} />
       </div>
-      <AudioTeaching/>
-
-      <Footer />
-    </>
+  
+    <div/>
+    </div>
   )
 };
 
