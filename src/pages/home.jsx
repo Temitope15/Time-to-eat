@@ -6,7 +6,7 @@ import Card from "../components/card";
 import { banjoDiary } from "../data/banjo-diary";
 import Hero from "../components/Hero";
 import Navbar from "../components/navbar";
-import TimeToEat from "../components/time-to-eat";
+import TimeToEat from "../components/time-to-eat"
 import AudioTeaching from "../components/audio-teachings";
 
 const Home = () => {
@@ -19,9 +19,7 @@ const Home = () => {
       <Navbar />
       <Hero />
       <div>
-        <BooksLibrary books={slicedBooks} text={bookLibraryText} />
-      </div>
-
+      <BooksLibrary books={slicedBooks} text={bookLibraryText} /></div>
       <TimeToEat />
       <div className="p-4 border-b border-blue-500">
         <h1 className="font-primary font-bold text-xl  italic px-4 flex items-center gap-2">
