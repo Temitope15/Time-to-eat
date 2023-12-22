@@ -1,29 +1,39 @@
-
 import { banjoDiary } from "../data/banjo-diary";
-import { useParams } from 'react-router-dom';
+import { useParams } from "react-router-dom";
+import Footer from "../components/footer";
 
 const DiaryPages = () => {
-    const { id } = useParams();
-    const filteredData = banjoDiary
-    .filter((pages)=> pages.id === id)
-        .map((pages)=>(
-          <p key={pages.id} className="text-justify">
-          {/* then loop through the text content array */}
-          <p className="font-bold text-lg text-center">{pages.bookName}</p>
-          <h1 className="font-bold text-lg text-center">{pages.title}<span><p className="italic font-semibold mb-4">page {pages.id}</p></span></h1>
-          
-            {pages.content.map((text)=>(
-              <p key={text} className="mb-3">{text}</p>
+  const { id } = useParams();
+  const result = banjoDiary[id];
+
+  return (
+    <>
+      {id ? (
+        <div className="md:px-10 px-6">
+          <div className="text-justify">
+            <p className="font-bold text-lg text-center">{result.bookName}</p>
+            <h1 className="font-bold text-lg text-center">
+              {result.title}
+              <span>
+                <p className="italic font-semibold mb-4">
+                  page {result.id + 1}
+                </p>
+              </span>
+            </h1>
+
+            {result.content.map((text) => (
+              <p key={text} className="mb-3 bg-gray-300 p-2 rounded-sm">
+                {text}
+              </p>
             ))}
-          </p>
-        ))
-    return ( <>
-        <div className="px-10 ">
-        <h1>Diary Page {id}</h1>
-      {/* loop through the banjo diary pages */}
-        <div>{filteredData}</div>
-      </div>
-    </> );
-}
- 
+          </div>
+        </div>
+      ) : (
+        <p>Page not found</p>
+      )}
+      <Footer/>
+    </>
+  );
+};
+
 export default DiaryPages;

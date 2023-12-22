@@ -1,4 +1,4 @@
-import { BsPenFill } from "react-icons/bs"; 
+import { BsPenFill } from "react-icons/bs";
 import Footer from "../components/footer";
 import BooksLibrary from "../components/books-library";
 import { books } from "../data/library";
@@ -11,6 +11,7 @@ import AudioTeaching from "../components/audio-teachings";
 
 const Home = () => {
   const slicedBooks = books.slice(0, 3);
+  const currentBook = "Banjo Ayeka Diary"
 
   const bookLibraryText = "Books written by Pastor Banjo Ayeka";
   return (
@@ -23,10 +24,13 @@ const Home = () => {
 
       <TimeToEat />
       <div className="p-4 border-b border-blue-500">
-        <h1 className="font-primary font-bold text-xl  italic px-4 flex items-center gap-2"><BsPenFill className="text-blue-500"/>Latest on Banjo Ayeka Diary...</h1>
+        <h1 className="font-primary font-bold text-xl  italic px-4 flex items-center gap-2">
+          <BsPenFill className="text-blue-500" />
+          Latest on {currentBook}...
+        </h1>
         <Card pages={banjoDiary} />
       </div>
-      <AudioTeaching/>
+      <AudioTeaching />
 
       <Footer />
     </div>
