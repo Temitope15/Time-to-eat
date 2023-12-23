@@ -1,31 +1,48 @@
-
 import { banjoDiary } from "../data/banjo-diary";
-import { useParams } from 'react-router-dom';
+import { useParams } from "react-router-dom";
+import Footer from "../components/footer";
+import Navbar from "../components/navbar";
 
 const DiaryPages = () => {
-    const { id } = useParams();
-    const filteredData = banjoDiary
-    .filter((pages)=> pages.id === id)
-        .map((pages)=>(
-          <p key={pages.id} className="text-justify">
-          {/* then loop through the text content array */}
-          <p className="font-bold text-lg text-center">{pages.bookName}</p>
-          <h1 className="font-bold text-lg text-center">{pages.title}<span><p className="italic font-semibold mb-4">page {pages.id}</p></span></h1>
-          
-            {pages.content.map((text)=>(
-              <p key={text} className="mb-3">{text}</p>
+  const { id } = useParams();
+  const result = banjoDiary[id];
+
+
+  return (
+    <>
+    <Navbar showSearch={false}/>
+      {id ? (
+        <div className="md:px-10 px-4 py-4">
+          <div className="text-justify">
+            <p className="font-bold text-lg text-center">{result.bookName}</p>
+            <h1 className="font-bold text-lg text-center">
+              {result.title}
+              <span>
+                <p className="italic font-semibold mb-4">
+                  page {result.id + 1}
+                </p>
+              </span>
+            </h1>
+
+            {result.content.map((text) => (
+              <p key={text} className="mb-3 bg-gray-200 p-3 rounded-lg shadow-md">
+                {text}
+              </p>
             ))}
-          </p>
-        ))
-    return (
-       <section>
-        <div className="px-10 ">
-        <h1>Diary Page {id}</h1>
-      {/* loop through the banjo diary pages */}
-        <div>{filteredData}</div>
-      </div>
-    </section> 
-    );
-}
- 
+          </div>
+        </div>
+      ) : (
+        <p>Page not found</p>
+      )}
+      <Footer/>
+    </>
+  );
+};
+
 export default DiaryPages;
+/**
+ * make the page and layout more interactive in terms of motion and interactivity
+ * hide the search place in the navbar 
+ * implement the page not found logic
+ * implement the back to top button
+ */

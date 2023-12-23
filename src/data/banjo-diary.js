@@ -1,6 +1,6 @@
 export const banjoDiary = [
   {
-    id: 1,
+    id: 0,
     bookName:"Banjo Ayeka Diary",
     title: "Making Peace With The Enemy.",
     content: [
@@ -85,7 +85,7 @@ export const banjoDiary = [
     ],
   },
   {
-    id: 2,
+    id: 1,
     bookName:"Banjo Ayeka Diary",
     title: "Negotiating With The Enemy.",
     content: [

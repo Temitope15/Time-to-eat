@@ -1,14 +1,13 @@
-import React, { useState } from "react";
+import  { useState } from "react";
 import pstBanjo from "/chi-logo.png";
 import { FaMinus, FaPlus } from "react-icons/fa";
 import { Link } from "react-router-dom";
-import { motion } from "framer-motion";
 import SearchBox from "./SearchBox";
-function Navbar() {
+function Navbar(showSearch=true) {
   const [show, setShow] = useState(false);
 
   return (
-    <nav className=" font-primary shadow-sky-950 border-b-2 bg-blue-500 shadow-md z-30">
+    <nav className=" font-primary shadow-sky-950 border-b-2 bg-blue-500 shadow-sm z-30">
       <div className="max-w-screen-xl mx-auto">
         <div className="flex items-center gap-5 justify-between px-5 pr-9 pt-2">
           <div>
@@ -17,7 +16,7 @@ function Navbar() {
             </Link>
           </div>
 
-          <SearchBox />
+          {showSearch? <SearchBox />: " "}
 
           <ul className="text-white flex gap-3 desktop__nav__links text-2xl max-lg:hidden ">
             <li className="  border-slate-500   hover:bg-yellow-500">
