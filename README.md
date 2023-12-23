@@ -1,21 +1,29 @@
-# Time to Eat Repo
+# Time to Eat official Website
 
-## Project  structure
+### Project Components
 
-CHI-website/
-|── public/
-├── src/
-│   ├── components/
-│   │   ├── banjo-diary-entry.jsx
-│   │   └── books-library.jsx
-│   ├── data/
-│   │   └── library.js
-│   ├── pages/
-│   │   └── Home.js
-│   ├── App.js
-│   ├── index.js
-│   └── styles.css
-|── README.md
-|── tailwind.config.js
-|── vite.config.js
-└── ...
+- **components/**
+  - `banjo-diary-entry.jsx`: Component for banjo diary entries.
+  - `books-library.jsx`: Component for managing a library of books.
+
+### Project Files
+
+- **data/**
+  - `library.js`: Data file for the project's library.
+
+- **pages/**
+  - `Home.js`: React component for the home page.
+
+- `App.js`: Main application component.
+
+- `index.js`: Entry point for the application.
+
+- `styles.css`: CSS styles for the project.
+
+### Configuration Files
+
+- `tailwind.config.js`: Tailwind CSS configuration.
+
+- `vite.config.js`: Vite.js configuration.
+
+
