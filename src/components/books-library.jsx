@@ -1,16 +1,9 @@
-import { MdOutlineNavigateNext } from "react-icons/md"; 
-import { SiBookstack } from "react-icons/si";
-import { Link } from "react-router-dom";
+
 /* eslint-disable react/prop-types */
-const BooksLibrary = ({ books, text }) => {
+const BooksLibrary = ({ books }) => {
   return (
     <>
-      <h1 className="font-bold py-3 justify-center gap-2 border-b border-blue-500 flex items-center">
-        <span className="text-blue-500 ">
-          <SiBookstack size={50} />
-        </span>
-        {text}
-      </h1>
+      
       <div className="container mx-auto relative">
         {books.map((book) => (
           <div
@@ -34,12 +27,7 @@ const BooksLibrary = ({ books, text }) => {
             </div>
           </div>
         ))}
-        <Link
-          to="/book-list"
-          className="p-4 text-white bg-blue-500 rounded-md hover:border hover:bg-white border-blue-500 hover:text-blue-500 flex justify-center items-center text-xl"
-        >
-          View more <MdOutlineNavigateNext size={30}/>
-        </Link>
+        
       </div>
     </>
   );

@@ -10,13 +10,16 @@ const Footer = () => {
   return (
     <>
       <div className="bg-blue-500 p-5 flex items-center">
-        <div className="">
+        <Link to="/">
           <img src={Logo} className=" max-h-40 w-[16rem] " />
-        </div>
+        </Link>
+
         <div className=" text-white flex flex-col space-y-5 text-center mx-auto">
           <ul className="flex md:gap-4 gap-2 ">
             {footerLinks.map((link, i) => (
-              <Link to={link.route} key={i}>{link.text}</Link>
+              <Link to={link.route} key={i}>
+                {link.text}
+              </Link>
             ))}
           </ul>
           <div>
