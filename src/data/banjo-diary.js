@@ -260,4 +260,20 @@ export const banjoDiary = [
 
     ]
   },
+  {
+    id: "2",
+    page:"2b",
+    bookName:"Banjo Ayeka Diary",
+    title: "The Warfare that is not Scriptural",
+    content:[
+      `I said in the last page that the method of warfare of angel Micheal with the devil is not something to study and emulate, but to study it and by the hidden  wisdom of God manifesting in us we bring judgement and corrections to it, because one of our assignment in the world to come is that we are going to analyse all the activities of Angels recoded in the scripture which we celebrate now and begin to bring corrections and judgement to them.`,
+      
+      `1 Corinthians 6
+      3 Do you not know also that we [Christians] are to judge the [very] angels and pronounce opinion between right and wrong [for them]? How much more then [as to] matters pertaining to this world and of this life only!`,
+      `So when the scripture begin  reveal the method of warfare of Angel Micheal with the devil, there's nothing to emulate about.`,
+
+      `And that is why the scripture begin to quickly give us the method we are to use in that same bible verse, that we overcome him not by warfare but by the blood of the lamb, not by fighting but by the word of our testimony which is telling devil what Christ has done for us, not telling God what devil is doing, but telling devil what Christ has done and also because we are not afraid to lose our life.`
+    ],
+    
+  },
 ];

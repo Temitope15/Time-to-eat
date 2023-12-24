@@ -15,6 +15,7 @@ import { Link } from "react-router-dom";
 const Home = () => {
   const slicedBooks = books.slice(0, 3);
   const currentBook = "Banjo Ayeka Diary"
+  const slicedDiary =  banjoDiary.slice(0,3);
 
   const bookLibraryText = "Books written by Pastor Banjo Ayeka";
   return (
@@ -46,7 +47,7 @@ const Home = () => {
           <BsPenFill className="text-blue-500" />
           Latest on {currentBook}...
         </h1>
-        <Card pages={banjoDiary} />
+        <Card pages={slicedDiary} />
       </div>
 
       <AudioTeaching />
