@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 motion;
 function Hero() {
   return (
-    <main className=" bg-blue-500 py-8 px-4  text-white ">
+    <main className=" bg-blue-500 py-8 px-4 pt-28 lg:pt-24  text-white ">
       <section className=" mx-auto md:flex md:justify-between md:items-center px-10 ">
         <div>
           <h2 className="relative text-5xl font-semibold  text-center font-secondary md:text-start  lg:text-6xl ">

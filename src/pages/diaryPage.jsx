@@ -34,7 +34,6 @@ const DiaryPages = () => {
       ) : (
         <p>Page not found</p>
       )}
-      <Footer/>
     </>
   );
 };
