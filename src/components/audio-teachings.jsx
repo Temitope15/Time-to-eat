@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const data = [
   { title: " Sunday", time: "9:00am WAT" },
-  { title: " Wednesday", time: "5:00pm WAT" },
+  { title: " Wednesday", time: "6:00pm WAT" },
 ];
 
 const Card = ({ title, time }) => {

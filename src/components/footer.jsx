@@ -5,7 +5,7 @@ const Footer = () => {
   const footerLinks = [
     { route: "/", text: "Home" },
     { route: "/book-list", text: "Books" },
-    { route: "/", text: "Contact" },
+    { route: "/contact", text: "Contact" },
   ];
   return (
     <>

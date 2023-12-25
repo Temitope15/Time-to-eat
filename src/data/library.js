@@ -17,7 +17,7 @@ export const books =[
         description: "A one year diary of pastor Banjo Ayeka, revealing great mysteries",
         image: Diary,
         authorImg:PstBanjo,
-        link:{},
+        link:"/diary",
     },
     {
         id:1,

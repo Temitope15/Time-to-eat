@@ -1,8 +1,7 @@
 import { banjoDiary } from "../data/banjo-diary";
 import { useParams } from "react-router-dom";
-import Footer from "../components/footer";
 import Navbar from "../components/navbar";
-
+import ViewMore from "../components/view-more-btn";
 const DiaryPages = () => {
   const { id } = useParams();
   const result = banjoDiary[id];
@@ -19,7 +18,7 @@ const DiaryPages = () => {
               {result.title}
               <span>
                 <p className="italic font-semibold mb-4">
-                  page {result.id + 1}
+                  page {result.page }
                 </p>
               </span>
             </h1>
@@ -34,6 +33,7 @@ const DiaryPages = () => {
       ) : (
         <p>Page not found</p>
       )}
+        <ViewMore text="Join our Whatsapp Group" link="https://ultramsg.com/m/48aVy8A" style="md:text-xl text-sm w-1/2 mx-auto text-center my-2"/>
     </>
   );
 };

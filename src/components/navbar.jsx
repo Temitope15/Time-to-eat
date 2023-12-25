@@ -7,7 +7,8 @@ function Navbar(showSearch=true) {
   const [show, setShow] = useState(false);
 
   return (
-    <nav className=" font-primary shadow-sky-950 border-b-2 bg-blue-500 shadow-sm z-30 fixed top-0 left-0 right-0 ">
+    // i removed the fixed property coz it is distubing the diary pages
+    <nav className=" font-primary shadow-sky-950 border-b-2 bg-blue-500 shadow-sm z-30  top-0 left-0 right-0 ">
       <div className="max-w-screen-xl mx-auto">
         <div className="flex items-center gap-5 justify-between px-5 pr-9 pt-2">
           <div>
@@ -25,7 +26,7 @@ function Navbar(showSearch=true) {
               </Link>
             </li>
             <li className="  border-slate-500  hover:bg-yellow-500">
-              <Link className="block px-6 py-6" to={"/book-list"}>
+              <Link className="block px-6 py-6" to={"/about"}>
                 About
               </Link>
             </li>
@@ -59,7 +60,7 @@ function Navbar(showSearch=true) {
                 </Link>
               </li>
               <li className="  border-slate-500  hover:bg-yellow-500">
-                <Link className="block pl-6 py-6">About</Link>
+                <Link className="block pl-6 py-6" to="/about">About</Link>
               </li>
             </ul>
           </div>
