@@ -52,7 +52,6 @@ const Home = () => {
 
       <AudioTeaching />
 
-      <Footer />
 
     </div>
   );
