@@ -8,9 +8,9 @@ function BookDescription() {
   const { bookId } = useParams();
 
   return (
-    <div className="bg-yellow-100 h-full">
+    <div className="bg-yellow-100  min-h-screen">
     <Navbar/>
-        <section className="pt-10">
+        <section className="py-28">
           {books?.map((e) => {
             if (e.title.toLowerCase().includes(bookId.toLowerCase()) && bookId != "") {
               return (
@@ -19,9 +19,9 @@ function BookDescription() {
                   key={e.id}
                 >
                   <div >
-                    <img src={e.image} className="w-full max-h-96 object-cover"></img>
-                    <div className="leading-10 text-2xl mt-10 px-5">
-                      <h2 className="font-bold text-3xl"> <span className="font-bold">Book Title:</span> {e.title}</h2>
+                    <img src={e.image} className="w-full max-w-screen-md block m-auto max-h-96 object-cover"></img>
+                    <div className="text-2xl mt-10 px-5 leading-[3rem]">
+                      <h2 className="font-bold text-3xl"> <span className="font-bold">Book Title:</span > {e.title + "."}</h2>
                       <p className="italic font-semibold"><span className="font-bold">Written By: </span> {e.author}</p>
                       <p className="italic font-semibold"><span className="font-bold"> Book description:</span> {e.description}</p>
                       <div className=" my-3">

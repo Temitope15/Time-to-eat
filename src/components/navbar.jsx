@@ -7,7 +7,7 @@ function Navbar(showSearch=true) {
   const [show, setShow] = useState(false);
 
   return (
-    <nav className=" font-primary shadow-sky-950 border-b-2 bg-blue-500 shadow-sm z-30">
+    <nav className=" font-primary shadow-sky-950 border-b-2 bg-blue-500 shadow-sm z-30 fixed top-0 left-0 right-0 ">
       <div className="max-w-screen-xl mx-auto">
         <div className="flex items-center gap-5 justify-between px-5 pr-9 pt-2">
           <div>
