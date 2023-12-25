@@ -34,7 +34,7 @@ const AudioTeaching = () => {
         </div>
         <h2 className=" font-semibold text-gray-900 text-center p-4">
           You can also access his Audio Teachings by{" "}
-          <Link to="telegram" className="font-bold text-blue-500">
+          <Link to="https://t.me/c/1810377308/210" className="font-bold text-blue-500">
             clicking here
           </Link>
         </h2>
