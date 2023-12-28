@@ -1222,4 +1222,836 @@ I have said, Ye are gods; And all of you are children of the most High.`,
       "Just be following, you'll get more truth on that tomorrow.",
     ],
   },
+  {
+    id: 7,
+    page: "6a",
+    bookName: "Banjo Ayeka Diary",
+    title: "The Immortality in Man.",
+    content: ["Ephesians 5:16 redeeming the time, because the days are evil.",
+
+    "God's time is not something you wait for, it is something you enter into.",
+    
+    "It is a realm, once you enter into that realm you have the capacity to do two things, First you can redeem the time under the heaven  and you can also control the time under the Heaven.",
+    
+    "Salvation is not only when you are saved from sin, that is just the first Salvation.",
+    
+    "There are many who are saved from sin but are still slave of time, time and chance still determines what happen to them, any one in this realm still need the second dimension of Salvation.",
+    
+    "The last dimension of Salvation is when you are saved from this body, and this is what the second coming of Jesus is coming to do, to save us from this body.",
+    
+    "So you must be saved from sin, you must be saved from time, and you must be saved from your mortal body.",
+    
+    `Get this, there is a position we lost in Adam that Christ has restored back to us and that position is called the LORD OF ALL.`,
+    
+    "Galatians 4:1 Now I say that the heir, as long as he is a child, does not differ at all from a slave, though he is LORD OF ALL.",
+    
+    "Meaning, you are also lord of time.",
+    
+    "The fall of Adam make him to fall from the realm of time of God into the realm of time of man.",
+    
+    "He fell from a realm wher time submits to him to where he now submit to time.",
+    
+    "Before he fell he determines what happen in time, but after the fall, time determines what happen to him.",
+    
+    "From a realm where he create circumstances to a realm where he become victim of circumstances, this now become our reality, time now become what we wait for , season now become what we wait for before doing anything.",
+    
+    "Because that now determines what happen to all things.",
+    
+    "Ecclesiastes 9:11 ....... ,Nor favor to men of skill, But time and chance happen to them all.",
+    
+    "This scripture is a reality for everyone under the sun, who have not enter into the realm of Gods time where both the past, present and future is now.",
+    
+    "And in the realm of the time of God, future is behind, but in the time of man future is ahead.",
+    
+    "So when you are in the time of God, everything is now, if you think it now, you can have it now.",
+    
+    "In that realm there is nothing like God's time has not come, the time is Now!",
+    
+    "And God want us to enter that realm with this our body before rapture, where we speak, think and talk from a realm where time doesn't exist into realm where time exists so that time under heaven itself will hear us and obey.",
+    
+    "Because if i ask you to mention your enemy, you will mention devil, sin, demon, but you didn't know that one of your greatest enemy is TIME.",
+    
+    "Time doesn't want to  come to you, you keep on saying my time has not come, the fact is that you dont have time under the sun, so there will never be day that your time will come, because that time is your enemy, the time is in the hand of the enemy, what you are to do is to redeem the time from him.",
+    
+    "Ephesians 5:16 redeeming the time, because the days are evil.",
+    
+    "Just has Christ has redeemed you from the devil , so also you redeemed the time from the devil.",
+    
+    "There are season of our life when we are to submit to time and wait for time, we saw jesus also doing the same thing, and there are season of our life also when we must be save from time and have dominion and control over time, we also saw christ doing the same thing.",
+    
+    "One of the error many of us made including me is that we begin to learn Jesus rather than learning Christ.",
+    
+    "We are beholding Jesus rather than beholding Christ, that is why our experience cannot capture the reality of Christ.",
+    
+    "Get this, every supernatural you see displayed by Jesus in his earthly ministry is not the manifestation of the son of God, that is just the manifestation of the servant of God.",
+    
+    "There is no manifestation you see in him that you can't traced to all the old testament prophet like Elijah and Moses, all of them raised the dead, they turn water to wine.",
+    
+    "Infact Moses turn water to blood.",
+    
+    "But all those life are still what we are beholding and that is why we cannot do more than what Jesus did.",
+    
+    "Jesus was telling us that more than what i did you'll do.But we can't comprehend what Jesus was saying.",
+    
+    "Get this by divine designed, our life should begin at Resurrection', we should start beholding christ after resurrection not before resurrection, every of the manifestation you see in him before the cross are all manifestation of the servant of God, he began to manifest his sonship capacity beginning after resurrection and that is the dimension of him that have dominion over time.",
+    
+    "Things Jesus begin to do after resurrection should be the reality of our life because we have been resurrected with Christ.",
+    
+    "The dimension many of us are beholding have been buried and that is Jesus Christ.But Jesus didn't resurrect, it was Christ that resurrected.",
+    
+    "Jesus of Nazareth was buried' but only christ ressurated.",
+    
+    "The Jesus Christ that was buried was Jesus that raised the dead and heal the sick, but Christ that was resurrected was the one walking through the wall.",
+    
+    "So that resurrected Christ is not subjected to time and season, he is the lord of time and season, he is not subjected to nature, he controls nature.",
+    
+    "That is who Adam was before he fell, he had dominion over all things created by God.",
+    
+    "Kindly look at this scripture to see our reality.",
+    
+    `Psalms 8:6 You have made him to have DOMINION OVER THE WORKS OF YOUR HAND;
+    You have put all things under his feet`,
+    
+    "Take note of a statement in that scripture, you have made him to have dominion over the works of your hands and put all things under his feet including time.",
+    
+    "Meaning, if time is part of the work of God's hands, then man is designed to have dominion over time.",
+    
+    "If law of nature is part of the works of the hand of God then man is designed to have dominion over law of nature.",
+    
+    "If death is part of the hand work of God then man is designed to have dominion over the death.",
+    
+    "This may be too hard to say, if Angel is part of the work of the hand of God them man is designed to have dominion over angels.",
+    
+    "But at the time the book of Hebrews will be repeating this same scripture, kindly look at what he said;",
+    
+    `Hebrews 2:6 But one testified in a certain place, saying:
+    “What is man that You are mindful of him,
+    Or the son of man that You take care of him?`,
+    
+    `Hebrews 2:7 You have made him a little lower than the angels;
+    You have crowned him with glory and honor,
+    And set him over the works of Your hands.`,
+    
+    "Hebrews 2:8 You have put all things in subjection under his feet.” For in that He put all in subjection under him, He left nothing that is not put under him. But now we do not yet see all things put under him.",
+    
+    "Kindly look at the last statement in verse 8, it says but now we have not seen all things under the feet of man, he is talking about reality of man here before you where burried with christ and resurrected with Christ.",
+    
+    "Now look at verse 9",
+    
+    "Hebrews 2:9 But we see Jesus, who was made a little lower than the angels, for the suffering of death crowned with glory and honor, that He, by the grace of God, might taste death for everyone.",
+    
+    "We saw Christ who was also created lower than angels, because once you are born with flesh and blood, you are lower than Angel's, and anyone created lower than angels must be subjected to time.",
+    
+    "So Christ was also lower than angels so he submitted to time when we walk in his earthly ministry but the moment he ressurated from the death, time become submitted to him, he gain back dominion over all the world of the hand of God.",
+    
+    "Matthew 28:18 And Jesus came and spoke to them, saying, “All authority has been given to Me in heaven and on Earth.",
+    
+    "Jesus was able to speak this statement when he ressurated , meaning before he ressurated all power and authority was not yet with him, he never heal the sick or raised the death as a man who is all powerful, because that him we saw before the cross is not the expression of the son of God, that him must died to put an end to the expression of the servant of God and begin the expression of the son of God.",
+    
+    "That is from supernatural experience and expression to immortality.",
+    
+    "And the scripture now say he tasted death for our sake, so that once we are born by God, we are now higher than angels.",
+    
+    "Everyone who need to die is lower than angels, but everyone who died with Christ and resurrected with him is higher than angels.",
+    
+    "Because the life in you now is called the life of God, that life is eternal life, it is a life that doesn't have beginning and it doesn't have end.",
+    
+    "The life in all Angels is not eternal life, no angel have eternal life!",
+    
+    "They have everlasting life but they don't have eternal life.",
+    
+    "A natural life is the life that have beginning and have end in time.",
+    
+    "An everlasting life is the life that have beginning but didn't have end in time, it have end but didn't have end in time.",
+    
+    "But eternal life which is the life in us is the life that doesn't have beginning and it doesn't have end, the life is not subjected to time, it controls time.",
+    
+    "And the moment you have eternal life, you must begin to walk into eternal time while still on earth, because what is future in this realm under heaven is past in that realm, so when you begin to think from that realm, talk from that realm you will be ahead of time under the heaven, in fact not that you will be ahead of your age made, but you will be ahead of your generation.",
+    
+    "Many didn't just know three things that put us in bondage.",
+    
+    "1. The first is sin and you must be saved from sin.",
+    
+    "2. The second is time and you must be saved from time, this is a realm where time no longer determines things that happen to you, you have enter into the realm of God's time, and this God's time you don't wait for it you journey into it.",
+    
+    "3. And the last is to be saved from this body, this is the realm of immortality, a realm where the mortality in us has been swallowed up by immortality in us.",
+    
+    "A realm where we walk out of this Earth like Enoch, without passing through death.",
+    
+    "God's plan is that there are some of us that should walk on this Earth and move to Heaven without passing through death.",
+    
+    "Because we have swallowed up death in victory, that is, the same way Jesus went to Heaven will also be the same way we go to Heaven.",
+    
+    "We live on Earth above 100 years and our body will look like 30 years old, it is a situation where by the immortality in us is swallowing up the mortality in us, the incorruptible nature in us is swallowing up the corruptible nature in us.",
+    
+    "1 Corinthians 15:54 So when this corruptible has put on incorruption, and this mortal has put on immortality, then shall be brought to pass the saying that is written: “Death is swallowed up in victory.”",
+    
+    "That is, the eternal life in us have the ability to make this our body not to grow old again.",
+    
+    "Moses and caleb tasted this dimension.",
+    
+    `Joshua 14:10-13
+    God faithfully kept His word to give the land to Caleb, but He also gave him an added blessing that had not been promised. He kept age from ravaging his body. Caleb watched the flesh of the rest of the men in the camp wear out while he remained strong.`,
+    
+    "The scripture says Caleb watched the flesh of the rest man in the camp wear out while his own body remain young and strong.",
+    
+    "Get this, there is a curriculum in the school of the Spirit called immortality, may God grant us grace to be students in that class, because when I check the goal of that class in the school of the spirit, the goal is not transformation, the goal is transfiguration.",
+    
+    "In that realm you will see that there is possibility for man to live on Earth above 1000 years if he chooses, because there is a life in us that have swallowed up death in victory.",
+    
+    "In that class in the Spirit, you will be taught that you can walk through this Earth and not tasted death and you'll walk with God like Enoch.",
+    
+    "Jesus was telling his physical disciples that there are some of them that will not taste death till he comes.",
+    
+    "Truly, I say to you, there are some standing here who will not taste death until they see the Son of Man coming in his kingdom (Matt. 16:27–28)",
+    
+    "Many can't comprehend what Jesus is saying here, infact the twelve disciples couldn't comprehend it because if they did, some of them could have still be alive by now.",
+    
+    "Because the eternal life they receive at pentecost can make them to live above Methuselah on Earth.",
+    
+    "John the beloved who wrote the book of revelation almost enter into this economy, but I think the consciousness is not enough.",
+    
+    "Because they try everything within human capacity to kill him, but he didn't die, put him in a boiling oil yet he didn't die.",
+    
+    "There is this immortality in us that is above every hand works of God, may God open us to the mystery of the kingdom needed for us to eat that will bring them into manifestation.",
+    
+    "Those dimension are not manifesting in us because the mystery of the kingdom needed for us to hear that will trigger them into manifestation is missing.",
+    
+    "We just need to pray to God to raised men who are custodian and stewards of the mystery of God into the body of Christ.",
+    
+    `1 Corinthians 4:1 
+    Let a man so consider us, as servants of Christ and stewards of the mysteries of God.`,
+    
+    "Paul is talking about two assignment here, the first are the servant of christ, the second are the stewards of the mystery of God.",
+    
+    "Not every servant of christ are stewards of the mystery of God.",
+    
+    "We have too much servants of christ in this generation but only few stewards of the mystery of God.",
+    
+    "No fasting and prayer not sacrifice can bring out the immortality in us, exposing ourselves to the mystery of the kingdom is the key.",
+    
+    "That is why paul said this hidden wisdom we are communicating in mystery, they are message ordained before the foundation of the world for our glory.",
+    
+    "NKJV, 1 Corinthians 2:7",
+    "But we speak the wisdom of God in a mystery, the hidden wisdom which God ordained before the ages for our glory.",
+    
+    "Meaning, there are messages that is for our salvation, there are messages that is for transformation, there are messages that is for our glory.",
+    
+    "There are messages that bring out the supernatural in us, why there are messages that bring out the immortality in us, the unveiling of mystery is to bring out the immortality in us and for this purpose I was born to be a stewards of the mystery of God for my generation.",
+    
+    "Supernatural is when you are sick and you receive healing, immortality is when you can never be sick again, because divine health is hidden in the immortality in us.",
+    
+    "Supernatural is the manifestation of the Holy Spirit in us, but immortality is the manifestation of the eternal life in us, a nature in you that can make you to leave on this earth and not tastes death, a nature that can utter your containers and you didn't get old, a nature that have time under his feet.",
+    
+    "How wish we are rightly taught, there are certain things that should never happen to us again because we have eternal life.",
+    
+    "Do you know the meaning of eternal life? You can never have it and perish again.",
+    
+    ],
+  },
+  {
+    id: 7,
+    page: "6a",
+    bookName: "Banjo Ayeka Diary",
+    title: "The Immortality in Man.",
+    content: ["Ephesians 5:16 redeeming the time, because the days are evil.",
+
+    "God's time is not something you wait for, it is something you enter into.",
+    
+    "It is a realm, once you enter into that realm you have the capacity to do two things, First you can redeem the time under the heaven  and you can also control the time under the Heaven.",
+    
+    "Salvation is not only when you are saved from sin, that is just the first Salvation.",
+    
+    "There are many who are saved from sin but are still slave of time, time and chance still determines what happen to them, any one in this realm still need the second dimension of Salvation.",
+    
+    "The last dimension of Salvation is when you are saved from this body, and this is what the second coming of Jesus is coming to do, to save us from this body.",
+    
+    "So you must be saved from sin, you must be saved from time, and you must be saved from your mortal body.",
+    
+    `Get this, there is a position we lost in Adam that Christ has restored back to us and that position is called the LORD OF ALL.`,
+    
+    "Galatians 4:1 Now I say that the heir, as long as he is a child, does not differ at all from a slave, though he is LORD OF ALL.",
+    
+    "Meaning, you are also lord of time.",
+    
+    "The fall of Adam make him to fall from the realm of time of God into the realm of time of man.",
+    
+    "He fell from a realm wher time submits to him to where he now submit to time.",
+    
+    "Before he fell he determines what happen in time, but after the fall, time determines what happen to him.",
+    
+    "From a realm where he create circumstances to a realm where he become victim of circumstances, this now become our reality, time now become what we wait for , season now become what we wait for before doing anything.",
+    
+    "Because that now determines what happen to all things.",
+    
+    "Ecclesiastes 9:11 ....... ,Nor favor to men of skill, But time and chance happen to them all.",
+    
+    "This scripture is a reality for everyone under the sun, who have not enter into the realm of Gods time where both the past, present and future is now.",
+    
+    "And in the realm of the time of God, future is behind, but in the time of man future is ahead.",
+    
+    "So when you are in the time of God, everything is now, if you think it now, you can have it now.",
+    
+    "In that realm there is nothing like God's time has not come, the time is Now!",
+    
+    "And God want us to enter that realm with this our body before rapture, where we speak, think and talk from a realm where time doesn't exist into realm where time exists so that time under heaven itself will hear us and obey.",
+    
+    "Because if i ask you to mention your enemy, you will mention devil, sin, demon, but you didn't know that one of your greatest enemy is TIME.",
+    
+    "Time doesn't want to  come to you, you keep on saying my time has not come, the fact is that you dont have time under the sun, so there will never be day that your time will come, because that time is your enemy, the time is in the hand of the enemy, what you are to do is to redeem the time from him.",
+    
+    "Ephesians 5:16 redeeming the time, because the days are evil.",
+    
+    "Just has Christ has redeemed you from the devil , so also you redeemed the time from the devil.",
+    
+    "There are season of our life when we are to submit to time and wait for time, we saw jesus also doing the same thing, and there are season of our life also when we must be save from time and have dominion and control over time, we also saw christ doing the same thing.",
+    
+    "One of the error many of us made including me is that we begin to learn Jesus rather than learning Christ.",
+    
+    "We are beholding Jesus rather than beholding Christ, that is why our experience cannot capture the reality of Christ.",
+    
+    "Get this, every supernatural you see displayed by Jesus in his earthly ministry is not the manifestation of the son of God, that is just the manifestation of the servant of God.",
+    
+    "There is no manifestation you see in him that you can't traced to all the old testament prophet like Elijah and Moses, all of them raised the dead, they turn water to wine.",
+    
+    "Infact Moses turn water to blood.",
+    
+    "But all those life are still what we are beholding and that is why we cannot do more than what Jesus did.",
+    
+    "Jesus was telling us that more than what i did you'll do.But we can't comprehend what Jesus was saying.",
+    
+    "Get this by divine designed, our life should begin at Resurrection', we should start beholding christ after resurrection not before resurrection, every of the manifestation you see in him before the cross are all manifestation of the servant of God, he began to manifest his sonship capacity beginning after resurrection and that is the dimension of him that have dominion over time.",
+    
+    "Things Jesus begin to do after resurrection should be the reality of our life because we have been resurrected with Christ.",
+    
+    "The dimension many of us are beholding have been buried and that is Jesus Christ.But Jesus didn't resurrect, it was Christ that resurrected.",
+    
+    "Jesus of Nazareth was buried' but only christ ressurated.",
+    
+    "The Jesus Christ that was buried was Jesus that raised the dead and heal the sick, but Christ that was resurrected was the one walking through the wall.",
+    
+    "So that resurrected Christ is not subjected to time and season, he is the lord of time and season, he is not subjected to nature, he controls nature.",
+    
+    "That is who Adam was before he fell, he had dominion over all things created by God.",
+    
+    "Kindly look at this scripture to see our reality.",
+    
+    `Psalms 8:6 You have made him to have DOMINION OVER THE WORKS OF YOUR HAND;
+    You have put all things under his feet`,
+    
+    "Take note of a statement in that scripture, you have made him to have dominion over the works of your hands and put all things under his feet including time.",
+    
+    "Meaning, if time is part of the work of God's hands, then man is designed to have dominion over time.",
+    
+    "If law of nature is part of the works of the hand of God then man is designed to have dominion over law of nature.",
+    
+    "If death is part of the hand work of God then man is designed to have dominion over the death.",
+    
+    "This may be too hard to say, if Angel is part of the work of the hand of God them man is designed to have dominion over angels.",
+    
+    "But at the time the book of Hebrews will be repeating this same scripture, kindly look at what he said;",
+    
+    `Hebrews 2:6 But one testified in a certain place, saying:
+    “What is man that You are mindful of him,
+    Or the son of man that You take care of him?`,
+    
+    `Hebrews 2:7 You have made him a little lower than the angels;
+    You have crowned him with glory and honor,
+    And set him over the works of Your hands.`,
+    
+    "Hebrews 2:8 You have put all things in subjection under his feet.” For in that He put all in subjection under him, He left nothing that is not put under him. But now we do not yet see all things put under him.",
+    
+    "Kindly look at the last statement in verse 8, it says but now we have not seen all things under the feet of man, he is talking about reality of man here before you where burried with christ and resurrected with Christ.",
+    
+    "Now look at verse 9",
+    
+    "Hebrews 2:9 But we see Jesus, who was made a little lower than the angels, for the suffering of death crowned with glory and honor, that He, by the grace of God, might taste death for everyone.",
+    
+    "We saw Christ who was also created lower than angels, because once you are born with flesh and blood, you are lower than Angel's, and anyone created lower than angels must be subjected to time.",
+    
+    "So Christ was also lower than angels so he submitted to time when we walk in his earthly ministry but the moment he ressurated from the death, time become submitted to him, he gain back dominion over all the world of the hand of God.",
+    
+    "Matthew 28:18 And Jesus came and spoke to them, saying, “All authority has been given to Me in heaven and on Earth.",
+    
+    "Jesus was able to speak this statement when he ressurated , meaning before he ressurated all power and authority was not yet with him, he never heal the sick or raised the death as a man who is all powerful, because that him we saw before the cross is not the expression of the son of God, that him must died to put an end to the expression of the servant of God and begin the expression of the son of God.",
+    
+    "That is from supernatural experience and expression to immortality.",
+    
+    "And the scripture now say he tasted death for our sake, so that once we are born by God, we are now higher than angels.",
+    
+    "Everyone who need to die is lower than angels, but everyone who died with Christ and resurrected with him is higher than angels.",
+    
+    "Because the life in you now is called the life of God, that life is eternal life, it is a life that doesn't have beginning and it doesn't have end.",
+    
+    "The life in all Angels is not eternal life, no angel have eternal life!",
+    
+    "They have everlasting life but they don't have eternal life.",
+    
+    "A natural life is the life that have beginning and have end in time.",
+    
+    "An everlasting life is the life that have beginning but didn't have end in time, it have end but didn't have end in time.",
+    
+    "But eternal life which is the life in us is the life that doesn't have beginning and it doesn't have end, the life is not subjected to time, it controls time.",
+    
+    "And the moment you have eternal life, you must begin to walk into eternal time while still on earth, because what is future in this realm under heaven is past in that realm, so when you begin to think from that realm, talk from that realm you will be ahead of time under the heaven, in fact not that you will be ahead of your age made, but you will be ahead of your generation.",
+    
+    "Many didn't just know three things that put us in bondage.",
+    
+    "1. The first is sin and you must be saved from sin.",
+    
+    "2. The second is time and you must be saved from time, this is a realm where time no longer determines things that happen to you, you have enter into the realm of God's time, and this God's time you don't wait for it you journey into it.",
+    
+    "3. And the last is to be saved from this body, this is the realm of immortality, a realm where the mortality in us has been swallowed up by immortality in us.",
+    
+    "A realm where we walk out of this Earth like Enoch, without passing through death.",
+    
+    "God's plan is that there are some of us that should walk on this Earth and move to Heaven without passing through death.",
+    
+    "Because we have swallowed up death in victory, that is, the same way Jesus went to Heaven will also be the same way we go to Heaven.",
+    
+    "We live on Earth above 100 years and our body will look like 30 years old, it is a situation where by the immortality in us is swallowing up the mortality in us, the incorruptible nature in us is swallowing up the corruptible nature in us.",
+    
+    "1 Corinthians 15:54 So when this corruptible has put on incorruption, and this mortal has put on immortality, then shall be brought to pass the saying that is written: “Death is swallowed up in victory.”",
+    
+    "That is, the eternal life in us have the ability to make this our body not to grow old again.",
+    
+    "Moses and caleb tasted this dimension.",
+    
+    `Joshua 14:10-13
+    God faithfully kept His word to give the land to Caleb, but He also gave him an added blessing that had not been promised. He kept age from ravaging his body. Caleb watched the flesh of the rest of the men in the camp wear out while he remained strong.`,
+    
+    "The scripture says Caleb watched the flesh of the rest man in the camp wear out while his own body remain young and strong.",
+    
+    "Get this, there is a curriculum in the school of the Spirit called immortality, may God grant us grace to be students in that class, because when I check the goal of that class in the school of the spirit, the goal is not transformation, the goal is transfiguration.",
+    
+    "In that realm you will see that there is possibility for man to live on Earth above 1000 years if he chooses, because there is a life in us that have swallowed up death in victory.",
+    
+    "In that class in the Spirit, you will be taught that you can walk through this Earth and not tasted death and you'll walk with God like Enoch.",
+    
+    "Jesus was telling his physical disciples that there are some of them that will not taste death till he comes.",
+    
+    "Truly, I say to you, there are some standing here who will not taste death until they see the Son of Man coming in his kingdom (Matt. 16:27–28)",
+    
+    "Many can't comprehend what Jesus is saying here, infact the twelve disciples couldn't comprehend it because if they did, some of them could have still be alive by now.",
+    
+    "Because the eternal life they receive at pentecost can make them to live above Methuselah on Earth.",
+    
+    "John the beloved who wrote the book of revelation almost enter into this economy, but I think the consciousness is not enough.",
+    
+    "Because they try everything within human capacity to kill him, but he didn't die, put him in a boiling oil yet he didn't die.",
+    
+    "There is this immortality in us that is above every hand works of God, may God open us to the mystery of the kingdom needed for us to eat that will bring them into manifestation.",
+    
+    "Those dimension are not manifesting in us because the mystery of the kingdom needed for us to hear that will trigger them into manifestation is missing.",
+    
+    "We just need to pray to God to raised men who are custodian and stewards of the mystery of God into the body of Christ.",
+    
+    `1 Corinthians 4:1 
+    Let a man so consider us, as servants of Christ and stewards of the mysteries of God.`,
+    
+    "Paul is talking about two assignment here, the first are the servant of christ, the second are the stewards of the mystery of God.",
+    
+    "Not every servant of christ are stewards of the mystery of God.",
+    
+    "We have too much servants of christ in this generation but only few stewards of the mystery of God.",
+    
+    "No fasting and prayer not sacrifice can bring out the immortality in us, exposing ourselves to the mystery of the kingdom is the key.",
+    
+    "That is why paul said this hidden wisdom we are communicating in mystery, they are message ordained before the foundation of the world for our glory.",
+    
+    "NKJV, 1 Corinthians 2:7",
+    "But we speak the wisdom of God in a mystery, the hidden wisdom which God ordained before the ages for our glory.",
+    
+    "Meaning, there are messages that is for our salvation, there are messages that is for transformation, there are messages that is for our glory.",
+    
+    "There are messages that bring out the supernatural in us, why there are messages that bring out the immortality in us, the unveiling of mystery is to bring out the immortality in us and for this purpose I was born to be a stewards of the mystery of God for my generation.",
+    
+    "Supernatural is when you are sick and you receive healing, immortality is when you can never be sick again, because divine health is hidden in the immortality in us.",
+    
+    "Supernatural is the manifestation of the Holy Spirit in us, but immortality is the manifestation of the eternal life in us, a nature in you that can make you to leave on this earth and not tastes death, a nature that can utter your containers and you didn't get old, a nature that have time under his feet.",
+    
+    "How wish we are rightly taught, there are certain things that should never happen to us again because we have eternal life.",
+    
+    "Do you know the meaning of eternal life? You can never have it and perish again.",
+    
+    ],
+  },
+  {
+    id: 8,
+    page: "6b",
+    bookName: "Banjo Ayeka Diary",
+    title: "The Journey Into Immortal Realm.",
+    content: [
+    "1 Corinthians 15:54 So when this corruptible has put on incorruption, and this mortal has put on immortality, then shall be brought to pass the saying that is written: “Death is swallowed up in victory.”",
+
+"Kindly pay attention to this scripture, because in it you will discover that our journey is still far.",
+
+"Many of us didn't understand this scripture, what it simply means is that there is a capacity in us now to live without tasting death, because death is swallowed up in victory.",
+
+"But he now say this can only become reality when this our corruptible body put on incorruption and this immortal has put on immortality.",
+
+"Presently now for many of us, it is our incorruptible body that put on our corruptible body, our immortality put on mortality, and in this form we will continue to be a slave of death and time, we shall continue to be a victim of circumstances rather master of circumstances.",
+
+"But when our mortality is inside and we put on immortality then we've swallowed up death in victory.",
+
+"Many are waiting for when we shall be separated from our mortal body, and become 100% immortal, when God is waiting for when we'll become immortal in this mortal body.",
+
+"Look at this scripture very well;",
+
+"1 Corinthians 15:54 So when this corruptible has put on incorruption, and this mortal has put on immortality, then shall be brought to pass the saying that is written: “Death is swallowed up in victory.”",
+
+"Until you begin to walk in this reality while still alive, you have not swallowed up death in victory.",
+
+"Because the scripture say it is when your mortal body has put on immortality that it shall be brought to pass that death is swallowed up in victory.",
+
+"Meaning, if your mortal body has not put on immortality that spiritual reality has not brought to pass.",
+
+"For anyone that is not yet Immortal, the pathway to eternity is death, death is the gate through which we eternally get out of this mortal world into the immortal world.",
+
+"But by divine design, the moment you receive eternal life, it means death has been swallowed up in victory, it means death is just an option for us, if we pass through death to get out of this world it is because we choose or we don't understand the power of eternal life that is in us.",
+
+"The way Christ get out of this world is the new order God designed Christians to get out of this world, which is through rapture, we see our mortal body been swallowed up by the immortality in us.",
+
+"May God give us the Grace to know that the concept of rapture is not a general event, it is an individual event.",
+
+"The fact that scripture calls it trumpet and you literally take it as trumpet, means you're ignorant because prophecies are written in symbols.",
+
+"The Gospel of immortality is that trumpet, and some of us are the angels ordained by God to blow the trumpet and we are blowing it already now.",
+
+"Kindly look at this scripture to get the point.",
+
+"Revelation 1:10 I was in the Spirit on the Lord’s Day, and I heard behind me a loud voice, as of a trumpet,",
+
+"Revelation 1:11 saying, “I am the Alpha and the Omega, the First and the Last,” and, “What you see, write in a book and send it to the seven churches which are in Asia: to Ephesus, to Smyrna, to Pergamos, to Thyatira, to Sardis, to Philadelphia, and to Laodicea.”",
+
+"Firstly, John said he was in the Spirit and he heard behind him a loud voice as of the trumpet and the trumpet was saying I am the Alpha and the Omega.",
+
+"Meaning, the trumpet that sound was not blowing like Nigeria trumpet, the trumpet was talking, the trumpet was blowing a message not a sound.",
+
+"You are waiting for a trumpet that will blow a sound when the trumpet is already blowing a message and men who are in the Spirit are getting the message.",
+
+"Secondly, when God want him to be writing to the angels of the churches, the angels are pastors of the church not literal Angels with wings.",
+
+"Show me people who will not hear this trumpet, who will miss this trumpet that have started  blowing, they are people who are literally waiting for literal rapture, waiting for one angel with wings who will appear on the sky with literal Nigerian trumpet blowing literal sounds.",
+
+"They don't know that when scripture give prophecy, they are symbolic, the Angels that will blow the trumpet are some of us ordained by God to preach the Gospel of immortality, some of us ordained by God to be a steward of God's mystery.",
+
+`NKJV, 1 Corinthians 4:1
+Let a man so consider us, as servants of Christ and STEWARDS OF THE MYSTERIES OF GOD.`,
+
+"There are some men walking on this Earth who are just servant of Christ doing great work for the kingdom, but there are some of us who are not just servant of Christ, we are steward and custodian of God's mystery, we belong to the lineage of paul, our books are designed to be storage of God's mystery kept for the age and generations coming.",
+
+"The Gospel of immortality is that trumpet, and who hear it and believe it, will literally be walking upon the surface of this Earth and be walking out of the Earth like Enoch.",
+
+"Show me those that miss the first coming of Jesus Christ, they are those who hold unto the prophecy with all their heart and be literally expecting it to come to pass, so when Jesus appeared he doesn't look like it, they expect the Messiah to land from Heaven with crown in his head shining like angels, but when the Messiah came, he was born in a manger, into a poor family.",
+
+"Show me who are literally waiting for the second coming of Jesus and trumpet again, i will show you those that will miss rapture that the trumpet has started blowing now, they will never believe it, they will never believe that the trumpet is a gospel, not Gospel of Salvation, not Gospel of Grace and Faith, But the Gospel of immortality.",
+
+"It is either your immortality is swallowed up by mortality or your immortality is swallowed up by mortality.",
+
+"And if your mortality is swallowed up by immorality then you pass through rapture into the other side, that is, you pass through into the other side of the world like Enoch, which is an act of not tasting death.",
+
+"But If your immortality is swallowed up by mortality then you pass through death into the other world.",
+
+"Many of us didn't know that just as Christ become poor so that through his poverty we might be rich, he become sin for us so that we can become the righteousness of God, by his stripes as are healed so also he tasted death for us so that through his death we shall not tasted death again.",
+
+"If Christ has physically died for us, it means we can physically live on this Earth without tasting death for him and get out of this Earth the way he do.",
+
+"That is, we literally live on Earth and our mortality will be swallowed up by our immortality.",
+
+"There are two things inside of us, Viz;",
+
+"1. There are mortality aspect of us. And,",
+
+"2. There are immortality aspect of us.",
+
+"And there is a way God designed us to feed that immortality to the stage that it will gain dominion over the mortality aspect of us.",
+
+"Just as we have the natural and the spiritual aspect of us, the visible and the invisible aspect of us, so also we have the mortality and the immortality aspect of us.",
+
+"Look at the scripture again,",
+
+",1 Corinthians 15:54 So when this corruptible has put on incorruption, and this mortal has put on immortality, then shall be brought to pass the saying that is written: “Death is swallowed up in victory.”",
+
+"This scripture is pointing to two dimensions of us we don't pay attention to.",
+
+"We mostly talk about the natural, supernatural and spiritual aspects of us those aspect is not what we use to swallow up death in victory.",
+
+"But this scripture begin to talk about incorruptible aspect of us, the immortality aspect of us, and the scripture through paul now say something that gives me sorrow in this scripture that even though in the realm of God, death has been swallowed up in victory.",
+
+"But Paul begin to say that this can't become reality in us until the corruptible part of us has been swallowed up by the immorality in us, until the corruptible has put on the incorruptible, paul said once this has happened then death is swallowed up in victory.",
+
+"The plan of God is that just as we grow our spiritual life so also we grow our Immortal life.", 
+
+"And the message for this two are different, there are messages that grow our spiritual life why there are messages designed to grow our immortal life.",
+
+"The hidden wisdom of God which we communicate by mystery is what God designed to grow the immortality in us.",
+
+"Just as flesh is the opposite of Spirit so also biological life is the opposite of eternal life, the plan of God is for the life of God in us called the eternal life to swallow up the life of man in us.",
+
+"For instance if you are spiritual, you will not fufil the lust of the flesh, you will begin to manifest the fruit of the SPIRIT, like love, peace, joy, kindness among others.",
+
+"But you can be spiritual and still sick again, because spirituality only make you to overcome your carnal life not your natural life, you overcome the flesh but not the body.",
+
+"So both fruit of the Spirit and fruit of a natural man like sickness, weakness, death can be manifesting in your life at the same time.",
+
+"But when you grow your spiritual life and the fruit of the spirit and you also grow your immortal life, the fruit will be divine health, that is, the disease and the limitations of the natural body can't control you again, instead of sickness to come to your body and you die, sickness will come to your body and die, because you are carrying a life of God in this body.",
+
+"You stand in a circumstance without talking and the circumstances begin to change, because they are hearing the voice of your presence, this is when time become what you control and not what controls you.",
+
+"Jesus lived as a supernatural and spiritual man before he died, but when he resurrected, he begin to live as an immortal man, he live on Earth for days as an immortal man, he taught his disciples for 40 days as an immortal man things pertaining to the kingdom of God.",
+
+`Acts 1:3
+To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:`,
+
+"Those things he taught his disciples was not recorded in the scriptures, Because they are strange things that a normal man cannot swallow.",
+
+"It it during this 40 days teaching that the immortality aspect of the disciples was able to grow, that is why you see Peter sleeping in prison when they took the head of James in his presence.( Act 12:1-6)",
+
+`Acts of the Apostles 12:6
+[6]The night before Peter was to be placed on trial, he was asleep, fastened with two chains between two soldiers. Others stood guard at the prison gate.`,
+
+"How can you be in this condition at the valley of shadows of death and yet be asleep, What he displayed in that place is not a proof of spirituality, that is not a nature of spirituality, that is the nature of immortality.",
+
+"A spiritual man can still be afraid of death, no matter how spiritual you may be, you will be afraid of death, because the reality of spirituality does not capture the ability not to fear death, it only captures the ability not to fear tomorrow.", 
+
+"The supernatural aspect of you enable you not to fear demons",
+"The spiritual aspect of you enable you not to fear tomorrow.",
+"The immortal aspect of you enables you not to fear death.",
+
+"Because there are natural aspect of man, supernatural aspect of man, spiritual aspect of man and immortal aspect of man, and there are food ordained to feed this four aspect of man.",
+
+"Literal food feed the natural aspect of man.",
+
+"Hearing the call of God and responding is the voice and word that wake and feed the supernatural aspect of us, once God called you into certain assignment and you respond he anoint you for that assignment, that gift and the anointing for his assignment is what make you supernatural.",
+
+"Hearing the Gospel and message of Faith and Grace is the voice that feed the spiritual aspect of us and builds us, that is why the scripture say I commend you to the message of his Grace which is able to build you.",
+
+`Acts of the Apostles 20:32
+[32]“And now I entrust you to God and the message of his grace that is able to build you up and give you an inheritance with all those he has set apart for himself.`,
+
+"Why hearing the mystery of God, mystery of the kingdom and the hidden wisdom of God which we communicate in mystery is what you need to feed and grow the immortality aspect of us into manifestation.",
+
+"Because it take an immortal man to stand before death and be sleeping in peace like baby as Peter did in prison.",
+
+"Everything Jesus taught his disciples before his death is for their spiritual life, why everything he taught them after his resurrection which are things pertaining the kingdom of God not recorded, is for their immortal life, the power they waited for at Pentecost is for supernatural life.",
+
+`The medical doctors teach things pertaining to your natural and biological life,
+we teach thing pertaining to supernatural life which  your calling, So we teach things pertaining to your spiritual life also which is the message of Grace and Faith, we also teach things pertaining to your immortal life also which is the hidden wisdom of God we communicate in mystery that has been ordained for us before the foundation of the world, this is the message from the wisdom of the world to come.`,
+
+"Just as we have the power of the world to come, so also we have the wisdom of the world to come.",
+
+"And this wisdom of the world to come is what paul described as the hidden wisdom of God which we communicate in mystery.",
+
+"1 Corinthians 2:7 But we speak the wisdom of God in a mystery, the hidden wisdom which God ordained before the ages for our glory,",
+
+"This wisdom we don't communicate them in principles and we don't communicate them in revelations.",
+
+"The wisdom of God we communicate in principles they are for our natural life on Earth, because this Earth is governed by principles.",
+
+"The wisdom of God we communicate in revelations are for our spiritual life because the spiritual life is governed by Faith and Grace and he feed on the light of revelation.",
+
+"Why the hidden wisdom which we communicate in mystery are for our immortal life because the immortal life is governed by mystery, it survived by mystery, it grows by mystery.",
+
+"That is why paul said we are not just only a servant of Christ we are also stewards of the mystery of God.",
+
+"As a servant of Christ you feed the spiritual life of men and grow their spiritual life, you work as shepherd and men following you are like sheep.",
+
+"But as Steward of the mystery of God, you feed the immortality of people at the conference house of immortality, you work as custodian of God's mystery and men follow you as immortals.",
+
+"Feeding on this kind of mystery is what make your corruptible life to be swallowed up by the incorruptible in you and your mortality is swallowed up by immortality and the scripture say when this happens, death is swallowed up in victory over your life.",
+
+"Many of us are just confessing by Faith that death is swallowed up in victory but we died as though we have not swallowed up death in victory.", 
+
+"And we are shying away from this reality.",
+
+"You may say you don't need messages that have to do with the mystery of the kingdom and mystery of God, you are just saying you don't need the food that the immortality dimension of you need to survive, you don't need the food that the eternal life in you need to manifest.",
+
+"And the manifestation of the eternal life in us is the IMMORTALITY.",
+    
+    ],
+  },
+  {
+    id: 9,
+    page: "7a",
+    bookName: "Banjo Ayeka Diary",
+    title: "The Hidden Wisdom.",
+    content: [
+    "1 Corinthians 2:7 But we speak the wisdom of God in a mystery, the hidden wisdom which God ordained before the ages for our glory,",
+
+"Paul is talking about something here which we need to pay attention to, he was talking about the hidden wisdom of God, the uniqueness of this wisdom and how this wisdom is designed to be communicated.",
+
+"1. First, when he begin to talk about this hidden wisdom he said it is a wisdom that was ordained for us before the foundation of the world, that is, this are the kind of wisdom we could be eating how I wish Adam didn't fall, it is not a wisdom that contain how to get what we lack, but it is a wisdom that contain how to use what God has freely created for us to produce what we will give to others.",
+
+"There are wisdom we begin to feed ourselves with after the fall, which was not ordained for our glory, and the plan of God is that after you have been raised with Christ and have received eternal life, you must be introduced back to this wisdom, because the scripture say this wisdom is the main tree of life.",
+
+"Proverbs 3:13 Happy is the man who finds wisdom, And the man who gains understanding;",
+
+"Proverbs 3:18 She is a tree of life to those who take hold of her, And happy are all who retain her.",
+
+"Verse 13 says happy is the man that finds wisdom, verse 18 say that wisdom is the tree of life, the ending part of verse 18 now say happy is the man that retain this tree of life( wisdom)",
+
+"The problem of Adam was that he found the wisdom but he could not retain it' so he lost it.",
+
+"That is why the scripture say truly happy are you when you found the wisdom, but happy are you also when you retain it.",
+
+"Meaning, when Adam was sent out of the garden of Eden and was prevented from eating the tree of life, that tree of life is wisdom, meaning God send Adam out of where he can feed from the wisdom of God.",
+
+"That is, tree of life is the tree of the hidden wisdom of God, meaning, when God ask him to eat the tree of life, God was opening a dimension of portals for him in the Spirit where he can have access to the hidden wisdom of God.",
+
+"Now this is my question, if the scripture describe the tree of life to be wisdom, and God seperate Adam from that tree of life, meaning, for over 4000 years men was banned from accessing the hidden wisdom of God until christ who is the wisdom came again.",
+
+"Until Christ came and begin to give us access back to the garden of Eden, because for some of us now we are in Eden, we have seen the tree of life, personally I have seen the tree of life, every of the mystery you are reading in this teaching, are product of what I eat from that tree.",
+
+"It is that tree of life that contain the hidden wisdom of God that God ordained for us before the ages, and once you have received eternal life, you need information from the tree of life to grow the eternal life in you to the stage where the fruit will be a manifestation of the immortality in you.",
+
+"And Paul begin to say that this wisdom is hidden, it is not the open wisdom of God, it is the hidden wisdom of God.",
+
+"1 Corinthians 2:7 But we speak the wisdom of God in a mystery, the HIDDEN WISDOM which God ordained before the ages for our glory,",
+
+"Because just as we have the open wisdom of God which we communicate as law and principles so also we have the hidden wisdom of God which we communicate in mystery.",
+
+"The open wisdom of God is the one that came through Moses as law, which Moses begin to teach the children of Israel.",
+
+"Kindly see it in this scripture;",
+
+"Deuteronomy 4:5 “Surely I have taught you statutes and judgments, just as the Lord my God commanded me, that you should act according to them in the land which you go to possess.",
+
+"Deuteronomy 4:6 Therefore be careful to observe them; for this is your wisdom and your understanding in the sight of the peoples who will hear all these statutes, and say, ‘Surely this great nation is a wise and understanding people.",
+
+"In verse 4 Moses said he has taught them statutes and judgement of God as the lord has commanded him, and in verse 5 he begin to say that this statutes and judgement are your wisdom and understanding in the sight of man.",
+
+"Someone is saying if this law and statutes that came through Moses are open wisdom of God, why did scripture now say we are no longer under the law but under grace, does that mean we are no longer under this open wisdom?",
+
+"Yes, this wisdom is the law that came through Moses and the good news is that we are no longer under them, why? Because they are now in us!",
+
+"The scripture say i will write the same law (wisdom) inside of you and put them in your mind.",
+
+"Hebrews 8:10 For this is the covenant that I will make with the house of Israel after those days, says the Lord: I will put My laws in their mind and write them on their hearts; and I will be their God, and they shall be My people.",
+
+"Under the old covenant you are under the law, you are under the wisdom and instead of the wisdom to benefit you, it curses you, because cursed is everyone that is under the law.",
+
+`Galatians 3:10 The Law Brings a Curse
+For as many as are of the works of the law are under the curse; for it is written, “Cursed is everyone who does not continue in all things which are written in the book of the law, to do them.”`,
+
+"And we all know that no one can continue to do all that is written in the law, you will surely offend in one, and the scripture say if you obey 99 and failed in just one , you are guity of all.",
+
+`NKJV, James 2:10
+For whoever shall keep the whole law, and yet stumble in one point, he is guilty of all.`,
+
+"So you can't be under the law  and be free from Gods curse.",
+
+"But under the New Covenant now, we are no longer under the law because the law is now in us, God has put the law in us as a seed now manifesting as the fruit of the SPIRIT.",
+
+"And this scripture now said aside this nine fruit of the SPIRIT there is no other law again.",
+
+"Galatians 5:22 But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness,",
+
+"Galatians 5:23 gentleness, self-control. Against such THERE IS NO LAW.",
+
+"So the law is no longer ten commandments, the law is now nine fruit of the spirit, the wisdom is no longer a law, it is now a fruit.",
+
+"Moses came and make it ten commandments, Jesus came and summarises them into two (love your God and your neighbor) and he said aside this two there is no law.",
+
+"But when HOLY SPIRIT came he summarise everything into nine fruit.",
+
+"James 3:17 But the wisdom that is from above is first pure, then peaceable, gentle, willing to yield, full of mercy and good fruits, without partiality and without hypocrisy.",
+
+"You can see how the open wisdom from above manifest, he doesn't manifest in oratory, it manifest in character.",
+
+"So all this are the open wisdom of God which are communicated in principles of how to behave in life.",
+
+"But coming to 1 Corinthians 2:7  Paul begin to talk about a certain wisdom and he said this wisdom is called the hidden wisdom of God and we don't communicate this wisdom in principles, we communicate it in mystery.",
+
+"1 Corinthians 2:7 But we speak the wisdom of God in a mystery, the hidden wisdom which God ordained before the ages for our glory,",
+
+"Infact this hidden wisdom of God we don't communicate it by revelation, we only communicate it in mystery.",
+
+"There are wisdom of God communicated in principles",
+"There are wisdom of God we communicate in revelation",
+"Why there are wisdom of God we communicate in mystery.",
+
+"The wisdom of God we communicate in revelation are the mystery we communicate and also explan by ourselves in other for people to understand, that is, we receive that wisdom from God as mystery but we didn't communicate it in mystery, but we begin to communicate it in revelation, that is, we received it in mystery but begin to explain it by ourselves for people to understand it based on the understanding we give them by explanations.",
+
+"Why the hidden wisdom we communicate in mystery are the message we write and trust God for Holy Spirit to explain and interpret it for us by himself. At this level if I write one paragraph, you will have to purse and pray to Holy spirit to help you understand what I am saying.",
+
+"That is, the hidden wisdom of God we communicate in revelation we explain it for people by ourselves, why the hidden wisdom of God we communicate in mystery, we say and write it and trust the Holy Ghost to do the explanation and interpretation for people by himself.",
+
+"It is the writing of the kingdom that I am only permitted to write but I am not permitted to explain.",
+
+"All I said to myself after writing is to speak like John that let him that have understanding understand the meaning of this sayings.",
+
+"Revelation 13:18 Here is wisdom. Let him who has understanding calculate the number of the beast, for it is the number of a man: His number is 666.",
+
+"This kind of hidden wisdom we communicate in mystery, was communicated in mystery because that is the only grace available, we are only given the grace to know it and say it, not to know it and explan it, if i try to begin to explain it beyond the grace of explanation available, i will complicate the matter the more.",
+
+"Because just as we have the grace of revelation so also we have the grace of explanation.",
+
+"It is a situations whereby the Grace to write it was only what God supply but the grace to explain it was not given.",
+
+"Men like E.W kenyon also walk in this reality, men of his generation never understand what he was writing, some of his books was banned from the body of Christ in his generation.",
+
+"But close to 100 years later Holy Spirit begin to teach us himself those things he wrote in his books.",
+
+"Just imagine someone who have wrote on eternal security close to years ago and yet 100 years after many can't still comprehend it.",
+
+"Just imagine if 100 years after many can't still understand that once they are saved they can't lose their salvation, now imagine those that exist in his days when those writing was published, they will almost stone him to death and call his light Darkness.",
+
+"People didn't know that when you speak and a natural man can understand what you are saying then what you are saying is not the light from God.",
+
+"The scripture say and the light shine and darkness cannot comprehend it.",
+
+"John 1:5 And the light shines in the darkness, and the darkness did not comprehend it.",
+
+"The word comprehend mean understand it, meaning, what that scripture is saying is that if we shine our light by teaching the light (Revelational knowledge) darkness cannot understand what we are saying.",
+
+"They will pay attention and yet they will not understand, the scripture didn't say our light will overcome darkness, he didn't say darkness will not be able overcome it, the emphasis of that scripture is that darkness will not understand it.",
+
+"They will pick Banjo Ayeka's DIARY and they will not be able to understand it, if they can understand then what I am sharing is not a true light.",
+
+"Meaning, if a natural man can pick my teaching and they can understand it then it is not a light from God.",
+
+"It is light when it is given to darkness and darkness cannot comprehend it.",
+
+"Someone say do darkness have intelligence to comprehend?",
+
+"Yes, they can comprehend, if you argue that it means you don't know darkness.",
+
+"If the scripture say we are the light of the world, it means men also are the darkness of the world.",
+
+"Meaning, darkness are human beings!",
+
+"And the scripture say this human beings called darkness they will not be able to comprehend what we are saying.",
+
+"The scripture say a natural man no matter how you explain to them, they cannot comprehend the things of the Spirit.",
+
+"So if a natural man now come to your church and begin to pick sense and understanding from what you are saying then what you are releasing is not light, it is not spiritual things.",
+
+"You are only speaking into the intelligence and sense of man, you are not speaking to their Spirit.",
+
+"There are men of God that all they do is to speak into the intelligence and sense of man, they claim they are called to minister to educated people.",
+
+"But when God give you a message, you are to speak into the Spirit of man, in this realm your education has no advantage, you can be a professor and know nothing about the mystery of the kingdom and you can be an illiterate in terms of academic standard of this world and know much about the mystery of the kingdom.",
+
+"That is why you can't use explanation of the message of the kingdom to bring anyone into Salvation, it must be light of the gospel that will enter into their heart and make them come to the knowledge of Christ, it is not by much persuasion of eloquence that lead to conviction, it is an encounter with light that lead to conviction.",
+
+"That is why we don't try to explain beyond the Grace given to us, because there are people that will never come to the understanding of what you are saying even though you use Heaven and Earth to explain, because it has not been given to them to know the mystery of the kingdom.",
+
+`Luke 8:10 And He said, “To you it has been given to know the mysteries of the kingdom of God, but to the rest it is given in parables, that
+‘Seeing they may not see,
+And hearing they may not understand.’`,
+
+"Meaning knowing the mystery of the kingdom is a gift, there are level of spiritual intelligence that must be given to you by God to comprehend it, just as teaching the mystery of the kingdom is a gift, you must be a steward of Gods mystery to teach it, so also knowing it is a gift, you must have some level of spiritual intelligence to know it.",
+
+"I am only ordained by God to write to those whom have been given to know the mystery of the kingdom.",
+
+"And if you don't belong to that lineage God only speak to you in parables and limit you to the open wisdom of God, so all what God is teaching you for 20 years is the message of holiness and righteousness, all your message is about attacking the wrong of everyone and correcting the right of everyone and you called it holiness message.",
+
+"When you are ready to build the immortality in you to manifestation, you will see God bringing you across messages that contain the hidden wisdom of God which we communicate in mystery.",
+
+"Because no man become immortal until he have encounter with the mystery of the kingdom, until he encounter the message of men who are stewards of the mystery of God.",
+
+    
+    ],
+  },
 ];
