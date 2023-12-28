@@ -1,5 +1,4 @@
 import BooksLibrary from "../components/books-library";
-import Footer from "../components/footer";
 import Navbar from "../components/navbar";
 import { books } from "../data/library";
 

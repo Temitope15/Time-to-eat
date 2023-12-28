@@ -1,5 +1,4 @@
 import { BsPenFill } from "react-icons/bs";
-import Footer from "../components/footer";
 import BooksLibrary from "../components/books-library";
 import { books } from "../data/library";
 import Card from "../components/card";
@@ -9,13 +8,16 @@ import Navbar from "../components/navbar";
 import TimeToEat from "../components/time-to-eat";
 import AudioTeaching from "../components/audio-teachings";
 import { SiBookstack } from "react-icons/si";
-import { MdOutlineNavigateNext } from "react-icons/md";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
+import ViewMore from "../components/view-more-btn";
+import { MdOutlineNavigateNext } from "react-icons/md";
 
 const Home = () => {
   const slicedBooks = books.slice(0, 3);
   const currentBook = "Banjo Ayeka Diary";
+  const slicedDiary = banjoDiary.slice(-1);
+
   const bookLibraryText = "Books written by Pastor Banjo Ayeka";
 
   return (

@@ -5,6 +5,9 @@ import DiaryPages from "./pages/diaryPage";
 import NotFound from "./components/NotFound";
 import BookDescription from "./components/BookDescription";
 import Footer from "./components/footer";
+import Diary from "./pages/diary";
+import AboutBanjo from "./pages/about";
+import Contact from "./pages/contact";
 
 const App =() =>{
   return(
@@ -13,8 +16,10 @@ const App =() =>{
           <Route path="/" element={<Home/>} />
           <Route path="book-list" element={<BooksList/>}/>
           <Route path="/book-list/:bookId" element={<BookDescription/>} />
-    
-          <Route path="/diary/:id" element={<DiaryPages/>} />
+          <Route path="/diary" element={<Diary/>} />
+          <Route path="/about" element={<AboutBanjo />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/diary/:id/" element={<DiaryPages/>} />
          
           <Route path="*" element={<NotFound/>} />
         </Routes>

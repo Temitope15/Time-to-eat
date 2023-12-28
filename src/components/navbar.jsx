@@ -58,7 +58,7 @@ export const MyComponent = () => {
               </Link>
             </li>
             <li className="  border-slate-500  hover:bg-yellow-500">
-              <Link className="block px-6 py-6" to={"/book-list"}>
+              <Link className="block px-6 py-6" to={"/about"}>
                 About
               </Link>
             </li>

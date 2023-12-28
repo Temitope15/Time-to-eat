@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 const data = [
   { title: " Sunday", time: "9:00am WAT" },
-  { title: " Wednesday", time: "5:00pm WAT" },
+  { title: " Wednesday", time: "6:00pm WAT" },
 ];
 
 const slideIn = {
@@ -44,7 +44,7 @@ const AudioTeaching = () => {
         </div>
         <h2 className=" font-semibold text-gray-900 text-center p-4">
           You can also access his Audio Teachings by{" "}
-          <Link to="telegram" className="font-bold text-blue-500">
+          <Link to="https://t.me/c/1810377308/210" className="font-bold text-blue-500">
             clicking here
           </Link>
         </h2>
