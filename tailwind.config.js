@@ -8,7 +8,7 @@ export default {
     fontFamily: {
       'primary': ['Open Sans', "sans-serif"],
       'secondary':['Asul', 'serif'],
-      'tertiary':['Indie Flower', 'cursive'],
+      'tertiary':['Comic Neue', 'cursive'],
      
     extend: {
       
