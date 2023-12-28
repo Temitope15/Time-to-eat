@@ -3,19 +3,20 @@ import Footer from "../components/footer";
 import Navbar from "../components/navbar";
 import { books } from "../data/library";
 
-
 const BooksList = () => {
-    return ( <div>
-    <Navbar showSearch={false}/>
-        <div className="md:p-8">
-            <h3 className="p-2 text-center text-lg italic font-semibold">Below are the books Pastor Banjo has written over the years</h3>
-            <BooksLibrary books={books}/>
-        </div>
+  return (
+    <section>
+      <Navbar showSearch={false} />
+      <div className="py-24">
+        <h3 className="p-2 text-center text-lg italic font-semibold">
+          Below are the books Pastor Banjo has written over the years
+        </h3>
+        <BooksLibrary books={books} instersection={{ once: true }} />
+      </div>
+    </section>
+  );
+};
 
-
-    </div> );
-}
- 
 export default BooksList;
 
 /**

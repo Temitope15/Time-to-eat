@@ -1,24 +1,34 @@
 /* eslint-disable react/prop-types */
 import { Link } from "react-router-dom";
-
+import { motion } from "framer-motion";
 const data = [
   { title: " Sunday", time: "9:00am WAT" },
   { title: " Wednesday", time: "5:00pm WAT" },
 ];
 
+const slideIn = {
+  opacity: [0, 1],
+  scale: 1,
+};
+
 const Card = ({ title, time }) => {
   return (
-    <div className="card shadow-lg border-b-4 border-blue-500 p-4 cursor-pointer text-center min-w-[8rem] hover:bg-blue-500 hover:text-white hover:border-blue-700 rounded-md">
+    <motion.div
+      initial={{ scale: 0 }}
+      whileInView={slideIn}
+      transition={{ duration: 0.4, delayChildren: 1 }}
+      className="card shadow-lg border-b-4 border-blue-500 p-4 cursor-pointer text-center min-w-[8rem] hover:bg-blue-500 hover:text-white hover:border-blue-700 rounded-md"
+    >
       <p>Every {title}</p>
       <p className="font-bold">{time}</p>
-    </div>
+    </motion.div>
   );
 };
 
 const AudioTeaching = () => {
   return (
     <>
-      <div className="container mx-auto px-4 py-10">
+      <motion.div className="container mx-auto px-4 py-10">
         <div className="space-y-4">
           <h2 className="text-xl text-center px-3 md:px-0 font-bold">
             Come fellowship at the{" "}
@@ -38,7 +48,7 @@ const AudioTeaching = () => {
             clicking here
           </Link>
         </h2>
-      </div>
+      </motion.div>
     </>
   );
 };

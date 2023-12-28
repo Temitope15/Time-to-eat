@@ -1,17 +1,34 @@
-
 /* eslint-disable react/prop-types */
-const BooksLibrary = ({ books }) => {
+import { motion } from "framer-motion";
+
+const BooksLibrary = ({ books, instersection }) => {
+  const variants = {
+    rotateReveal: {
+      rotateY: ["-50deg", 0],
+      opacity: [0, 1],
+    },
+  };
   return (
     <>
-      
-      <div className="container mx-auto relative">
-        {books.map((book) => (
-          <div
-            className="flex  gap-4 shadow-sm p-4 mb-2 hover:bg-slate-300 cursor-pointer justify-between items-center"
+      <div className=" mx-auto relative sm:flex  flex-wrap  ">
+        {books.map((book, id) => (
+          <motion.div
+            initial={{ rotateY: "-90deg" }}
+            whileInView="rotateReveal"
+            transition={{
+              duration: 1,
+              repeat: 0,
+            }}
+            viewport={instersection}
+            variants={variants}
+            className=" lg:basis-[33%] sm:basis-1/2  gap-4 shadow-sm p-4 mb-2 hover:bg-yellow-100  cursor-pointer justify-between items-center rounded-md"
             key={book.id}
           >
-            <div className="flex gap-3 items-center">
-              <img src={book.image} className="w-[100px] h-[100px] "></img>
+            <div className=" gap-3 items-center block py-2">
+              <img
+                src={book.image}
+                className="w-full h-32 object-cover rounded-sm "
+              ></img>
               <div>
                 <h2 className="font-bold">{book.title}</h2>
                 <p className="italic font-semibold"> By {book.author}</p>
@@ -19,15 +36,19 @@ const BooksLibrary = ({ books }) => {
             </div>
 
             <div>
-              <button className="w-24 py-2 text-white bg-blue-500 rounded-md hover:border hover:bg-white border-blue-500 hover:text-blue-500">
-                <a href={book.link} target="_blank" rel="noreferrer">
+              <button className="w-full py-2 border text-white bg-blue-500 rounded-md hover:border hover:bg-white border-blue-500 hover:text-blue-500">
+                <a
+                  href={book.link}
+                  className="block"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   Get Book
                 </a>
               </button>
             </div>
-          </div>
+          </motion.div>
         ))}
-        
       </div>
     </>
   );
