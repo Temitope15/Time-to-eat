@@ -8,7 +8,7 @@ export default {
     fontFamily: {
       'primary': ['Open Sans', "sans-serif"],
       'secondary':['Asul', 'serif'],
-      'tertiary':['Comic Neue', 'sans-serif'],
+      'tertiary':['Handlee', 'sans-serif'],
      
     extend: {
       
