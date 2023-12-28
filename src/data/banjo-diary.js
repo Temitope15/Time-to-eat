@@ -1227,453 +1227,226 @@ I have said, Ye are gods; And all of you are children of the most High.`,
     page: "6a",
     bookName: "Banjo Ayeka Diary",
     title: "The Immortality in Man.",
-    content: ["Ephesians 5:16 redeeming the time, because the days are evil.",
+    content: [
+      "Ephesians 5:16 redeeming the time, because the days are evil.",
 
-    "God's time is not something you wait for, it is something you enter into.",
-    
-    "It is a realm, once you enter into that realm you have the capacity to do two things, First you can redeem the time under the heaven  and you can also control the time under the Heaven.",
-    
-    "Salvation is not only when you are saved from sin, that is just the first Salvation.",
-    
-    "There are many who are saved from sin but are still slave of time, time and chance still determines what happen to them, any one in this realm still need the second dimension of Salvation.",
-    
-    "The last dimension of Salvation is when you are saved from this body, and this is what the second coming of Jesus is coming to do, to save us from this body.",
-    
-    "So you must be saved from sin, you must be saved from time, and you must be saved from your mortal body.",
-    
-    `Get this, there is a position we lost in Adam that Christ has restored back to us and that position is called the LORD OF ALL.`,
-    
-    "Galatians 4:1 Now I say that the heir, as long as he is a child, does not differ at all from a slave, though he is LORD OF ALL.",
-    
-    "Meaning, you are also lord of time.",
-    
-    "The fall of Adam make him to fall from the realm of time of God into the realm of time of man.",
-    
-    "He fell from a realm wher time submits to him to where he now submit to time.",
-    
-    "Before he fell he determines what happen in time, but after the fall, time determines what happen to him.",
-    
-    "From a realm where he create circumstances to a realm where he become victim of circumstances, this now become our reality, time now become what we wait for , season now become what we wait for before doing anything.",
-    
-    "Because that now determines what happen to all things.",
-    
-    "Ecclesiastes 9:11 ....... ,Nor favor to men of skill, But time and chance happen to them all.",
-    
-    "This scripture is a reality for everyone under the sun, who have not enter into the realm of Gods time where both the past, present and future is now.",
-    
-    "And in the realm of the time of God, future is behind, but in the time of man future is ahead.",
-    
-    "So when you are in the time of God, everything is now, if you think it now, you can have it now.",
-    
-    "In that realm there is nothing like God's time has not come, the time is Now!",
-    
-    "And God want us to enter that realm with this our body before rapture, where we speak, think and talk from a realm where time doesn't exist into realm where time exists so that time under heaven itself will hear us and obey.",
-    
-    "Because if i ask you to mention your enemy, you will mention devil, sin, demon, but you didn't know that one of your greatest enemy is TIME.",
-    
-    "Time doesn't want to  come to you, you keep on saying my time has not come, the fact is that you dont have time under the sun, so there will never be day that your time will come, because that time is your enemy, the time is in the hand of the enemy, what you are to do is to redeem the time from him.",
-    
-    "Ephesians 5:16 redeeming the time, because the days are evil.",
-    
-    "Just has Christ has redeemed you from the devil , so also you redeemed the time from the devil.",
-    
-    "There are season of our life when we are to submit to time and wait for time, we saw jesus also doing the same thing, and there are season of our life also when we must be save from time and have dominion and control over time, we also saw christ doing the same thing.",
-    
-    "One of the error many of us made including me is that we begin to learn Jesus rather than learning Christ.",
-    
-    "We are beholding Jesus rather than beholding Christ, that is why our experience cannot capture the reality of Christ.",
-    
-    "Get this, every supernatural you see displayed by Jesus in his earthly ministry is not the manifestation of the son of God, that is just the manifestation of the servant of God.",
-    
-    "There is no manifestation you see in him that you can't traced to all the old testament prophet like Elijah and Moses, all of them raised the dead, they turn water to wine.",
-    
-    "Infact Moses turn water to blood.",
-    
-    "But all those life are still what we are beholding and that is why we cannot do more than what Jesus did.",
-    
-    "Jesus was telling us that more than what i did you'll do.But we can't comprehend what Jesus was saying.",
-    
-    "Get this by divine designed, our life should begin at Resurrection', we should start beholding christ after resurrection not before resurrection, every of the manifestation you see in him before the cross are all manifestation of the servant of God, he began to manifest his sonship capacity beginning after resurrection and that is the dimension of him that have dominion over time.",
-    
-    "Things Jesus begin to do after resurrection should be the reality of our life because we have been resurrected with Christ.",
-    
-    "The dimension many of us are beholding have been buried and that is Jesus Christ.But Jesus didn't resurrect, it was Christ that resurrected.",
-    
-    "Jesus of Nazareth was buried' but only christ ressurated.",
-    
-    "The Jesus Christ that was buried was Jesus that raised the dead and heal the sick, but Christ that was resurrected was the one walking through the wall.",
-    
-    "So that resurrected Christ is not subjected to time and season, he is the lord of time and season, he is not subjected to nature, he controls nature.",
-    
-    "That is who Adam was before he fell, he had dominion over all things created by God.",
-    
-    "Kindly look at this scripture to see our reality.",
-    
-    `Psalms 8:6 You have made him to have DOMINION OVER THE WORKS OF YOUR HAND;
+      "God's time is not something you wait for, it is something you enter into.",
+
+      "It is a realm, once you enter into that realm you have the capacity to do two things, First you can redeem the time under the heaven  and you can also control the time under the Heaven.",
+
+      "Salvation is not only when you are saved from sin, that is just the first Salvation.",
+
+      "There are many who are saved from sin but are still slave of time, time and chance still determines what happen to them, any one in this realm still need the second dimension of Salvation.",
+
+      "The last dimension of Salvation is when you are saved from this body, and this is what the second coming of Jesus is coming to do, to save us from this body.",
+
+      "So you must be saved from sin, you must be saved from time, and you must be saved from your mortal body.",
+
+      `Get this, there is a position we lost in Adam that Christ has restored back to us and that position is called the LORD OF ALL.`,
+
+      "Galatians 4:1 Now I say that the heir, as long as he is a child, does not differ at all from a slave, though he is LORD OF ALL.",
+
+      "Meaning, you are also lord of time.",
+
+      "The fall of Adam make him to fall from the realm of time of God into the realm of time of man.",
+
+      "He fell from a realm wher time submits to him to where he now submit to time.",
+
+      "Before he fell he determines what happen in time, but after the fall, time determines what happen to him.",
+
+      "From a realm where he create circumstances to a realm where he become victim of circumstances, this now become our reality, time now become what we wait for , season now become what we wait for before doing anything.",
+
+      "Because that now determines what happen to all things.",
+
+      "Ecclesiastes 9:11 ....... ,Nor favor to men of skill, But time and chance happen to them all.",
+
+      "This scripture is a reality for everyone under the sun, who have not enter into the realm of Gods time where both the past, present and future is now.",
+
+      "And in the realm of the time of God, future is behind, but in the time of man future is ahead.",
+
+      "So when you are in the time of God, everything is now, if you think it now, you can have it now.",
+
+      "In that realm there is nothing like God's time has not come, the time is Now!",
+
+      "And God want us to enter that realm with this our body before rapture, where we speak, think and talk from a realm where time doesn't exist into realm where time exists so that time under heaven itself will hear us and obey.",
+
+      "Because if i ask you to mention your enemy, you will mention devil, sin, demon, but you didn't know that one of your greatest enemy is TIME.",
+
+      "Time doesn't want to  come to you, you keep on saying my time has not come, the fact is that you dont have time under the sun, so there will never be day that your time will come, because that time is your enemy, the time is in the hand of the enemy, what you are to do is to redeem the time from him.",
+
+      "Ephesians 5:16 redeeming the time, because the days are evil.",
+
+      "Just has Christ has redeemed you from the devil , so also you redeemed the time from the devil.",
+
+      "There are season of our life when we are to submit to time and wait for time, we saw jesus also doing the same thing, and there are season of our life also when we must be save from time and have dominion and control over time, we also saw christ doing the same thing.",
+
+      "One of the error many of us made including me is that we begin to learn Jesus rather than learning Christ.",
+
+      "We are beholding Jesus rather than beholding Christ, that is why our experience cannot capture the reality of Christ.",
+
+      "Get this, every supernatural you see displayed by Jesus in his earthly ministry is not the manifestation of the son of God, that is just the manifestation of the servant of God.",
+
+      "There is no manifestation you see in him that you can't traced to all the old testament prophet like Elijah and Moses, all of them raised the dead, they turn water to wine.",
+
+      "Infact Moses turn water to blood.",
+
+      "But all those life are still what we are beholding and that is why we cannot do more than what Jesus did.",
+
+      "Jesus was telling us that more than what i did you'll do.But we can't comprehend what Jesus was saying.",
+
+      "Get this by divine designed, our life should begin at Resurrection', we should start beholding christ after resurrection not before resurrection, every of the manifestation you see in him before the cross are all manifestation of the servant of God, he began to manifest his sonship capacity beginning after resurrection and that is the dimension of him that have dominion over time.",
+
+      "Things Jesus begin to do after resurrection should be the reality of our life because we have been resurrected with Christ.",
+
+      "The dimension many of us are beholding have been buried and that is Jesus Christ.But Jesus didn't resurrect, it was Christ that resurrected.",
+
+      "Jesus of Nazareth was buried' but only christ ressurated.",
+
+      "The Jesus Christ that was buried was Jesus that raised the dead and heal the sick, but Christ that was resurrected was the one walking through the wall.",
+
+      "So that resurrected Christ is not subjected to time and season, he is the lord of time and season, he is not subjected to nature, he controls nature.",
+
+      "That is who Adam was before he fell, he had dominion over all things created by God.",
+
+      "Kindly look at this scripture to see our reality.",
+
+      `Psalms 8:6 You have made him to have DOMINION OVER THE WORKS OF YOUR HAND;
     You have put all things under his feet`,
-    
-    "Take note of a statement in that scripture, you have made him to have dominion over the works of your hands and put all things under his feet including time.",
-    
-    "Meaning, if time is part of the work of God's hands, then man is designed to have dominion over time.",
-    
-    "If law of nature is part of the works of the hand of God then man is designed to have dominion over law of nature.",
-    
-    "If death is part of the hand work of God then man is designed to have dominion over the death.",
-    
-    "This may be too hard to say, if Angel is part of the work of the hand of God them man is designed to have dominion over angels.",
-    
-    "But at the time the book of Hebrews will be repeating this same scripture, kindly look at what he said;",
-    
-    `Hebrews 2:6 But one testified in a certain place, saying:
+
+      "Take note of a statement in that scripture, you have made him to have dominion over the works of your hands and put all things under his feet including time.",
+
+      "Meaning, if time is part of the work of God's hands, then man is designed to have dominion over time.",
+
+      "If law of nature is part of the works of the hand of God then man is designed to have dominion over law of nature.",
+
+      "If death is part of the hand work of God then man is designed to have dominion over the death.",
+
+      "This may be too hard to say, if Angel is part of the work of the hand of God them man is designed to have dominion over angels.",
+
+      "But at the time the book of Hebrews will be repeating this same scripture, kindly look at what he said;",
+
+      `Hebrews 2:6 But one testified in a certain place, saying:
     “What is man that You are mindful of him,
     Or the son of man that You take care of him?`,
-    
-    `Hebrews 2:7 You have made him a little lower than the angels;
-    You have crowned him with glory and honor,
-    And set him over the works of Your hands.`,
-    
-    "Hebrews 2:8 You have put all things in subjection under his feet.” For in that He put all in subjection under him, He left nothing that is not put under him. But now we do not yet see all things put under him.",
-    
-    "Kindly look at the last statement in verse 8, it says but now we have not seen all things under the feet of man, he is talking about reality of man here before you where burried with christ and resurrected with Christ.",
-    
-    "Now look at verse 9",
-    
-    "Hebrews 2:9 But we see Jesus, who was made a little lower than the angels, for the suffering of death crowned with glory and honor, that He, by the grace of God, might taste death for everyone.",
-    
-    "We saw Christ who was also created lower than angels, because once you are born with flesh and blood, you are lower than Angel's, and anyone created lower than angels must be subjected to time.",
-    
-    "So Christ was also lower than angels so he submitted to time when we walk in his earthly ministry but the moment he ressurated from the death, time become submitted to him, he gain back dominion over all the world of the hand of God.",
-    
-    "Matthew 28:18 And Jesus came and spoke to them, saying, “All authority has been given to Me in heaven and on Earth.",
-    
-    "Jesus was able to speak this statement when he ressurated , meaning before he ressurated all power and authority was not yet with him, he never heal the sick or raised the death as a man who is all powerful, because that him we saw before the cross is not the expression of the son of God, that him must died to put an end to the expression of the servant of God and begin the expression of the son of God.",
-    
-    "That is from supernatural experience and expression to immortality.",
-    
-    "And the scripture now say he tasted death for our sake, so that once we are born by God, we are now higher than angels.",
-    
-    "Everyone who need to die is lower than angels, but everyone who died with Christ and resurrected with him is higher than angels.",
-    
-    "Because the life in you now is called the life of God, that life is eternal life, it is a life that doesn't have beginning and it doesn't have end.",
-    
-    "The life in all Angels is not eternal life, no angel have eternal life!",
-    
-    "They have everlasting life but they don't have eternal life.",
-    
-    "A natural life is the life that have beginning and have end in time.",
-    
-    "An everlasting life is the life that have beginning but didn't have end in time, it have end but didn't have end in time.",
-    
-    "But eternal life which is the life in us is the life that doesn't have beginning and it doesn't have end, the life is not subjected to time, it controls time.",
-    
-    "And the moment you have eternal life, you must begin to walk into eternal time while still on earth, because what is future in this realm under heaven is past in that realm, so when you begin to think from that realm, talk from that realm you will be ahead of time under the heaven, in fact not that you will be ahead of your age made, but you will be ahead of your generation.",
-    
-    "Many didn't just know three things that put us in bondage.",
-    
-    "1. The first is sin and you must be saved from sin.",
-    
-    "2. The second is time and you must be saved from time, this is a realm where time no longer determines things that happen to you, you have enter into the realm of God's time, and this God's time you don't wait for it you journey into it.",
-    
-    "3. And the last is to be saved from this body, this is the realm of immortality, a realm where the mortality in us has been swallowed up by immortality in us.",
-    
-    "A realm where we walk out of this Earth like Enoch, without passing through death.",
-    
-    "God's plan is that there are some of us that should walk on this Earth and move to Heaven without passing through death.",
-    
-    "Because we have swallowed up death in victory, that is, the same way Jesus went to Heaven will also be the same way we go to Heaven.",
-    
-    "We live on Earth above 100 years and our body will look like 30 years old, it is a situation where by the immortality in us is swallowing up the mortality in us, the incorruptible nature in us is swallowing up the corruptible nature in us.",
-    
-    "1 Corinthians 15:54 So when this corruptible has put on incorruption, and this mortal has put on immortality, then shall be brought to pass the saying that is written: “Death is swallowed up in victory.”",
-    
-    "That is, the eternal life in us have the ability to make this our body not to grow old again.",
-    
-    "Moses and caleb tasted this dimension.",
-    
-    `Joshua 14:10-13
-    God faithfully kept His word to give the land to Caleb, but He also gave him an added blessing that had not been promised. He kept age from ravaging his body. Caleb watched the flesh of the rest of the men in the camp wear out while he remained strong.`,
-    
-    "The scripture says Caleb watched the flesh of the rest man in the camp wear out while his own body remain young and strong.",
-    
-    "Get this, there is a curriculum in the school of the Spirit called immortality, may God grant us grace to be students in that class, because when I check the goal of that class in the school of the spirit, the goal is not transformation, the goal is transfiguration.",
-    
-    "In that realm you will see that there is possibility for man to live on Earth above 1000 years if he chooses, because there is a life in us that have swallowed up death in victory.",
-    
-    "In that class in the Spirit, you will be taught that you can walk through this Earth and not tasted death and you'll walk with God like Enoch.",
-    
-    "Jesus was telling his physical disciples that there are some of them that will not taste death till he comes.",
-    
-    "Truly, I say to you, there are some standing here who will not taste death until they see the Son of Man coming in his kingdom (Matt. 16:27–28)",
-    
-    "Many can't comprehend what Jesus is saying here, infact the twelve disciples couldn't comprehend it because if they did, some of them could have still be alive by now.",
-    
-    "Because the eternal life they receive at pentecost can make them to live above Methuselah on Earth.",
-    
-    "John the beloved who wrote the book of revelation almost enter into this economy, but I think the consciousness is not enough.",
-    
-    "Because they try everything within human capacity to kill him, but he didn't die, put him in a boiling oil yet he didn't die.",
-    
-    "There is this immortality in us that is above every hand works of God, may God open us to the mystery of the kingdom needed for us to eat that will bring them into manifestation.",
-    
-    "Those dimension are not manifesting in us because the mystery of the kingdom needed for us to hear that will trigger them into manifestation is missing.",
-    
-    "We just need to pray to God to raised men who are custodian and stewards of the mystery of God into the body of Christ.",
-    
-    `1 Corinthians 4:1 
-    Let a man so consider us, as servants of Christ and stewards of the mysteries of God.`,
-    
-    "Paul is talking about two assignment here, the first are the servant of christ, the second are the stewards of the mystery of God.",
-    
-    "Not every servant of christ are stewards of the mystery of God.",
-    
-    "We have too much servants of christ in this generation but only few stewards of the mystery of God.",
-    
-    "No fasting and prayer not sacrifice can bring out the immortality in us, exposing ourselves to the mystery of the kingdom is the key.",
-    
-    "That is why paul said this hidden wisdom we are communicating in mystery, they are message ordained before the foundation of the world for our glory.",
-    
-    "NKJV, 1 Corinthians 2:7",
-    "But we speak the wisdom of God in a mystery, the hidden wisdom which God ordained before the ages for our glory.",
-    
-    "Meaning, there are messages that is for our salvation, there are messages that is for transformation, there are messages that is for our glory.",
-    
-    "There are messages that bring out the supernatural in us, why there are messages that bring out the immortality in us, the unveiling of mystery is to bring out the immortality in us and for this purpose I was born to be a stewards of the mystery of God for my generation.",
-    
-    "Supernatural is when you are sick and you receive healing, immortality is when you can never be sick again, because divine health is hidden in the immortality in us.",
-    
-    "Supernatural is the manifestation of the Holy Spirit in us, but immortality is the manifestation of the eternal life in us, a nature in you that can make you to leave on this earth and not tastes death, a nature that can utter your containers and you didn't get old, a nature that have time under his feet.",
-    
-    "How wish we are rightly taught, there are certain things that should never happen to us again because we have eternal life.",
-    
-    "Do you know the meaning of eternal life? You can never have it and perish again.",
-    
-    ],
-  },
-  {
-    id: 7,
-    page: "6a",
-    bookName: "Banjo Ayeka Diary",
-    title: "The Immortality in Man.",
-    content: ["Ephesians 5:16 redeeming the time, because the days are evil.",
 
-    "God's time is not something you wait for, it is something you enter into.",
-    
-    "It is a realm, once you enter into that realm you have the capacity to do two things, First you can redeem the time under the heaven  and you can also control the time under the Heaven.",
-    
-    "Salvation is not only when you are saved from sin, that is just the first Salvation.",
-    
-    "There are many who are saved from sin but are still slave of time, time and chance still determines what happen to them, any one in this realm still need the second dimension of Salvation.",
-    
-    "The last dimension of Salvation is when you are saved from this body, and this is what the second coming of Jesus is coming to do, to save us from this body.",
-    
-    "So you must be saved from sin, you must be saved from time, and you must be saved from your mortal body.",
-    
-    `Get this, there is a position we lost in Adam that Christ has restored back to us and that position is called the LORD OF ALL.`,
-    
-    "Galatians 4:1 Now I say that the heir, as long as he is a child, does not differ at all from a slave, though he is LORD OF ALL.",
-    
-    "Meaning, you are also lord of time.",
-    
-    "The fall of Adam make him to fall from the realm of time of God into the realm of time of man.",
-    
-    "He fell from a realm wher time submits to him to where he now submit to time.",
-    
-    "Before he fell he determines what happen in time, but after the fall, time determines what happen to him.",
-    
-    "From a realm where he create circumstances to a realm where he become victim of circumstances, this now become our reality, time now become what we wait for , season now become what we wait for before doing anything.",
-    
-    "Because that now determines what happen to all things.",
-    
-    "Ecclesiastes 9:11 ....... ,Nor favor to men of skill, But time and chance happen to them all.",
-    
-    "This scripture is a reality for everyone under the sun, who have not enter into the realm of Gods time where both the past, present and future is now.",
-    
-    "And in the realm of the time of God, future is behind, but in the time of man future is ahead.",
-    
-    "So when you are in the time of God, everything is now, if you think it now, you can have it now.",
-    
-    "In that realm there is nothing like God's time has not come, the time is Now!",
-    
-    "And God want us to enter that realm with this our body before rapture, where we speak, think and talk from a realm where time doesn't exist into realm where time exists so that time under heaven itself will hear us and obey.",
-    
-    "Because if i ask you to mention your enemy, you will mention devil, sin, demon, but you didn't know that one of your greatest enemy is TIME.",
-    
-    "Time doesn't want to  come to you, you keep on saying my time has not come, the fact is that you dont have time under the sun, so there will never be day that your time will come, because that time is your enemy, the time is in the hand of the enemy, what you are to do is to redeem the time from him.",
-    
-    "Ephesians 5:16 redeeming the time, because the days are evil.",
-    
-    "Just has Christ has redeemed you from the devil , so also you redeemed the time from the devil.",
-    
-    "There are season of our life when we are to submit to time and wait for time, we saw jesus also doing the same thing, and there are season of our life also when we must be save from time and have dominion and control over time, we also saw christ doing the same thing.",
-    
-    "One of the error many of us made including me is that we begin to learn Jesus rather than learning Christ.",
-    
-    "We are beholding Jesus rather than beholding Christ, that is why our experience cannot capture the reality of Christ.",
-    
-    "Get this, every supernatural you see displayed by Jesus in his earthly ministry is not the manifestation of the son of God, that is just the manifestation of the servant of God.",
-    
-    "There is no manifestation you see in him that you can't traced to all the old testament prophet like Elijah and Moses, all of them raised the dead, they turn water to wine.",
-    
-    "Infact Moses turn water to blood.",
-    
-    "But all those life are still what we are beholding and that is why we cannot do more than what Jesus did.",
-    
-    "Jesus was telling us that more than what i did you'll do.But we can't comprehend what Jesus was saying.",
-    
-    "Get this by divine designed, our life should begin at Resurrection', we should start beholding christ after resurrection not before resurrection, every of the manifestation you see in him before the cross are all manifestation of the servant of God, he began to manifest his sonship capacity beginning after resurrection and that is the dimension of him that have dominion over time.",
-    
-    "Things Jesus begin to do after resurrection should be the reality of our life because we have been resurrected with Christ.",
-    
-    "The dimension many of us are beholding have been buried and that is Jesus Christ.But Jesus didn't resurrect, it was Christ that resurrected.",
-    
-    "Jesus of Nazareth was buried' but only christ ressurated.",
-    
-    "The Jesus Christ that was buried was Jesus that raised the dead and heal the sick, but Christ that was resurrected was the one walking through the wall.",
-    
-    "So that resurrected Christ is not subjected to time and season, he is the lord of time and season, he is not subjected to nature, he controls nature.",
-    
-    "That is who Adam was before he fell, he had dominion over all things created by God.",
-    
-    "Kindly look at this scripture to see our reality.",
-    
-    `Psalms 8:6 You have made him to have DOMINION OVER THE WORKS OF YOUR HAND;
-    You have put all things under his feet`,
-    
-    "Take note of a statement in that scripture, you have made him to have dominion over the works of your hands and put all things under his feet including time.",
-    
-    "Meaning, if time is part of the work of God's hands, then man is designed to have dominion over time.",
-    
-    "If law of nature is part of the works of the hand of God then man is designed to have dominion over law of nature.",
-    
-    "If death is part of the hand work of God then man is designed to have dominion over the death.",
-    
-    "This may be too hard to say, if Angel is part of the work of the hand of God them man is designed to have dominion over angels.",
-    
-    "But at the time the book of Hebrews will be repeating this same scripture, kindly look at what he said;",
-    
-    `Hebrews 2:6 But one testified in a certain place, saying:
-    “What is man that You are mindful of him,
-    Or the son of man that You take care of him?`,
-    
-    `Hebrews 2:7 You have made him a little lower than the angels;
+      `Hebrews 2:7 You have made him a little lower than the angels;
     You have crowned him with glory and honor,
     And set him over the works of Your hands.`,
-    
-    "Hebrews 2:8 You have put all things in subjection under his feet.” For in that He put all in subjection under him, He left nothing that is not put under him. But now we do not yet see all things put under him.",
-    
-    "Kindly look at the last statement in verse 8, it says but now we have not seen all things under the feet of man, he is talking about reality of man here before you where burried with christ and resurrected with Christ.",
-    
-    "Now look at verse 9",
-    
-    "Hebrews 2:9 But we see Jesus, who was made a little lower than the angels, for the suffering of death crowned with glory and honor, that He, by the grace of God, might taste death for everyone.",
-    
-    "We saw Christ who was also created lower than angels, because once you are born with flesh and blood, you are lower than Angel's, and anyone created lower than angels must be subjected to time.",
-    
-    "So Christ was also lower than angels so he submitted to time when we walk in his earthly ministry but the moment he ressurated from the death, time become submitted to him, he gain back dominion over all the world of the hand of God.",
-    
-    "Matthew 28:18 And Jesus came and spoke to them, saying, “All authority has been given to Me in heaven and on Earth.",
-    
-    "Jesus was able to speak this statement when he ressurated , meaning before he ressurated all power and authority was not yet with him, he never heal the sick or raised the death as a man who is all powerful, because that him we saw before the cross is not the expression of the son of God, that him must died to put an end to the expression of the servant of God and begin the expression of the son of God.",
-    
-    "That is from supernatural experience and expression to immortality.",
-    
-    "And the scripture now say he tasted death for our sake, so that once we are born by God, we are now higher than angels.",
-    
-    "Everyone who need to die is lower than angels, but everyone who died with Christ and resurrected with him is higher than angels.",
-    
-    "Because the life in you now is called the life of God, that life is eternal life, it is a life that doesn't have beginning and it doesn't have end.",
-    
-    "The life in all Angels is not eternal life, no angel have eternal life!",
-    
-    "They have everlasting life but they don't have eternal life.",
-    
-    "A natural life is the life that have beginning and have end in time.",
-    
-    "An everlasting life is the life that have beginning but didn't have end in time, it have end but didn't have end in time.",
-    
-    "But eternal life which is the life in us is the life that doesn't have beginning and it doesn't have end, the life is not subjected to time, it controls time.",
-    
-    "And the moment you have eternal life, you must begin to walk into eternal time while still on earth, because what is future in this realm under heaven is past in that realm, so when you begin to think from that realm, talk from that realm you will be ahead of time under the heaven, in fact not that you will be ahead of your age made, but you will be ahead of your generation.",
-    
-    "Many didn't just know three things that put us in bondage.",
-    
-    "1. The first is sin and you must be saved from sin.",
-    
-    "2. The second is time and you must be saved from time, this is a realm where time no longer determines things that happen to you, you have enter into the realm of God's time, and this God's time you don't wait for it you journey into it.",
-    
-    "3. And the last is to be saved from this body, this is the realm of immortality, a realm where the mortality in us has been swallowed up by immortality in us.",
-    
-    "A realm where we walk out of this Earth like Enoch, without passing through death.",
-    
-    "God's plan is that there are some of us that should walk on this Earth and move to Heaven without passing through death.",
-    
-    "Because we have swallowed up death in victory, that is, the same way Jesus went to Heaven will also be the same way we go to Heaven.",
-    
-    "We live on Earth above 100 years and our body will look like 30 years old, it is a situation where by the immortality in us is swallowing up the mortality in us, the incorruptible nature in us is swallowing up the corruptible nature in us.",
-    
-    "1 Corinthians 15:54 So when this corruptible has put on incorruption, and this mortal has put on immortality, then shall be brought to pass the saying that is written: “Death is swallowed up in victory.”",
-    
-    "That is, the eternal life in us have the ability to make this our body not to grow old again.",
-    
-    "Moses and caleb tasted this dimension.",
-    
-    `Joshua 14:10-13
+
+      "Hebrews 2:8 You have put all things in subjection under his feet.” For in that He put all in subjection under him, He left nothing that is not put under him. But now we do not yet see all things put under him.",
+
+      "Kindly look at the last statement in verse 8, it says but now we have not seen all things under the feet of man, he is talking about reality of man here before you where burried with christ and resurrected with Christ.",
+
+      "Now look at verse 9",
+
+      "Hebrews 2:9 But we see Jesus, who was made a little lower than the angels, for the suffering of death crowned with glory and honor, that He, by the grace of God, might taste death for everyone.",
+
+      "We saw Christ who was also created lower than angels, because once you are born with flesh and blood, you are lower than Angel's, and anyone created lower than angels must be subjected to time.",
+
+      "So Christ was also lower than angels so he submitted to time when we walk in his earthly ministry but the moment he ressurated from the death, time become submitted to him, he gain back dominion over all the world of the hand of God.",
+
+      "Matthew 28:18 And Jesus came and spoke to them, saying, “All authority has been given to Me in heaven and on Earth.",
+
+      "Jesus was able to speak this statement when he ressurated , meaning before he ressurated all power and authority was not yet with him, he never heal the sick or raised the death as a man who is all powerful, because that him we saw before the cross is not the expression of the son of God, that him must died to put an end to the expression of the servant of God and begin the expression of the son of God.",
+
+      "That is from supernatural experience and expression to immortality.",
+
+      "And the scripture now say he tasted death for our sake, so that once we are born by God, we are now higher than angels.",
+
+      "Everyone who need to die is lower than angels, but everyone who died with Christ and resurrected with him is higher than angels.",
+
+      "Because the life in you now is called the life of God, that life is eternal life, it is a life that doesn't have beginning and it doesn't have end.",
+
+      "The life in all Angels is not eternal life, no angel have eternal life!",
+
+      "They have everlasting life but they don't have eternal life.",
+
+      "A natural life is the life that have beginning and have end in time.",
+
+      "An everlasting life is the life that have beginning but didn't have end in time, it have end but didn't have end in time.",
+
+      "But eternal life which is the life in us is the life that doesn't have beginning and it doesn't have end, the life is not subjected to time, it controls time.",
+
+      "And the moment you have eternal life, you must begin to walk into eternal time while still on earth, because what is future in this realm under heaven is past in that realm, so when you begin to think from that realm, talk from that realm you will be ahead of time under the heaven, in fact not that you will be ahead of your age made, but you will be ahead of your generation.",
+
+      "Many didn't just know three things that put us in bondage.",
+
+      "1. The first is sin and you must be saved from sin.",
+
+      "2. The second is time and you must be saved from time, this is a realm where time no longer determines things that happen to you, you have enter into the realm of God's time, and this God's time you don't wait for it you journey into it.",
+
+      "3. And the last is to be saved from this body, this is the realm of immortality, a realm where the mortality in us has been swallowed up by immortality in us.",
+
+      "A realm where we walk out of this Earth like Enoch, without passing through death.",
+
+      "God's plan is that there are some of us that should walk on this Earth and move to Heaven without passing through death.",
+
+      "Because we have swallowed up death in victory, that is, the same way Jesus went to Heaven will also be the same way we go to Heaven.",
+
+      "We live on Earth above 100 years and our body will look like 30 years old, it is a situation where by the immortality in us is swallowing up the mortality in us, the incorruptible nature in us is swallowing up the corruptible nature in us.",
+
+      "1 Corinthians 15:54 So when this corruptible has put on incorruption, and this mortal has put on immortality, then shall be brought to pass the saying that is written: “Death is swallowed up in victory.”",
+
+      "That is, the eternal life in us have the ability to make this our body not to grow old again.",
+
+      "Moses and caleb tasted this dimension.",
+
+      `Joshua 14:10-13
     God faithfully kept His word to give the land to Caleb, but He also gave him an added blessing that had not been promised. He kept age from ravaging his body. Caleb watched the flesh of the rest of the men in the camp wear out while he remained strong.`,
-    
-    "The scripture says Caleb watched the flesh of the rest man in the camp wear out while his own body remain young and strong.",
-    
-    "Get this, there is a curriculum in the school of the Spirit called immortality, may God grant us grace to be students in that class, because when I check the goal of that class in the school of the spirit, the goal is not transformation, the goal is transfiguration.",
-    
-    "In that realm you will see that there is possibility for man to live on Earth above 1000 years if he chooses, because there is a life in us that have swallowed up death in victory.",
-    
-    "In that class in the Spirit, you will be taught that you can walk through this Earth and not tasted death and you'll walk with God like Enoch.",
-    
-    "Jesus was telling his physical disciples that there are some of them that will not taste death till he comes.",
-    
-    "Truly, I say to you, there are some standing here who will not taste death until they see the Son of Man coming in his kingdom (Matt. 16:27–28)",
-    
-    "Many can't comprehend what Jesus is saying here, infact the twelve disciples couldn't comprehend it because if they did, some of them could have still be alive by now.",
-    
-    "Because the eternal life they receive at pentecost can make them to live above Methuselah on Earth.",
-    
-    "John the beloved who wrote the book of revelation almost enter into this economy, but I think the consciousness is not enough.",
-    
-    "Because they try everything within human capacity to kill him, but he didn't die, put him in a boiling oil yet he didn't die.",
-    
-    "There is this immortality in us that is above every hand works of God, may God open us to the mystery of the kingdom needed for us to eat that will bring them into manifestation.",
-    
-    "Those dimension are not manifesting in us because the mystery of the kingdom needed for us to hear that will trigger them into manifestation is missing.",
-    
-    "We just need to pray to God to raised men who are custodian and stewards of the mystery of God into the body of Christ.",
-    
-    `1 Corinthians 4:1 
+
+      "The scripture says Caleb watched the flesh of the rest man in the camp wear out while his own body remain young and strong.",
+
+      "Get this, there is a curriculum in the school of the Spirit called immortality, may God grant us grace to be students in that class, because when I check the goal of that class in the school of the spirit, the goal is not transformation, the goal is transfiguration.",
+
+      "In that realm you will see that there is possibility for man to live on Earth above 1000 years if he chooses, because there is a life in us that have swallowed up death in victory.",
+
+      "In that class in the Spirit, you will be taught that you can walk through this Earth and not tasted death and you'll walk with God like Enoch.",
+
+      "Jesus was telling his physical disciples that there are some of them that will not taste death till he comes.",
+
+      "Truly, I say to you, there are some standing here who will not taste death until they see the Son of Man coming in his kingdom (Matt. 16:27–28)",
+
+      "Many can't comprehend what Jesus is saying here, infact the twelve disciples couldn't comprehend it because if they did, some of them could have still be alive by now.",
+
+      "Because the eternal life they receive at pentecost can make them to live above Methuselah on Earth.",
+
+      "John the beloved who wrote the book of revelation almost enter into this economy, but I think the consciousness is not enough.",
+
+      "Because they try everything within human capacity to kill him, but he didn't die, put him in a boiling oil yet he didn't die.",
+
+      "There is this immortality in us that is above every hand works of God, may God open us to the mystery of the kingdom needed for us to eat that will bring them into manifestation.",
+
+      "Those dimension are not manifesting in us because the mystery of the kingdom needed for us to hear that will trigger them into manifestation is missing.",
+
+      "We just need to pray to God to raised men who are custodian and stewards of the mystery of God into the body of Christ.",
+
+      `1 Corinthians 4:1 
     Let a man so consider us, as servants of Christ and stewards of the mysteries of God.`,
-    
-    "Paul is talking about two assignment here, the first are the servant of christ, the second are the stewards of the mystery of God.",
-    
-    "Not every servant of christ are stewards of the mystery of God.",
-    
-    "We have too much servants of christ in this generation but only few stewards of the mystery of God.",
-    
-    "No fasting and prayer not sacrifice can bring out the immortality in us, exposing ourselves to the mystery of the kingdom is the key.",
-    
-    "That is why paul said this hidden wisdom we are communicating in mystery, they are message ordained before the foundation of the world for our glory.",
-    
-    "NKJV, 1 Corinthians 2:7",
-    "But we speak the wisdom of God in a mystery, the hidden wisdom which God ordained before the ages for our glory.",
-    
-    "Meaning, there are messages that is for our salvation, there are messages that is for transformation, there are messages that is for our glory.",
-    
-    "There are messages that bring out the supernatural in us, why there are messages that bring out the immortality in us, the unveiling of mystery is to bring out the immortality in us and for this purpose I was born to be a stewards of the mystery of God for my generation.",
-    
-    "Supernatural is when you are sick and you receive healing, immortality is when you can never be sick again, because divine health is hidden in the immortality in us.",
-    
-    "Supernatural is the manifestation of the Holy Spirit in us, but immortality is the manifestation of the eternal life in us, a nature in you that can make you to leave on this earth and not tastes death, a nature that can utter your containers and you didn't get old, a nature that have time under his feet.",
-    
-    "How wish we are rightly taught, there are certain things that should never happen to us again because we have eternal life.",
-    
-    "Do you know the meaning of eternal life? You can never have it and perish again.",
-    
+
+      "Paul is talking about two assignment here, the first are the servant of christ, the second are the stewards of the mystery of God.",
+
+      "Not every servant of christ are stewards of the mystery of God.",
+
+      "We have too much servants of christ in this generation but only few stewards of the mystery of God.",
+
+      "No fasting and prayer not sacrifice can bring out the immortality in us, exposing ourselves to the mystery of the kingdom is the key.",
+
+      "That is why paul said this hidden wisdom we are communicating in mystery, they are message ordained before the foundation of the world for our glory.",
+
+      "NKJV, 1 Corinthians 2:7",
+      "But we speak the wisdom of God in a mystery, the hidden wisdom which God ordained before the ages for our glory.",
+
+      "Meaning, there are messages that is for our salvation, there are messages that is for transformation, there are messages that is for our glory.",
+
+      "There are messages that bring out the supernatural in us, why there are messages that bring out the immortality in us, the unveiling of mystery is to bring out the immortality in us and for this purpose I was born to be a stewards of the mystery of God for my generation.",
+
+      "Supernatural is when you are sick and you receive healing, immortality is when you can never be sick again, because divine health is hidden in the immortality in us.",
+
+      "Supernatural is the manifestation of the Holy Spirit in us, but immortality is the manifestation of the eternal life in us, a nature in you that can make you to leave on this earth and not tastes death, a nature that can utter your containers and you didn't get old, a nature that have time under his feet.",
+
+      "How wish we are rightly taught, there are certain things that should never happen to us again because we have eternal life.",
+
+      "Do you know the meaning of eternal life? You can never have it and perish again.",
     ],
   },
   {
@@ -1682,193 +1455,192 @@ I have said, Ye are gods; And all of you are children of the most High.`,
     bookName: "Banjo Ayeka Diary",
     title: "The Journey Into Immortal Realm.",
     content: [
-    "1 Corinthians 15:54 So when this corruptible has put on incorruption, and this mortal has put on immortality, then shall be brought to pass the saying that is written: “Death is swallowed up in victory.”",
+      "1 Corinthians 15:54 So when this corruptible has put on incorruption, and this mortal has put on immortality, then shall be brought to pass the saying that is written: “Death is swallowed up in victory.”",
 
-"Kindly pay attention to this scripture, because in it you will discover that our journey is still far.",
+      "Kindly pay attention to this scripture, because in it you will discover that our journey is still far.",
 
-"Many of us didn't understand this scripture, what it simply means is that there is a capacity in us now to live without tasting death, because death is swallowed up in victory.",
+      "Many of us didn't understand this scripture, what it simply means is that there is a capacity in us now to live without tasting death, because death is swallowed up in victory.",
 
-"But he now say this can only become reality when this our corruptible body put on incorruption and this immortal has put on immortality.",
+      "But he now say this can only become reality when this our corruptible body put on incorruption and this immortal has put on immortality.",
 
-"Presently now for many of us, it is our incorruptible body that put on our corruptible body, our immortality put on mortality, and in this form we will continue to be a slave of death and time, we shall continue to be a victim of circumstances rather master of circumstances.",
+      "Presently now for many of us, it is our incorruptible body that put on our corruptible body, our immortality put on mortality, and in this form we will continue to be a slave of death and time, we shall continue to be a victim of circumstances rather master of circumstances.",
 
-"But when our mortality is inside and we put on immortality then we've swallowed up death in victory.",
+      "But when our mortality is inside and we put on immortality then we've swallowed up death in victory.",
 
-"Many are waiting for when we shall be separated from our mortal body, and become 100% immortal, when God is waiting for when we'll become immortal in this mortal body.",
+      "Many are waiting for when we shall be separated from our mortal body, and become 100% immortal, when God is waiting for when we'll become immortal in this mortal body.",
 
-"Look at this scripture very well;",
+      "Look at this scripture very well;",
 
-"1 Corinthians 15:54 So when this corruptible has put on incorruption, and this mortal has put on immortality, then shall be brought to pass the saying that is written: “Death is swallowed up in victory.”",
+      "1 Corinthians 15:54 So when this corruptible has put on incorruption, and this mortal has put on immortality, then shall be brought to pass the saying that is written: “Death is swallowed up in victory.”",
 
-"Until you begin to walk in this reality while still alive, you have not swallowed up death in victory.",
+      "Until you begin to walk in this reality while still alive, you have not swallowed up death in victory.",
 
-"Because the scripture say it is when your mortal body has put on immortality that it shall be brought to pass that death is swallowed up in victory.",
+      "Because the scripture say it is when your mortal body has put on immortality that it shall be brought to pass that death is swallowed up in victory.",
 
-"Meaning, if your mortal body has not put on immortality that spiritual reality has not brought to pass.",
+      "Meaning, if your mortal body has not put on immortality that spiritual reality has not brought to pass.",
 
-"For anyone that is not yet Immortal, the pathway to eternity is death, death is the gate through which we eternally get out of this mortal world into the immortal world.",
+      "For anyone that is not yet Immortal, the pathway to eternity is death, death is the gate through which we eternally get out of this mortal world into the immortal world.",
 
-"But by divine design, the moment you receive eternal life, it means death has been swallowed up in victory, it means death is just an option for us, if we pass through death to get out of this world it is because we choose or we don't understand the power of eternal life that is in us.",
+      "But by divine design, the moment you receive eternal life, it means death has been swallowed up in victory, it means death is just an option for us, if we pass through death to get out of this world it is because we choose or we don't understand the power of eternal life that is in us.",
 
-"The way Christ get out of this world is the new order God designed Christians to get out of this world, which is through rapture, we see our mortal body been swallowed up by the immortality in us.",
+      "The way Christ get out of this world is the new order God designed Christians to get out of this world, which is through rapture, we see our mortal body been swallowed up by the immortality in us.",
 
-"May God give us the Grace to know that the concept of rapture is not a general event, it is an individual event.",
+      "May God give us the Grace to know that the concept of rapture is not a general event, it is an individual event.",
 
-"The fact that scripture calls it trumpet and you literally take it as trumpet, means you're ignorant because prophecies are written in symbols.",
+      "The fact that scripture calls it trumpet and you literally take it as trumpet, means you're ignorant because prophecies are written in symbols.",
 
-"The Gospel of immortality is that trumpet, and some of us are the angels ordained by God to blow the trumpet and we are blowing it already now.",
+      "The Gospel of immortality is that trumpet, and some of us are the angels ordained by God to blow the trumpet and we are blowing it already now.",
 
-"Kindly look at this scripture to get the point.",
+      "Kindly look at this scripture to get the point.",
 
-"Revelation 1:10 I was in the Spirit on the Lord’s Day, and I heard behind me a loud voice, as of a trumpet,",
+      "Revelation 1:10 I was in the Spirit on the Lord’s Day, and I heard behind me a loud voice, as of a trumpet,",
 
-"Revelation 1:11 saying, “I am the Alpha and the Omega, the First and the Last,” and, “What you see, write in a book and send it to the seven churches which are in Asia: to Ephesus, to Smyrna, to Pergamos, to Thyatira, to Sardis, to Philadelphia, and to Laodicea.”",
+      "Revelation 1:11 saying, “I am the Alpha and the Omega, the First and the Last,” and, “What you see, write in a book and send it to the seven churches which are in Asia: to Ephesus, to Smyrna, to Pergamos, to Thyatira, to Sardis, to Philadelphia, and to Laodicea.”",
 
-"Firstly, John said he was in the Spirit and he heard behind him a loud voice as of the trumpet and the trumpet was saying I am the Alpha and the Omega.",
+      "Firstly, John said he was in the Spirit and he heard behind him a loud voice as of the trumpet and the trumpet was saying I am the Alpha and the Omega.",
 
-"Meaning, the trumpet that sound was not blowing like Nigeria trumpet, the trumpet was talking, the trumpet was blowing a message not a sound.",
+      "Meaning, the trumpet that sound was not blowing like Nigeria trumpet, the trumpet was talking, the trumpet was blowing a message not a sound.",
 
-"You are waiting for a trumpet that will blow a sound when the trumpet is already blowing a message and men who are in the Spirit are getting the message.",
+      "You are waiting for a trumpet that will blow a sound when the trumpet is already blowing a message and men who are in the Spirit are getting the message.",
 
-"Secondly, when God want him to be writing to the angels of the churches, the angels are pastors of the church not literal Angels with wings.",
+      "Secondly, when God want him to be writing to the angels of the churches, the angels are pastors of the church not literal Angels with wings.",
 
-"Show me people who will not hear this trumpet, who will miss this trumpet that have started  blowing, they are people who are literally waiting for literal rapture, waiting for one angel with wings who will appear on the sky with literal Nigerian trumpet blowing literal sounds.",
+      "Show me people who will not hear this trumpet, who will miss this trumpet that have started  blowing, they are people who are literally waiting for literal rapture, waiting for one angel with wings who will appear on the sky with literal Nigerian trumpet blowing literal sounds.",
 
-"They don't know that when scripture give prophecy, they are symbolic, the Angels that will blow the trumpet are some of us ordained by God to preach the Gospel of immortality, some of us ordained by God to be a steward of God's mystery.",
+      "They don't know that when scripture give prophecy, they are symbolic, the Angels that will blow the trumpet are some of us ordained by God to preach the Gospel of immortality, some of us ordained by God to be a steward of God's mystery.",
 
-`NKJV, 1 Corinthians 4:1
+      `NKJV, 1 Corinthians 4:1
 Let a man so consider us, as servants of Christ and STEWARDS OF THE MYSTERIES OF GOD.`,
 
-"There are some men walking on this Earth who are just servant of Christ doing great work for the kingdom, but there are some of us who are not just servant of Christ, we are steward and custodian of God's mystery, we belong to the lineage of paul, our books are designed to be storage of God's mystery kept for the age and generations coming.",
+      "There are some men walking on this Earth who are just servant of Christ doing great work for the kingdom, but there are some of us who are not just servant of Christ, we are steward and custodian of God's mystery, we belong to the lineage of paul, our books are designed to be storage of God's mystery kept for the age and generations coming.",
 
-"The Gospel of immortality is that trumpet, and who hear it and believe it, will literally be walking upon the surface of this Earth and be walking out of the Earth like Enoch.",
+      "The Gospel of immortality is that trumpet, and who hear it and believe it, will literally be walking upon the surface of this Earth and be walking out of the Earth like Enoch.",
 
-"Show me those that miss the first coming of Jesus Christ, they are those who hold unto the prophecy with all their heart and be literally expecting it to come to pass, so when Jesus appeared he doesn't look like it, they expect the Messiah to land from Heaven with crown in his head shining like angels, but when the Messiah came, he was born in a manger, into a poor family.",
+      "Show me those that miss the first coming of Jesus Christ, they are those who hold unto the prophecy with all their heart and be literally expecting it to come to pass, so when Jesus appeared he doesn't look like it, they expect the Messiah to land from Heaven with crown in his head shining like angels, but when the Messiah came, he was born in a manger, into a poor family.",
 
-"Show me who are literally waiting for the second coming of Jesus and trumpet again, i will show you those that will miss rapture that the trumpet has started blowing now, they will never believe it, they will never believe that the trumpet is a gospel, not Gospel of Salvation, not Gospel of Grace and Faith, But the Gospel of immortality.",
+      "Show me who are literally waiting for the second coming of Jesus and trumpet again, i will show you those that will miss rapture that the trumpet has started blowing now, they will never believe it, they will never believe that the trumpet is a gospel, not Gospel of Salvation, not Gospel of Grace and Faith, But the Gospel of immortality.",
 
-"It is either your immortality is swallowed up by mortality or your immortality is swallowed up by mortality.",
+      "It is either your immortality is swallowed up by mortality or your immortality is swallowed up by mortality.",
 
-"And if your mortality is swallowed up by immorality then you pass through rapture into the other side, that is, you pass through into the other side of the world like Enoch, which is an act of not tasting death.",
+      "And if your mortality is swallowed up by immorality then you pass through rapture into the other side, that is, you pass through into the other side of the world like Enoch, which is an act of not tasting death.",
 
-"But If your immortality is swallowed up by mortality then you pass through death into the other world.",
+      "But If your immortality is swallowed up by mortality then you pass through death into the other world.",
 
-"Many of us didn't know that just as Christ become poor so that through his poverty we might be rich, he become sin for us so that we can become the righteousness of God, by his stripes as are healed so also he tasted death for us so that through his death we shall not tasted death again.",
+      "Many of us didn't know that just as Christ become poor so that through his poverty we might be rich, he become sin for us so that we can become the righteousness of God, by his stripes as are healed so also he tasted death for us so that through his death we shall not tasted death again.",
 
-"If Christ has physically died for us, it means we can physically live on this Earth without tasting death for him and get out of this Earth the way he do.",
+      "If Christ has physically died for us, it means we can physically live on this Earth without tasting death for him and get out of this Earth the way he do.",
 
-"That is, we literally live on Earth and our mortality will be swallowed up by our immortality.",
+      "That is, we literally live on Earth and our mortality will be swallowed up by our immortality.",
 
-"There are two things inside of us, Viz;",
+      "There are two things inside of us, Viz;",
 
-"1. There are mortality aspect of us. And,",
+      "1. There are mortality aspect of us. And,",
 
-"2. There are immortality aspect of us.",
+      "2. There are immortality aspect of us.",
 
-"And there is a way God designed us to feed that immortality to the stage that it will gain dominion over the mortality aspect of us.",
+      "And there is a way God designed us to feed that immortality to the stage that it will gain dominion over the mortality aspect of us.",
 
-"Just as we have the natural and the spiritual aspect of us, the visible and the invisible aspect of us, so also we have the mortality and the immortality aspect of us.",
+      "Just as we have the natural and the spiritual aspect of us, the visible and the invisible aspect of us, so also we have the mortality and the immortality aspect of us.",
 
-"Look at the scripture again,",
+      "Look at the scripture again,",
 
-",1 Corinthians 15:54 So when this corruptible has put on incorruption, and this mortal has put on immortality, then shall be brought to pass the saying that is written: “Death is swallowed up in victory.”",
+      ",1 Corinthians 15:54 So when this corruptible has put on incorruption, and this mortal has put on immortality, then shall be brought to pass the saying that is written: “Death is swallowed up in victory.”",
 
-"This scripture is pointing to two dimensions of us we don't pay attention to.",
+      "This scripture is pointing to two dimensions of us we don't pay attention to.",
 
-"We mostly talk about the natural, supernatural and spiritual aspects of us those aspect is not what we use to swallow up death in victory.",
+      "We mostly talk about the natural, supernatural and spiritual aspects of us those aspect is not what we use to swallow up death in victory.",
 
-"But this scripture begin to talk about incorruptible aspect of us, the immortality aspect of us, and the scripture through paul now say something that gives me sorrow in this scripture that even though in the realm of God, death has been swallowed up in victory.",
+      "But this scripture begin to talk about incorruptible aspect of us, the immortality aspect of us, and the scripture through paul now say something that gives me sorrow in this scripture that even though in the realm of God, death has been swallowed up in victory.",
 
-"But Paul begin to say that this can't become reality in us until the corruptible part of us has been swallowed up by the immorality in us, until the corruptible has put on the incorruptible, paul said once this has happened then death is swallowed up in victory.",
+      "But Paul begin to say that this can't become reality in us until the corruptible part of us has been swallowed up by the immorality in us, until the corruptible has put on the incorruptible, paul said once this has happened then death is swallowed up in victory.",
 
-"The plan of God is that just as we grow our spiritual life so also we grow our Immortal life.", 
+      "The plan of God is that just as we grow our spiritual life so also we grow our Immortal life.",
 
-"And the message for this two are different, there are messages that grow our spiritual life why there are messages designed to grow our immortal life.",
+      "And the message for this two are different, there are messages that grow our spiritual life why there are messages designed to grow our immortal life.",
 
-"The hidden wisdom of God which we communicate by mystery is what God designed to grow the immortality in us.",
+      "The hidden wisdom of God which we communicate by mystery is what God designed to grow the immortality in us.",
 
-"Just as flesh is the opposite of Spirit so also biological life is the opposite of eternal life, the plan of God is for the life of God in us called the eternal life to swallow up the life of man in us.",
+      "Just as flesh is the opposite of Spirit so also biological life is the opposite of eternal life, the plan of God is for the life of God in us called the eternal life to swallow up the life of man in us.",
 
-"For instance if you are spiritual, you will not fufil the lust of the flesh, you will begin to manifest the fruit of the SPIRIT, like love, peace, joy, kindness among others.",
+      "For instance if you are spiritual, you will not fufil the lust of the flesh, you will begin to manifest the fruit of the SPIRIT, like love, peace, joy, kindness among others.",
 
-"But you can be spiritual and still sick again, because spirituality only make you to overcome your carnal life not your natural life, you overcome the flesh but not the body.",
+      "But you can be spiritual and still sick again, because spirituality only make you to overcome your carnal life not your natural life, you overcome the flesh but not the body.",
 
-"So both fruit of the Spirit and fruit of a natural man like sickness, weakness, death can be manifesting in your life at the same time.",
+      "So both fruit of the Spirit and fruit of a natural man like sickness, weakness, death can be manifesting in your life at the same time.",
 
-"But when you grow your spiritual life and the fruit of the spirit and you also grow your immortal life, the fruit will be divine health, that is, the disease and the limitations of the natural body can't control you again, instead of sickness to come to your body and you die, sickness will come to your body and die, because you are carrying a life of God in this body.",
+      "But when you grow your spiritual life and the fruit of the spirit and you also grow your immortal life, the fruit will be divine health, that is, the disease and the limitations of the natural body can't control you again, instead of sickness to come to your body and you die, sickness will come to your body and die, because you are carrying a life of God in this body.",
 
-"You stand in a circumstance without talking and the circumstances begin to change, because they are hearing the voice of your presence, this is when time become what you control and not what controls you.",
+      "You stand in a circumstance without talking and the circumstances begin to change, because they are hearing the voice of your presence, this is when time become what you control and not what controls you.",
 
-"Jesus lived as a supernatural and spiritual man before he died, but when he resurrected, he begin to live as an immortal man, he live on Earth for days as an immortal man, he taught his disciples for 40 days as an immortal man things pertaining to the kingdom of God.",
+      "Jesus lived as a supernatural and spiritual man before he died, but when he resurrected, he begin to live as an immortal man, he live on Earth for days as an immortal man, he taught his disciples for 40 days as an immortal man things pertaining to the kingdom of God.",
 
-`Acts 1:3
+      `Acts 1:3
 To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:`,
 
-"Those things he taught his disciples was not recorded in the scriptures, Because they are strange things that a normal man cannot swallow.",
+      "Those things he taught his disciples was not recorded in the scriptures, Because they are strange things that a normal man cannot swallow.",
 
-"It it during this 40 days teaching that the immortality aspect of the disciples was able to grow, that is why you see Peter sleeping in prison when they took the head of James in his presence.( Act 12:1-6)",
+      "It it during this 40 days teaching that the immortality aspect of the disciples was able to grow, that is why you see Peter sleeping in prison when they took the head of James in his presence.( Act 12:1-6)",
 
-`Acts of the Apostles 12:6
+      `Acts of the Apostles 12:6
 [6]The night before Peter was to be placed on trial, he was asleep, fastened with two chains between two soldiers. Others stood guard at the prison gate.`,
 
-"How can you be in this condition at the valley of shadows of death and yet be asleep, What he displayed in that place is not a proof of spirituality, that is not a nature of spirituality, that is the nature of immortality.",
+      "How can you be in this condition at the valley of shadows of death and yet be asleep, What he displayed in that place is not a proof of spirituality, that is not a nature of spirituality, that is the nature of immortality.",
 
-"A spiritual man can still be afraid of death, no matter how spiritual you may be, you will be afraid of death, because the reality of spirituality does not capture the ability not to fear death, it only captures the ability not to fear tomorrow.", 
+      "A spiritual man can still be afraid of death, no matter how spiritual you may be, you will be afraid of death, because the reality of spirituality does not capture the ability not to fear death, it only captures the ability not to fear tomorrow.",
 
-"The supernatural aspect of you enable you not to fear demons",
-"The spiritual aspect of you enable you not to fear tomorrow.",
-"The immortal aspect of you enables you not to fear death.",
+      "The supernatural aspect of you enable you not to fear demons",
+      "The spiritual aspect of you enable you not to fear tomorrow.",
+      "The immortal aspect of you enables you not to fear death.",
 
-"Because there are natural aspect of man, supernatural aspect of man, spiritual aspect of man and immortal aspect of man, and there are food ordained to feed this four aspect of man.",
+      "Because there are natural aspect of man, supernatural aspect of man, spiritual aspect of man and immortal aspect of man, and there are food ordained to feed this four aspect of man.",
 
-"Literal food feed the natural aspect of man.",
+      "Literal food feed the natural aspect of man.",
 
-"Hearing the call of God and responding is the voice and word that wake and feed the supernatural aspect of us, once God called you into certain assignment and you respond he anoint you for that assignment, that gift and the anointing for his assignment is what make you supernatural.",
+      "Hearing the call of God and responding is the voice and word that wake and feed the supernatural aspect of us, once God called you into certain assignment and you respond he anoint you for that assignment, that gift and the anointing for his assignment is what make you supernatural.",
 
-"Hearing the Gospel and message of Faith and Grace is the voice that feed the spiritual aspect of us and builds us, that is why the scripture say I commend you to the message of his Grace which is able to build you.",
+      "Hearing the Gospel and message of Faith and Grace is the voice that feed the spiritual aspect of us and builds us, that is why the scripture say I commend you to the message of his Grace which is able to build you.",
 
-`Acts of the Apostles 20:32
+      `Acts of the Apostles 20:32
 [32]“And now I entrust you to God and the message of his grace that is able to build you up and give you an inheritance with all those he has set apart for himself.`,
 
-"Why hearing the mystery of God, mystery of the kingdom and the hidden wisdom of God which we communicate in mystery is what you need to feed and grow the immortality aspect of us into manifestation.",
+      "Why hearing the mystery of God, mystery of the kingdom and the hidden wisdom of God which we communicate in mystery is what you need to feed and grow the immortality aspect of us into manifestation.",
 
-"Because it take an immortal man to stand before death and be sleeping in peace like baby as Peter did in prison.",
+      "Because it take an immortal man to stand before death and be sleeping in peace like baby as Peter did in prison.",
 
-"Everything Jesus taught his disciples before his death is for their spiritual life, why everything he taught them after his resurrection which are things pertaining the kingdom of God not recorded, is for their immortal life, the power they waited for at Pentecost is for supernatural life.",
+      "Everything Jesus taught his disciples before his death is for their spiritual life, why everything he taught them after his resurrection which are things pertaining the kingdom of God not recorded, is for their immortal life, the power they waited for at Pentecost is for supernatural life.",
 
-`The medical doctors teach things pertaining to your natural and biological life,
+      `The medical doctors teach things pertaining to your natural and biological life,
 we teach thing pertaining to supernatural life which  your calling, So we teach things pertaining to your spiritual life also which is the message of Grace and Faith, we also teach things pertaining to your immortal life also which is the hidden wisdom of God we communicate in mystery that has been ordained for us before the foundation of the world, this is the message from the wisdom of the world to come.`,
 
-"Just as we have the power of the world to come, so also we have the wisdom of the world to come.",
+      "Just as we have the power of the world to come, so also we have the wisdom of the world to come.",
 
-"And this wisdom of the world to come is what paul described as the hidden wisdom of God which we communicate in mystery.",
+      "And this wisdom of the world to come is what paul described as the hidden wisdom of God which we communicate in mystery.",
 
-"1 Corinthians 2:7 But we speak the wisdom of God in a mystery, the hidden wisdom which God ordained before the ages for our glory,",
+      "1 Corinthians 2:7 But we speak the wisdom of God in a mystery, the hidden wisdom which God ordained before the ages for our glory,",
 
-"This wisdom we don't communicate them in principles and we don't communicate them in revelations.",
+      "This wisdom we don't communicate them in principles and we don't communicate them in revelations.",
 
-"The wisdom of God we communicate in principles they are for our natural life on Earth, because this Earth is governed by principles.",
+      "The wisdom of God we communicate in principles they are for our natural life on Earth, because this Earth is governed by principles.",
 
-"The wisdom of God we communicate in revelations are for our spiritual life because the spiritual life is governed by Faith and Grace and he feed on the light of revelation.",
+      "The wisdom of God we communicate in revelations are for our spiritual life because the spiritual life is governed by Faith and Grace and he feed on the light of revelation.",
 
-"Why the hidden wisdom which we communicate in mystery are for our immortal life because the immortal life is governed by mystery, it survived by mystery, it grows by mystery.",
+      "Why the hidden wisdom which we communicate in mystery are for our immortal life because the immortal life is governed by mystery, it survived by mystery, it grows by mystery.",
 
-"That is why paul said we are not just only a servant of Christ we are also stewards of the mystery of God.",
+      "That is why paul said we are not just only a servant of Christ we are also stewards of the mystery of God.",
 
-"As a servant of Christ you feed the spiritual life of men and grow their spiritual life, you work as shepherd and men following you are like sheep.",
+      "As a servant of Christ you feed the spiritual life of men and grow their spiritual life, you work as shepherd and men following you are like sheep.",
 
-"But as Steward of the mystery of God, you feed the immortality of people at the conference house of immortality, you work as custodian of God's mystery and men follow you as immortals.",
+      "But as Steward of the mystery of God, you feed the immortality of people at the conference house of immortality, you work as custodian of God's mystery and men follow you as immortals.",
 
-"Feeding on this kind of mystery is what make your corruptible life to be swallowed up by the incorruptible in you and your mortality is swallowed up by immortality and the scripture say when this happens, death is swallowed up in victory over your life.",
+      "Feeding on this kind of mystery is what make your corruptible life to be swallowed up by the incorruptible in you and your mortality is swallowed up by immortality and the scripture say when this happens, death is swallowed up in victory over your life.",
 
-"Many of us are just confessing by Faith that death is swallowed up in victory but we died as though we have not swallowed up death in victory.", 
+      "Many of us are just confessing by Faith that death is swallowed up in victory but we died as though we have not swallowed up death in victory.",
 
-"And we are shying away from this reality.",
+      "And we are shying away from this reality.",
 
-"You may say you don't need messages that have to do with the mystery of the kingdom and mystery of God, you are just saying you don't need the food that the immortality dimension of you need to survive, you don't need the food that the eternal life in you need to manifest.",
+      "You may say you don't need messages that have to do with the mystery of the kingdom and mystery of God, you are just saying you don't need the food that the immortality dimension of you need to survive, you don't need the food that the eternal life in you need to manifest.",
 
-"And the manifestation of the eternal life in us is the IMMORTALITY.",
-    
+      "And the manifestation of the eternal life in us is the IMMORTALITY.",
     ],
   },
   {
@@ -1877,181 +1649,1435 @@ we teach thing pertaining to supernatural life which  your calling, So we teach 
     bookName: "Banjo Ayeka Diary",
     title: "The Hidden Wisdom.",
     content: [
-    "1 Corinthians 2:7 But we speak the wisdom of God in a mystery, the hidden wisdom which God ordained before the ages for our glory,",
+      "1 Corinthians 2:7 But we speak the wisdom of God in a mystery, the hidden wisdom which God ordained before the ages for our glory,",
 
-"Paul is talking about something here which we need to pay attention to, he was talking about the hidden wisdom of God, the uniqueness of this wisdom and how this wisdom is designed to be communicated.",
+      "Paul is talking about something here which we need to pay attention to, he was talking about the hidden wisdom of God, the uniqueness of this wisdom and how this wisdom is designed to be communicated.",
 
-"1. First, when he begin to talk about this hidden wisdom he said it is a wisdom that was ordained for us before the foundation of the world, that is, this are the kind of wisdom we could be eating how I wish Adam didn't fall, it is not a wisdom that contain how to get what we lack, but it is a wisdom that contain how to use what God has freely created for us to produce what we will give to others.",
+      "1. First, when he begin to talk about this hidden wisdom he said it is a wisdom that was ordained for us before the foundation of the world, that is, this are the kind of wisdom we could be eating how I wish Adam didn't fall, it is not a wisdom that contain how to get what we lack, but it is a wisdom that contain how to use what God has freely created for us to produce what we will give to others.",
 
-"There are wisdom we begin to feed ourselves with after the fall, which was not ordained for our glory, and the plan of God is that after you have been raised with Christ and have received eternal life, you must be introduced back to this wisdom, because the scripture say this wisdom is the main tree of life.",
+      "There are wisdom we begin to feed ourselves with after the fall, which was not ordained for our glory, and the plan of God is that after you have been raised with Christ and have received eternal life, you must be introduced back to this wisdom, because the scripture say this wisdom is the main tree of life.",
 
-"Proverbs 3:13 Happy is the man who finds wisdom, And the man who gains understanding;",
+      "Proverbs 3:13 Happy is the man who finds wisdom, And the man who gains understanding;",
 
-"Proverbs 3:18 She is a tree of life to those who take hold of her, And happy are all who retain her.",
+      "Proverbs 3:18 She is a tree of life to those who take hold of her, And happy are all who retain her.",
 
-"Verse 13 says happy is the man that finds wisdom, verse 18 say that wisdom is the tree of life, the ending part of verse 18 now say happy is the man that retain this tree of life( wisdom)",
+      "Verse 13 says happy is the man that finds wisdom, verse 18 say that wisdom is the tree of life, the ending part of verse 18 now say happy is the man that retain this tree of life( wisdom)",
 
-"The problem of Adam was that he found the wisdom but he could not retain it' so he lost it.",
+      "The problem of Adam was that he found the wisdom but he could not retain it' so he lost it.",
 
-"That is why the scripture say truly happy are you when you found the wisdom, but happy are you also when you retain it.",
+      "That is why the scripture say truly happy are you when you found the wisdom, but happy are you also when you retain it.",
 
-"Meaning, when Adam was sent out of the garden of Eden and was prevented from eating the tree of life, that tree of life is wisdom, meaning God send Adam out of where he can feed from the wisdom of God.",
+      "Meaning, when Adam was sent out of the garden of Eden and was prevented from eating the tree of life, that tree of life is wisdom, meaning God send Adam out of where he can feed from the wisdom of God.",
 
-"That is, tree of life is the tree of the hidden wisdom of God, meaning, when God ask him to eat the tree of life, God was opening a dimension of portals for him in the Spirit where he can have access to the hidden wisdom of God.",
+      "That is, tree of life is the tree of the hidden wisdom of God, meaning, when God ask him to eat the tree of life, God was opening a dimension of portals for him in the Spirit where he can have access to the hidden wisdom of God.",
 
-"Now this is my question, if the scripture describe the tree of life to be wisdom, and God seperate Adam from that tree of life, meaning, for over 4000 years men was banned from accessing the hidden wisdom of God until christ who is the wisdom came again.",
+      "Now this is my question, if the scripture describe the tree of life to be wisdom, and God seperate Adam from that tree of life, meaning, for over 4000 years men was banned from accessing the hidden wisdom of God until christ who is the wisdom came again.",
 
-"Until Christ came and begin to give us access back to the garden of Eden, because for some of us now we are in Eden, we have seen the tree of life, personally I have seen the tree of life, every of the mystery you are reading in this teaching, are product of what I eat from that tree.",
+      "Until Christ came and begin to give us access back to the garden of Eden, because for some of us now we are in Eden, we have seen the tree of life, personally I have seen the tree of life, every of the mystery you are reading in this teaching, are product of what I eat from that tree.",
 
-"It is that tree of life that contain the hidden wisdom of God that God ordained for us before the ages, and once you have received eternal life, you need information from the tree of life to grow the eternal life in you to the stage where the fruit will be a manifestation of the immortality in you.",
+      "It is that tree of life that contain the hidden wisdom of God that God ordained for us before the ages, and once you have received eternal life, you need information from the tree of life to grow the eternal life in you to the stage where the fruit will be a manifestation of the immortality in you.",
 
-"And Paul begin to say that this wisdom is hidden, it is not the open wisdom of God, it is the hidden wisdom of God.",
+      "And Paul begin to say that this wisdom is hidden, it is not the open wisdom of God, it is the hidden wisdom of God.",
 
-"1 Corinthians 2:7 But we speak the wisdom of God in a mystery, the HIDDEN WISDOM which God ordained before the ages for our glory,",
+      "1 Corinthians 2:7 But we speak the wisdom of God in a mystery, the HIDDEN WISDOM which God ordained before the ages for our glory,",
 
-"Because just as we have the open wisdom of God which we communicate as law and principles so also we have the hidden wisdom of God which we communicate in mystery.",
+      "Because just as we have the open wisdom of God which we communicate as law and principles so also we have the hidden wisdom of God which we communicate in mystery.",
 
-"The open wisdom of God is the one that came through Moses as law, which Moses begin to teach the children of Israel.",
+      "The open wisdom of God is the one that came through Moses as law, which Moses begin to teach the children of Israel.",
 
-"Kindly see it in this scripture;",
+      "Kindly see it in this scripture;",
 
-"Deuteronomy 4:5 “Surely I have taught you statutes and judgments, just as the Lord my God commanded me, that you should act according to them in the land which you go to possess.",
+      "Deuteronomy 4:5 “Surely I have taught you statutes and judgments, just as the Lord my God commanded me, that you should act according to them in the land which you go to possess.",
 
-"Deuteronomy 4:6 Therefore be careful to observe them; for this is your wisdom and your understanding in the sight of the peoples who will hear all these statutes, and say, ‘Surely this great nation is a wise and understanding people.",
+      "Deuteronomy 4:6 Therefore be careful to observe them; for this is your wisdom and your understanding in the sight of the peoples who will hear all these statutes, and say, ‘Surely this great nation is a wise and understanding people.",
 
-"In verse 4 Moses said he has taught them statutes and judgement of God as the lord has commanded him, and in verse 5 he begin to say that this statutes and judgement are your wisdom and understanding in the sight of man.",
+      "In verse 4 Moses said he has taught them statutes and judgement of God as the lord has commanded him, and in verse 5 he begin to say that this statutes and judgement are your wisdom and understanding in the sight of man.",
 
-"Someone is saying if this law and statutes that came through Moses are open wisdom of God, why did scripture now say we are no longer under the law but under grace, does that mean we are no longer under this open wisdom?",
+      "Someone is saying if this law and statutes that came through Moses are open wisdom of God, why did scripture now say we are no longer under the law but under grace, does that mean we are no longer under this open wisdom?",
 
-"Yes, this wisdom is the law that came through Moses and the good news is that we are no longer under them, why? Because they are now in us!",
+      "Yes, this wisdom is the law that came through Moses and the good news is that we are no longer under them, why? Because they are now in us!",
 
-"The scripture say i will write the same law (wisdom) inside of you and put them in your mind.",
+      "The scripture say i will write the same law (wisdom) inside of you and put them in your mind.",
 
-"Hebrews 8:10 For this is the covenant that I will make with the house of Israel after those days, says the Lord: I will put My laws in their mind and write them on their hearts; and I will be their God, and they shall be My people.",
+      "Hebrews 8:10 For this is the covenant that I will make with the house of Israel after those days, says the Lord: I will put My laws in their mind and write them on their hearts; and I will be their God, and they shall be My people.",
 
-"Under the old covenant you are under the law, you are under the wisdom and instead of the wisdom to benefit you, it curses you, because cursed is everyone that is under the law.",
+      "Under the old covenant you are under the law, you are under the wisdom and instead of the wisdom to benefit you, it curses you, because cursed is everyone that is under the law.",
 
-`Galatians 3:10 The Law Brings a Curse
+      `Galatians 3:10 The Law Brings a Curse
 For as many as are of the works of the law are under the curse; for it is written, “Cursed is everyone who does not continue in all things which are written in the book of the law, to do them.”`,
 
-"And we all know that no one can continue to do all that is written in the law, you will surely offend in one, and the scripture say if you obey 99 and failed in just one , you are guity of all.",
+      "And we all know that no one can continue to do all that is written in the law, you will surely offend in one, and the scripture say if you obey 99 and failed in just one , you are guity of all.",
 
-`NKJV, James 2:10
+      `NKJV, James 2:10
 For whoever shall keep the whole law, and yet stumble in one point, he is guilty of all.`,
 
-"So you can't be under the law  and be free from Gods curse.",
+      "So you can't be under the law  and be free from Gods curse.",
 
-"But under the New Covenant now, we are no longer under the law because the law is now in us, God has put the law in us as a seed now manifesting as the fruit of the SPIRIT.",
+      "But under the New Covenant now, we are no longer under the law because the law is now in us, God has put the law in us as a seed now manifesting as the fruit of the SPIRIT.",
 
-"And this scripture now said aside this nine fruit of the SPIRIT there is no other law again.",
+      "And this scripture now said aside this nine fruit of the SPIRIT there is no other law again.",
 
-"Galatians 5:22 But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness,",
+      "Galatians 5:22 But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness,",
 
-"Galatians 5:23 gentleness, self-control. Against such THERE IS NO LAW.",
+      "Galatians 5:23 gentleness, self-control. Against such THERE IS NO LAW.",
 
-"So the law is no longer ten commandments, the law is now nine fruit of the spirit, the wisdom is no longer a law, it is now a fruit.",
+      "So the law is no longer ten commandments, the law is now nine fruit of the spirit, the wisdom is no longer a law, it is now a fruit.",
 
-"Moses came and make it ten commandments, Jesus came and summarises them into two (love your God and your neighbor) and he said aside this two there is no law.",
+      "Moses came and make it ten commandments, Jesus came and summarises them into two (love your God and your neighbor) and he said aside this two there is no law.",
 
-"But when HOLY SPIRIT came he summarise everything into nine fruit.",
+      "But when HOLY SPIRIT came he summarise everything into nine fruit.",
 
-"James 3:17 But the wisdom that is from above is first pure, then peaceable, gentle, willing to yield, full of mercy and good fruits, without partiality and without hypocrisy.",
+      "James 3:17 But the wisdom that is from above is first pure, then peaceable, gentle, willing to yield, full of mercy and good fruits, without partiality and without hypocrisy.",
 
-"You can see how the open wisdom from above manifest, he doesn't manifest in oratory, it manifest in character.",
+      "You can see how the open wisdom from above manifest, he doesn't manifest in oratory, it manifest in character.",
 
-"So all this are the open wisdom of God which are communicated in principles of how to behave in life.",
+      "So all this are the open wisdom of God which are communicated in principles of how to behave in life.",
 
-"But coming to 1 Corinthians 2:7  Paul begin to talk about a certain wisdom and he said this wisdom is called the hidden wisdom of God and we don't communicate this wisdom in principles, we communicate it in mystery.",
+      "But coming to 1 Corinthians 2:7  Paul begin to talk about a certain wisdom and he said this wisdom is called the hidden wisdom of God and we don't communicate this wisdom in principles, we communicate it in mystery.",
 
-"1 Corinthians 2:7 But we speak the wisdom of God in a mystery, the hidden wisdom which God ordained before the ages for our glory,",
+      "1 Corinthians 2:7 But we speak the wisdom of God in a mystery, the hidden wisdom which God ordained before the ages for our glory,",
 
-"Infact this hidden wisdom of God we don't communicate it by revelation, we only communicate it in mystery.",
+      "Infact this hidden wisdom of God we don't communicate it by revelation, we only communicate it in mystery.",
 
-"There are wisdom of God communicated in principles",
-"There are wisdom of God we communicate in revelation",
-"Why there are wisdom of God we communicate in mystery.",
+      "There are wisdom of God communicated in principles",
+      "There are wisdom of God we communicate in revelation",
+      "Why there are wisdom of God we communicate in mystery.",
 
-"The wisdom of God we communicate in revelation are the mystery we communicate and also explan by ourselves in other for people to understand, that is, we receive that wisdom from God as mystery but we didn't communicate it in mystery, but we begin to communicate it in revelation, that is, we received it in mystery but begin to explain it by ourselves for people to understand it based on the understanding we give them by explanations.",
+      "The wisdom of God we communicate in revelation are the mystery we communicate and also explan by ourselves in other for people to understand, that is, we receive that wisdom from God as mystery but we didn't communicate it in mystery, but we begin to communicate it in revelation, that is, we received it in mystery but begin to explain it by ourselves for people to understand it based on the understanding we give them by explanations.",
 
-"Why the hidden wisdom we communicate in mystery are the message we write and trust God for Holy Spirit to explain and interpret it for us by himself. At this level if I write one paragraph, you will have to purse and pray to Holy spirit to help you understand what I am saying.",
+      "Why the hidden wisdom we communicate in mystery are the message we write and trust God for Holy Spirit to explain and interpret it for us by himself. At this level if I write one paragraph, you will have to purse and pray to Holy spirit to help you understand what I am saying.",
 
-"That is, the hidden wisdom of God we communicate in revelation we explain it for people by ourselves, why the hidden wisdom of God we communicate in mystery, we say and write it and trust the Holy Ghost to do the explanation and interpretation for people by himself.",
+      "That is, the hidden wisdom of God we communicate in revelation we explain it for people by ourselves, why the hidden wisdom of God we communicate in mystery, we say and write it and trust the Holy Ghost to do the explanation and interpretation for people by himself.",
 
-"It is the writing of the kingdom that I am only permitted to write but I am not permitted to explain.",
+      "It is the writing of the kingdom that I am only permitted to write but I am not permitted to explain.",
 
-"All I said to myself after writing is to speak like John that let him that have understanding understand the meaning of this sayings.",
+      "All I said to myself after writing is to speak like John that let him that have understanding understand the meaning of this sayings.",
 
-"Revelation 13:18 Here is wisdom. Let him who has understanding calculate the number of the beast, for it is the number of a man: His number is 666.",
+      "Revelation 13:18 Here is wisdom. Let him who has understanding calculate the number of the beast, for it is the number of a man: His number is 666.",
 
-"This kind of hidden wisdom we communicate in mystery, was communicated in mystery because that is the only grace available, we are only given the grace to know it and say it, not to know it and explan it, if i try to begin to explain it beyond the grace of explanation available, i will complicate the matter the more.",
+      "This kind of hidden wisdom we communicate in mystery, was communicated in mystery because that is the only grace available, we are only given the grace to know it and say it, not to know it and explan it, if i try to begin to explain it beyond the grace of explanation available, i will complicate the matter the more.",
 
-"Because just as we have the grace of revelation so also we have the grace of explanation.",
+      "Because just as we have the grace of revelation so also we have the grace of explanation.",
 
-"It is a situations whereby the Grace to write it was only what God supply but the grace to explain it was not given.",
+      "It is a situations whereby the Grace to write it was only what God supply but the grace to explain it was not given.",
 
-"Men like E.W kenyon also walk in this reality, men of his generation never understand what he was writing, some of his books was banned from the body of Christ in his generation.",
+      "Men like E.W kenyon also walk in this reality, men of his generation never understand what he was writing, some of his books was banned from the body of Christ in his generation.",
 
-"But close to 100 years later Holy Spirit begin to teach us himself those things he wrote in his books.",
+      "But close to 100 years later Holy Spirit begin to teach us himself those things he wrote in his books.",
 
-"Just imagine someone who have wrote on eternal security close to years ago and yet 100 years after many can't still comprehend it.",
+      "Just imagine someone who have wrote on eternal security close to years ago and yet 100 years after many can't still comprehend it.",
 
-"Just imagine if 100 years after many can't still understand that once they are saved they can't lose their salvation, now imagine those that exist in his days when those writing was published, they will almost stone him to death and call his light Darkness.",
+      "Just imagine if 100 years after many can't still understand that once they are saved they can't lose their salvation, now imagine those that exist in his days when those writing was published, they will almost stone him to death and call his light Darkness.",
 
-"People didn't know that when you speak and a natural man can understand what you are saying then what you are saying is not the light from God.",
+      "People didn't know that when you speak and a natural man can understand what you are saying then what you are saying is not the light from God.",
 
-"The scripture say and the light shine and darkness cannot comprehend it.",
+      "The scripture say and the light shine and darkness cannot comprehend it.",
 
-"John 1:5 And the light shines in the darkness, and the darkness did not comprehend it.",
+      "John 1:5 And the light shines in the darkness, and the darkness did not comprehend it.",
 
-"The word comprehend mean understand it, meaning, what that scripture is saying is that if we shine our light by teaching the light (Revelational knowledge) darkness cannot understand what we are saying.",
+      "The word comprehend mean understand it, meaning, what that scripture is saying is that if we shine our light by teaching the light (Revelational knowledge) darkness cannot understand what we are saying.",
 
-"They will pay attention and yet they will not understand, the scripture didn't say our light will overcome darkness, he didn't say darkness will not be able overcome it, the emphasis of that scripture is that darkness will not understand it.",
+      "They will pay attention and yet they will not understand, the scripture didn't say our light will overcome darkness, he didn't say darkness will not be able overcome it, the emphasis of that scripture is that darkness will not understand it.",
 
-"They will pick Banjo Ayeka's DIARY and they will not be able to understand it, if they can understand then what I am sharing is not a true light.",
+      "They will pick Banjo Ayeka's DIARY and they will not be able to understand it, if they can understand then what I am sharing is not a true light.",
 
-"Meaning, if a natural man can pick my teaching and they can understand it then it is not a light from God.",
+      "Meaning, if a natural man can pick my teaching and they can understand it then it is not a light from God.",
 
-"It is light when it is given to darkness and darkness cannot comprehend it.",
+      "It is light when it is given to darkness and darkness cannot comprehend it.",
 
-"Someone say do darkness have intelligence to comprehend?",
+      "Someone say do darkness have intelligence to comprehend?",
 
-"Yes, they can comprehend, if you argue that it means you don't know darkness.",
+      "Yes, they can comprehend, if you argue that it means you don't know darkness.",
 
-"If the scripture say we are the light of the world, it means men also are the darkness of the world.",
+      "If the scripture say we are the light of the world, it means men also are the darkness of the world.",
 
-"Meaning, darkness are human beings!",
+      "Meaning, darkness are human beings!",
 
-"And the scripture say this human beings called darkness they will not be able to comprehend what we are saying.",
+      "And the scripture say this human beings called darkness they will not be able to comprehend what we are saying.",
 
-"The scripture say a natural man no matter how you explain to them, they cannot comprehend the things of the Spirit.",
+      "The scripture say a natural man no matter how you explain to them, they cannot comprehend the things of the Spirit.",
 
-"So if a natural man now come to your church and begin to pick sense and understanding from what you are saying then what you are releasing is not light, it is not spiritual things.",
+      "So if a natural man now come to your church and begin to pick sense and understanding from what you are saying then what you are releasing is not light, it is not spiritual things.",
 
-"You are only speaking into the intelligence and sense of man, you are not speaking to their Spirit.",
+      "You are only speaking into the intelligence and sense of man, you are not speaking to their Spirit.",
 
-"There are men of God that all they do is to speak into the intelligence and sense of man, they claim they are called to minister to educated people.",
+      "There are men of God that all they do is to speak into the intelligence and sense of man, they claim they are called to minister to educated people.",
 
-"But when God give you a message, you are to speak into the Spirit of man, in this realm your education has no advantage, you can be a professor and know nothing about the mystery of the kingdom and you can be an illiterate in terms of academic standard of this world and know much about the mystery of the kingdom.",
+      "But when God give you a message, you are to speak into the Spirit of man, in this realm your education has no advantage, you can be a professor and know nothing about the mystery of the kingdom and you can be an illiterate in terms of academic standard of this world and know much about the mystery of the kingdom.",
 
-"That is why you can't use explanation of the message of the kingdom to bring anyone into Salvation, it must be light of the gospel that will enter into their heart and make them come to the knowledge of Christ, it is not by much persuasion of eloquence that lead to conviction, it is an encounter with light that lead to conviction.",
+      "That is why you can't use explanation of the message of the kingdom to bring anyone into Salvation, it must be light of the gospel that will enter into their heart and make them come to the knowledge of Christ, it is not by much persuasion of eloquence that lead to conviction, it is an encounter with light that lead to conviction.",
 
-"That is why we don't try to explain beyond the Grace given to us, because there are people that will never come to the understanding of what you are saying even though you use Heaven and Earth to explain, because it has not been given to them to know the mystery of the kingdom.",
+      "That is why we don't try to explain beyond the Grace given to us, because there are people that will never come to the understanding of what you are saying even though you use Heaven and Earth to explain, because it has not been given to them to know the mystery of the kingdom.",
 
-`Luke 8:10 And He said, “To you it has been given to know the mysteries of the kingdom of God, but to the rest it is given in parables, that
+      `Luke 8:10 And He said, “To you it has been given to know the mysteries of the kingdom of God, but to the rest it is given in parables, that
 ‘Seeing they may not see,
 And hearing they may not understand.’`,
 
-"Meaning knowing the mystery of the kingdom is a gift, there are level of spiritual intelligence that must be given to you by God to comprehend it, just as teaching the mystery of the kingdom is a gift, you must be a steward of Gods mystery to teach it, so also knowing it is a gift, you must have some level of spiritual intelligence to know it.",
+      "Meaning knowing the mystery of the kingdom is a gift, there are level of spiritual intelligence that must be given to you by God to comprehend it, just as teaching the mystery of the kingdom is a gift, you must be a steward of Gods mystery to teach it, so also knowing it is a gift, you must have some level of spiritual intelligence to know it.",
 
-"I am only ordained by God to write to those whom have been given to know the mystery of the kingdom.",
+      "I am only ordained by God to write to those whom have been given to know the mystery of the kingdom.",
 
-"And if you don't belong to that lineage God only speak to you in parables and limit you to the open wisdom of God, so all what God is teaching you for 20 years is the message of holiness and righteousness, all your message is about attacking the wrong of everyone and correcting the right of everyone and you called it holiness message.",
+      "And if you don't belong to that lineage God only speak to you in parables and limit you to the open wisdom of God, so all what God is teaching you for 20 years is the message of holiness and righteousness, all your message is about attacking the wrong of everyone and correcting the right of everyone and you called it holiness message.",
 
-"When you are ready to build the immortality in you to manifestation, you will see God bringing you across messages that contain the hidden wisdom of God which we communicate in mystery.",
+      "When you are ready to build the immortality in you to manifestation, you will see God bringing you across messages that contain the hidden wisdom of God which we communicate in mystery.",
 
-"Because no man become immortal until he have encounter with the mystery of the kingdom, until he encounter the message of men who are stewards of the mystery of God.",
+      "Because no man become immortal until he have encounter with the mystery of the kingdom, until he encounter the message of men who are stewards of the mystery of God.",
+    ],
+  },
+  {
+    id: 10,
+    page: "7b",
+    bookName: "Banjo Ayeka Diary",
+    title: "The Spirit of A Man.",
+    content: [
+      "1 Corinthians 2:11 For what man knows the things of a man except the spirit of the man which is in him? Even so no one knows the things of God except the Spirit of God.",
 
-    
+      "Get this, everything that a man knows, it is either the Spirit of a man that educate him about it or the Spirit of God.",
+
+      "Any information in your mind and head that is not sponsored by either your spirit or the Spirit of God in you is your greatest enemy, the scripture describes them as stronghold and they must be pull down.",
+
+      `2 Corinthians 10:4-5
+      4: For the weapons of our warfare are not physical [weapons of flesh and blood], but they are mighty before God for the overthrow and destruction of strongholds,`,
+
+      "5[Inasmuch as we] refute arguments and theories and reasonings and every proud and lofty thing that sets itself up against the [true] knowledge of God; and we lead every thought and purpose away captive into the obedience of Christ (the Messiah, the Anointed One),",
+
+      "But many didn't know that knowledge that form our ideology that is not from our spirit and holy spirit is called stronghold and  one of this stronghold in us are the many things we learn in our higher institutions.",
+
+      "Get this, it is only what spirit teach you to know that you can use to fulfil purpose and destiny in life.",
+
+      "Show me the information in your hand, if it is the information given to you by your spirit or by the Spirit of God, I will tell you that such information is truth, because there're education and information put in you by the system of this world or ideology of this life and they are your enemy.",
+
+      "That is why the scripture say there is a spirit in man and the inspiration of the Almighty gives that Spirit understanding.",
+
+      `Job 32:8 But there is a spirit in man,
+      And the breath of the Almighty gives him understanding.`,
+
+      "I love the way the Amplified version put it.",
+
+      `Job 32:8
+      8But there is [a vital force] a spirit [of intelligence] in man, and the breath of the Almighty gives men understanding.`,
+
+      "The scripture didn't say education from higher institutions gives that spirit understanding.",
+
+      "Get this fact about Spirit that sponsored education.",
+
+      "Look at the scripture very well.",
+
+      `Job 32:8 But there is a spirit in man,
+      And the breath of the Almighty gives him understanding.`,
+
+      "The scripture says there is a spirit in man that know the things of man, he also mentioned the Spirit of God that know the things of God.",
+
+      "Meaning, behind every knowledge there are Spirit.",
+
+      "1. And we have the spirit of man that help you to know the things of man.",
+
+      "2. We have the Spirit of God that help you to know the things of God.",
+
+      "3. We also have the Spirit of this world that help you to know the things of this world.",
+
+      "And the spirit of this world is so organized to the extent that they now have a formalised systems through which you can know the things of this world and they call it academic school, they now told you that if you don't know the things of this world you are taught in higher institutions, you can never become something in life. (And this is the first stronghold you must put down to fufil God's purpose in life)",
+
+      "And after teaching you the things of this world, they give you certificate for learning and they tell you that certificate is your life, that is, your life depend on that certificate they gave to you (they cage your life in a paper and give it to you)",
+
+      "I am just showing you how the power of darkness is ruling many lives.",
+
+      "So now, we don't allow our spirit to educate us, and the Information loaded in our Spirit is about the things of man, so we don't explore that realm, we know nothing about the things of man and that is why we fall into many sickness that we now think the solution provided by education from the spirit of this world is to solve the sickness.",
+
+      "We don't know that if we allow the spirit in man to educate us about the things of man, there are sicknesses that can never manifest in us, even though we don't have Holy Spirit.",
+
+      "There are strange wisdom embedded in this our human Spirit that we can explore and begin to live like immortal even without the Holy Ghost.",
+
+      "Have you not seen men who know how to use the power of medications and begin to speak some strange wisdom about this life and yet they are not born again?",
+
+      "These are men who have mastered how to use their spirit and you begin to see them speaking the things of man, many of our local food we are eating in Nigeria are product of wisdom from our human spirit. How do men got to know that you can bring out red oil out of palm tree, bring out garri out of Cassava, how do they discover those wisdom?  It is because there is a Spirit in man and the inspiration of the Almighty give those spirit understanding.",
+
+      "Because those food are things of man, and it is only the Spirit of man that knows the things of man.",
+
+      "Who are the people that form the dialect and language of your community, I just grew up to discover i can speak yoruba, who are the people that formed that language and they mastered it and make it a means of communication, all this are the capacity embedded in the spirit of man.",
+
+      "But there is a spirit called the god of this world and his assignment is to promote a civilisation that is darkness, that civilisation look as exposure but they are only opening our eyes to our nakedness, it make you to see the knowledge pertaining to things of man as old school and make you to see the knowledge pertaining to things of God as foolishness and now make you to see the knowledge pertaining things of this world to be civilisation.",
+
+      "Can I shock you, the Holy Spirit  didn't come to teach you the things of man, the assignment of the Holy Spirit is to teach you the things of God, why the assignment of the human spirit given to you is to teach you the things of man (And those are the two knowledge we are designed by God to need)",
+
+      "Can you now understand why God say do not love the world neither the things that of the world, because everything in the world didn't come from the Father.",
+      `
+      1 John 2:15 Do Not Love the World
+      Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him.`,
+
+      "1 John 2:16 For all that is in the world—the lust of the flesh, the lust of the eyes, and the pride of life—is not of the Father but is of the world.",
+
+      "That is, they didn't come from the spirit of God, they did not also come from the Spirit of man, they are things that come from the Spirit of this world.",
+
+      "Loving the things that come from man is not a sin, loving the things that come from God is not a sin, but loving the things that come from this world make you an automatic enemy of God,",
+
+      "There are men on this earth that didn't have human spirit, the spirit they have in their body as their human spirit didn't come from God, it is the spirit of this world, they are not human being created by God, salvation didn't belong to them, they are generation of vipers, the spirit of anti-God and anti-Christ is what is in them, they make the things of man and present it as old school and make the things of God and present it as foolishness and make the things of this world and present it as civilisation.",
+
+      "They have strange understanding also, but it is not the inspiration of the Almighty sponsoring that understanding, because the spirit is them is not the spirit of man, it is the spirit of this world.",
+
+      "Most of the things they created, it is not the inspiration of the Almighty that give them understanding, that is why God said everything they created didn't come from him.",
+
+      "Look at the scripture again",
+
+      "1 John 2:16 For all that is in the world—the lust of the flesh, the lust of the eyes, and the pride of life—is not of the Father but is of the world.",
+
+      "The scripture didn't say for all that is in the earth do not come from the father, the emphasise is about the things of the world.",
+
+      "The things of the earth is different from the things of the world, the things of this earth are created for purpose to solve the need of man and we bought them for those good purpose, but the things of this world are created for pleasure and not for purpose, they are for the lust of the eyes, lust of flesh and pride of life.",
+
+      "So there are cars for instance that are created by the spirit of man, and there are cars that are created by the spirit of this world, there are house built by the spirit of man and there are house built by the spirit of this world, so everything created by the spirit of this world are what the scripture describes as things of this world.",
+
+      "Because they don't create things for purpose, they only create things for the pride of life, lust of the eyes and lust of the flesh, and people by their product didn't buy them for any reasonable purpose that have to do with the need of man, they are bought because of lust of eyes, lust of the flesh and pride of life.",
+
+      "It is easy to know the difference between the things created by human Spirit by the inspiration of the Almighty and the things created by the Spirit of the god of this world, when the spirit of man create anything by the inspiration of the Almighty it is for purpose, it is to solve the problem of the need of man, but when the spirit of this world created their own it will never be for purpose, it will be for pleasure, for gratifying the lust of the flesh, lust of the eyes and pride of life.",
+
+      "And God's plan is for us to submit to our spirit to educate us concerning the things of man and submit to Holy Spirit to educate us concerning the things of God, but many of us now submit to the spirit of this world because all we want to know are not things of man and things of God but the things of this world.",
+
+      "1 Corinthians 2:11 For what man knows the things of a man except the spirit of the man which is in him? Even so no one knows the things of God except the Spirit of God.",
+
+      "1 Corinthians 2:12 Now we have received, not the spirit of the world, but the Spirit who is from God, that we might know the things that have been freely given to us by God.",
+
+      "When you look at that scripture very well, you will discover that three spirit was mentioned in that bible verse.",
+
+      "1. The Spirit of man which enable you to know the things of man.",
+
+      "2. The Spirit of God which enable you to know the things of God.",
+
+      "3. The Spirit of this world which enable you to know the things of this world.",
+
+      "Because spirit is the one behind every knowledge, and to get knowledge from any Spirit you must submit to that Spirit.",
+
+      "Someone is saying how can I submit myself to my spirit to educate me about the things if man?",
+
+      "And how can I submit to the Holy Spirit to educate me about the things of the Spirit.",
+
+      "How can I also destroy the education I have received from the spirit of this world that have formed stronghold in my heart.",
+
+      "Just be following.....",
+    ],
+  },
+  {
+    id: 11,
+    page: "8a",
+    bookName: "Banjo Ayeka Diary",
+    title: "The Inspiration Of The Almighty.",
+    content: [
+      "1 Corinthians 2:11 For what man knows the things of a man except the SPIRIT OF THE MEN which is in him? Even so no one knows the things of God except the SPIRIT OF GOD.",
+
+      "1 Corinthians 2:12 Now we have received, not the SPIRIT OF THE WORLD, but the Spirit who is from God, that we might know the things that have been freely given to us by God.",
+
+      "In our studies from the book of 1 Corinthians 2 vs 11-12 we begin to pick out three major Spirits that influences the life of man which are",
+
+      "1. The spirit of man that know the things of man and educate you with the things of man,",
+
+      "2 The Spirit of God that know the things of God and educate you with the things of God and",
+
+      "3 The Spirit of this world that know the things of this world and educate you with the things of the world.",
+
+      "Go back to that scripture and you will take note of these three spirits and their purpose.",
+
+      "And one thing you must master is how to submit yourself to your spirit to be educated by your spirit pertaining to the things of man and how to submit yourself to be educated by the Holy Spirit pertaining the things of God, how to debunk and deliver yourself from the knowledge from the Spirit of the world that has become stronghold in your heart full of ideology contrary to Faith and wisdom of God.",
+
+      "The knowledge from the spirit of the world given to us is so that we can survive in life not so that we can fufil in life.",
+
+      "95 % of the knowledge we gain from our high institutions are knowledge from the spirit of this world and it is to make you survive in life not to fufil in life' and the plan of God  for you is to provide for you things you will survive with without running after them so that you can focus on things you will fulfil with  as your run after them  because for that purpose you were born .( Mathew 6:25-32)",
+
+      "When you are ready to begin to walk in the part of destiny then you will know that your teacher is already inside of you which is your spirit and all that the spirit need is the inspiration of the Almighty to give you understanding.  And  the manifestation of what your spirit taught you is what will begin to bring out your uniqueness in life.",
+
+      "You are just like everybody in life if what you know is not the product of the inspiration of the Almighty given your spirit understanding.",
+
+      "Now get this, the aspect of yourself you must submit to your spirit to be educated by your spirit and also submit to the Spirit of God to be educated by the Spirit of God is your mind.",
+
+      "Your mind need to be reset to change your perspective and your mind need to be renewed to change your character, not by the knowledge from the spirit of this world but by the knowledge by the spirit of man and the Spirit of God.",
+
+      "Because the way your mind is set is what determines the way you see things and the way your mind is built is what determines the way you act and react on things.",
+
+      "And the plan of God is that your mind need two basic education, which is the knowledge of the things of man and the knowledge of the thing of God.",
+
+      "And the scripture say no man knows the things of man except the Spirit of man, Meaning, your mind need your spirit to teach him the things of man.",
+
+      "The scripture also say no man know the things of God except the Spirit of God, Meaning, your mind need the Spirit of God to know the things of God.",
+
+      "1 Corinthians 2:11 For what man knows the things of a man except the SPIRIT OF THE MEN which is in him? Even so no one knows the things of God except the SPIRIT OF GOD.",
+
+      "Now the question is how do your spirit give your mind understanding? How do your spirit educate your mind?",
+
+      "The answer is in the book of job.",
+
+      "He said there is a spirit in man and it is the inspiration of the Almighty that give that  spirit understanding.",
+
+      `Job 32:8
+8But there is [a vital force] a spirit [of intelligence] in man, and the inspiration of the Almighty gives men understanding.`,
+
+      "And when I check the dictionary meaning of the word inspiration , it explained it as the process of being mentally stimulated to do or feel something, especially to do something creative.",
+
+      "Get this, there is something called the inspiration of the Almighty, the assignment of this inspiration of the Almighty is to give your spirit understanding and that spirit now begin to educate you' you begin to know things yourself without anyone teaching you, how you know you know jou cant just explain.",
+
+      "All your spirit need to educate you is understanding, and all your spirit need to get understanding is called the inspiration of the Almighty.",
+
+      "And the manifestation of the understanding that this inspiration of the Almighty give to you is called talent.",
+
+      "When the inspiration of the Almighty gives your spirit understanding, the understanding doesn't manifest as teaching ability, it manifest as talent, you will suddenly have the extra ordinary ability to do what a natural man cannot just do and in it lies your destiny assignment.",
+
+      "Many of us build our life in the area of skill,rather than building ourselves in the area of our God given talent and gift, system of this world destroy our self image and make us to think it is on this earth you will learn what to do with your life , when you are born with what to do with your life.",
+
+      "A farmer doesn't get to farm and be looking for farm tools to work, he came with his farm tools from home, so also everything you need to work in life can never be found in life, they can only be found in you, you came with it, they are not skills they are talent.",
+
+      "Skill is what you are taught by men which your learn with your brain.",
+
+      "Talent is what you are taught by your own human spirit which you learn with your mind.",
+
+      "Gift is what you are taught by the Holy spirit which you learn with your born again spirit.",
+
+      "Mind you there are skills that have left the realm of skills, they have been categorized with talent, once your spirit has hijacked your skill from your head and you now begin to receive education from your spirit on that skills, then that skill is no longer a skill, it has become talent.",
+
+      "Have you not see some fashion designers who are receiving styles by inspiration of the Almighty, that is what they are sowing now is not longer a product of what they learn from anyone or any online, but they sat down and inspiration of the Almighty came to their spirit and he begin to give them understanding on a new and unique style.",
+
+      "Gift is from the Holy Spirit, why Talent is from the Human Spirit. Gift is a supernatural ability, talent is a extra ordinary ability.",
+
+      "Get this, once you have human spirit  you have talent, when the scripture say there is treasure in your earthly vessel, the scripture is talking about your human spirit, your human spirit is a treasure.",
+
+      "All you just need is the inspiration of the Almighty, and just be following, I will show you how it come.",
+
+      "Just as we working with the gift of the Holy Spirit need the quicken of the spirit to flow and manifest,so also those working with talent need inspiration of the Almighty to give their spirit understanding.",
+
+      "Talent is the manifestation you see when the inspiration of the Almighty give your human spirit understanding.",
+
+      "Have you not seen people singing powerfully and you enjoy the songs and yet they are not born again, infact they are not singing for Jesus, they just sing a secular song and within you, you know this song is sweet.",
+
+      "And you ask him how did he get this song? And he told you that the inspiration just came.",
+
+      "He can't explain where the inspiration came from, the fact is that it came from God, inspiration is not only for those born again, it is for everyone created by God, once you have human spirit you can be inspired.",
+
+      "You only need to be born again to be quicken by the Spirit but you don't need to be born again to be inspired by the Almighty.",
+
+      "That is why you will agree with me that even though they are not born again they still acknowledge God even in the song, they may hold alcoholic wine in that song yet still mentioning the name of God.",
+
+      "Someone is saying can God now give someone inspiration to sing a song that is not godly? It is just the nature of his mind that convert the inspiration into ungodly song, the human spirit of every natural man is innocent and that is where inspiration do business with, but because their mind is corrupt they convert their talent to promote what is not godly.",
+
+      "Someone is saying why can't God stop giving the inspiration because he is not using it for God, get this, inspiration is not given to you to use it for God, it is given to you to use it for men, it is to use it  on matter pertaining the things of man, and secular songs is part of the things of man.",
+
+      "Get this, secular Songs is different from worldly song, inspiration of the Almighty can never give you inspiration to sing worldly song, it is the spirit of the world that give you inspiration to sing worldly song.",
+
+      "There are songs that are secular, they are not worldly and they are not godly but they are good, they pass some moral message, any reasonable person can listen to it, that is what the scripture refer to as things of man, and there is a spirit in man that can sponsored such act by the inspiration of the Almighty.",
+
+      "Because the spirit of every natural man cannot deny the existence of God, they may not believe in Jesus because the light of the Gospel has not come to them but deep within them they believe in God.",
+
+      "That is why you don't necessarily need the Holy Ghost to get inspiration, once your human spirit is from God that spirit is qualified for the inspiration of the almighty and by that he can know the things of man, you only need to be born again to know the things of God.",
+
+      "Inspiration of the Almighty is not what give you understanding of the things of God, the spirit of wisdom and revelation is what do, and what that spirit do is to open the eyes of your understanding, it doesn't give you understanding, but he open the eyes of your understanding by light and it is the entrance of the scripture that give that light.",
+
+      "You can see the difference.",
+
+      "To know the things of God, your human spirit is a disadvantage, you must receive a new spirit, you must be born by the Spirit.",
+
+      "For instance, I receive revelation about the things of God from the Holy Ghost but it is the spirit of man in me  that enables me to communicate it in a language that man will understand, the new spirit in me doesn't understand earthly language, he only understand heavenly language.",
+
+      "The revelation is the things of God and no man can know the things of God except the Spirit of God.",
+
+      "That is what the scripture says",
+
+      "1 Corinthians 2:11 For what man knows the things of a man except the spirit of the man which is in him? Even so no one knows the things of God except the Spirit of God.",
+
+      "But the explanation is the things of man, I don't need revelation to explain, I only need inspiration to explain.",
+
+      "There are times I can receive revelation and I know what to write but there is no inspiration to put it down in the language of man.",
+
+      "I don't need inspiration if I am dealing with God, but I need inspiration when dealing with man.",
+
+      "I only need revelation to know what to say, but I need inspiration to say what I know.",
+
+      "What to say comes by gift, why how to say it is a talent.",
+
+      "That is the role of eloquence in teaching ministry and vocabulary in writing ministry.",
+
+      "Some have inspiration on how to talk but they don't have revelation on what to say.",
+
+      "Some also have revelation on what to say but they don't have inspiration on how to say it.",
+
+      "You communicate it effectively as a teacher and write effectively as a writer when you have both revelation on what to say from the Holy Spirit and have inspiration on how to say it from your Spirit.",
+
+      "And your Spirit only manifest base on your talent.",
+
+      "If you don't have the talent to write for instance, you can't receive inspiration to write.",
+
+      "Inspiration of the Almighty only come in the area of the capacity of your human spirit.",
+
+      "Our human spirit have different capabilities, for instance the capacity of my human spirit is to write, why the capacity of your human spirit is to sing.",
+
+      "So if the inspiration of the Almighty come to both of us, it will give me understanding to write and give you understanding to sing.",
+
+      "So the same message both of us receive it by revelation if it is the things of God. I may now write my own as book by inspiration why you sing your own as songs by inspiration.",
+
+      "Many of us are living another person's life, fake life, photocopy life because we don't explore our human spirit.",
+
+      "You can never be your original self until you submit yourself to your spirit to educate you and bring the originality out of you.",
+
+      "So know the strength of your spirit, there are area of things in man that your spirit know much about, all you need to do is to let the inspiration of the Almighty give your Spirit understanding in those area.",
+
+      "Someone is asking how can I let the inspiration of the Almighty be flowing consistently?",
+
+      "It is not by prayer, all you need is to put all your mind in just one things that your spirit can do best, man was not created by God to do many things in life, your spirit is designed just for one major capacity, you can use your mind to develop many skills, but your spirit is carrying just one singular capacity, he was given to you just for one purpose, that is why you can't be a jack of all trade and be master of anything in life, God designed your human spirit to be known just for one thing in life, that is why inspiration of the Almighty is far from a divided heart, a man whose heart is not single.",
+
+      "It is when your heart is single that your body will be full of light.",
+
+      "You may have many gifts of the Spirit, when you encounter the Holy Ghost, but i am talking of the nature, capacity and making of your human spirit.",
+
+      "One thing that the spirit of this world successfully did to many of us that make us to lost the capacity of our spirit is that he separate our mind from our spirit so our mind is now in secular education because your mind has be programmed that without it you can never succeed in life.",
+
+      "I tell you this today, WAEC certificate is all that everyone one of us need, that is enough to give us literal and basic education we need to communicate in the society.",
+
+      "Every other education you need is in your Spirit.",
+
+      "If you claim you need chemistry, the question I ask you is that the first person that wrote chemistry text book which book did he read.?",
+
+      "Many of the theories we are studying in school was formed by men who didn't go to school but got educated from the spirit in them.",
+
+      "I repeat the highest education we need from the spirit of this world is WAEC certificate to afford us to communicate with one another and relate well.",
+
+      "Why the rest, you need the education from your spirit to teach you the things of man why you need the education from the Holy Ghost to teach you the things of God.",
+    ],
+  },
+  {
+    id: 12,
+    page: "8b",
+    bookName: "Banjo Ayeka Diary",
+    title: "The Slavery Of The Mind.",
+    content: [
+      "There are three kinds of slavery I want to talk about that find expression in the scripture, which is the slavery by FORCE, slavery by POSSESSION and slavery by INFLUENCE.",
+
+      "1. The slavery by force is the slavery practice by the Babylonians, it is a situation whereby the armed forces of Babylonians will forcefully come to your community and invade the citizens to their community and enslave you under them and this is the way Daniel, Meshach, Shadrach and Abednego got to the land of Babylon  ( Daniel 1:1-10) and this also was once practiced by some European countries in centuries past which led them to come to Africa and took people into slavery, their mission is to put your body into slavery.",
+
+      "2.The slavery by possession is the slavery practice by demons whereby they come into your house (your body) and take possession of you in your own (house) and forcefully make your spirit to submit to them in your own land and house, their mission is to put your spirit in slavery, and since your body is the house of your spirit so they come to your body and take over your spirit in your body.",
+
+      "3. The last kind of slavery which is slavery by influence is the one practice by Roman Empire, their approach is totally different from the Babylonian system and style of slavery, the Roman kind of slavery will not come to you as enemy, they don't come for war, they came as someone to help, they came as saviour, they study what you lack and come in with help to solve your problem and once they win your heart by buying it, they begin to use the power of influence to cage your thoughts and reasoning and begin to make you to reason like them, they will not take you out of your land because they didn't come to enslaved your body, they will not forcefully possess you in your land because they didn't come to enslave your spirit but they keep you in your mind because their assignment is to enslave your mind.",
+
+      "They deceive you that ignorance is what keep you where you are so they have knowledge to deliver you, but you didn't know that the knowledge they came with which they called education is what they want to use to enslave your mind.",
+
+      "It is you that will now be willingly to submit to their education because you want to be like them.",
+
+      "You willingly enter into life mental slavery when you begin to learn to be like others rather than learning how to be your real self, they become what they become by their own knowledge and once you want to become like them, you will have to submit to that their own knowledge, and this is the evil called civilisation and education that keep Africa to this backward stage of life.",
+
+      "They deceive you that you are where you are base on the way you think and they are ahead of you because of the way they think, so they will now begin to make you think like them.",
+
+      "Rather than making you to think the way God want you to think by submitting you to Holy Spirit and holy scripture or think the way you should think by submitting you to your spirit and inspiration,but they will now begin to make you to think the way they are thinking and to achieve that they submit you to the spirit of the world system.",
+
+      "You begin to talk like them, act like them, and dress like them, you place their own language above your language, their language become compulsory subject you must pass why your own original language become optional and in the cost of doing this, we lost our originality and once our originality is lost, our spirit becomes inactive, inspiration of the Almighty can't do business with you again.  Just showing you why we are far from creativity in Africa.",
+
+      "The only force behind creativity is inspiration, look at the meaning of inspiration yourself.",
+
+      "Inspiration: the process of being mentally stimulated to do or feel something, especially to do something creative.",
+
+      "Nothing invisible is stimulating in our mentality once your mind is cage.",
+
+      "They are not mentality enslaved and that is why you see them growing in strange technology and creating different things, everything they create by inspiration they now bring them to us and begin to teach us how to repair them and we called that skills.",
+
+      "Creative and creating ability is a talent why maintaining and repairing abilities is a skill, and they make us to focus on skills rather than focusing on talent.",
+
+      "This is called mental slavery, and this is what African is suffering from now that we need deliverance.",
+
+      "We have three kind of slavery.",
+
+      "We have physical slavery and this is when you are physically captured by another man.",
+
+      "We have spiritual slavery, and this is when you are possessed by demons.",
+
+      "We have mental slavery, a situation whereby you can't think for yourself again, where by a system designed how you should think, and any attempt to break out from that thought to think for yourself will cost you what they want to offer you, it is when Chinese broke out of this mental slavery that they become outstanding in life.",
+
+      "Your creativity is restored once you can break out of mental slavery, the major things the spirit of the world did is to separate your spirit from inspiration, all that your spirit need is inspiration of the Almighty.",
+
+      "Independent is when you are physically free, deliverance is when you are spiritually free, why Salvation is when you are mentally.",
+
+      "Because Salvation have to do with soul and mind, it is a deliverance of your soul, which bring you out of your former way of thinking into new way of thinking, from the way the world system has programmed you to think to the way you should think.",
+
+      "That is why repentance is not change of behaviour, repentance is changing the way you think.",
+
+      "And this mandate of mental deliverance of African was given to the body of Christ and we ourselves have been mentally enslaved even though we are shouting Salvation by mere confession.",
+
+      "What govern the thought of many of us is not scripture, not light of the word of God, that is why we cannot follow Mathew 6:33 even though we are reading it day and night.",
+
+      "Because there is an ideology from the system of the world  which we are brought up with that you get what you need in life when you run after it and follow the principles prescribed to you by the world system.",
+
+      "And you now see them saying the first is to be a graduate and we discover that we wasted like 16 years of our life leaning how to be slave and civil servant.",
+
+      "Because the first 6 years in primary school, with the second 6 years in secondary school couple with 4 years in the university that make it 16 years and we graduate and be looking for who to employ us.",
+
+      "Meaning we have been trained to be an educated servant, you can see how the slavery has been well packaged.",
+
+      "If any education can't make you a job creator but make you a job seeker then you have just wasted your destiny all in the name of being a graduate, your life that suppose to be in your spirit is now in a paper called certificate and you are now carrying your destiny about and attached the photocopy of that your destiny with a CV and you are submitting it to company who will employ you as their servant and pay you at the end of the month.",
+
+      "Since you don't know what to do with your time and brain you now submit to a system who will take the time and brain  from 6am to 6pm and pay you for it at the end of the month, and you called it white collar job, they put a suicide roap on us and call it tie and that you must wear to the place of interview.",
+
+      "Once of the greatest gift given to us by God is the gift of time and gift of brain, all you just need is gift of inspiration that will make your brain to be creative and make you to use your time for the purpose why you are born on Earth, if you know that 100 years is not enough to fufil the purpose why you are born on Earth then you will know that you don't have time in life.",
+
+      "Certificate is something to be hanged in your workshop or office to let people know that you are a professional in what you are doing.",
+
+      "Real education are all those one leaning fashion designer, have you never see anyone using fashion designer certificate to look for job, all they do is that after the training they get tools and materials for work, get a space for work and begin their work, if you see them working for others it is because they are looking for money to get tools to start working for themselves, not necessarily looking for money to survive.",
+
+      "That is how education should be, how i wish we have not mentally put to slave in Africa, Western education is our greatnest enemy, until we are free from it, no prayer can free us.",
+
+      "Because scripture didn't tell us that prayer is our weapon of warfare that is not carnal use to destroy stronghold, what destroy stronghold is the information you are getting from this Banjo Ayeka's DIARY.",
+
+      "Light from your spirit sponsored by the inspiration of the Almighty or light of the Holy Ghost sponsored by Revelation  from the scripture is the only force that destroys stronghold.",
+
+      "I am not in any way against education but I am 100% against African academic system.",
+
+      "It is what the god of this world use to put us into mental slavery.",
+
+      "Suffering is when you are mentality free and physically enslaved.",
+
+      "Torment is when you are physically enlaved and spiritually enslaved.",
+
+      "And frustration and confusion is when you are physically free and mentally enslaved, and when the problem of frustration and confusion is not solved the outcome is suffering.",
+
+      "A situation whereby you don't know what to do with your life, it is after your NYSC that it will done on you that you have never walk in the pathway of destiny, we are not focus, we are not man of one thing, we are Jack of all trade and master of nothing.",
+
+      "If you can dedicate all your mind on a certain thing, you begin to see the inspiration of the Almighty giving you understanding in that thing, and an enslave mind can never and never be focused.",
+
+      "This is the mystery behind every of my book.",
+
+      "In most cases I force myself to stop writing on any book.",
+
+      "If I am writing a book for instance on prayer, all I do is that all my mind will be on prayer, I don't think of anything again outside prayer and by that inspiration will begin to come on prayer, I may end up writing two books on prayer within a month.",
+
+      "I don't write because I read, I write because I think much, my thoughts are single, readers are not necessarily writers, thinkers are writers.",
+
+      "My thoughts is not enslaved, I don't buy into the ideology of this world, I am in a warfare with it, I don't do things because every one is doing it, and the weapon of my warfare that is not canal but mighty in pulling down the stronghold in my mind is scripture (the word of God is the sword of the spirit for such warfare)",
+
+      "I don't reason the way everyone reason, that is why people think i am a controversial writer, because I will question everything in line with scripture, that it is generally acceptable doesn't make it the truth, that every general overseer are doing it doesn't make it correct.",
+
+      "I treasure my spirit, I will not allow you to use one ideology of this world to cage me, because I know the implications, they are ideology that kill the creativity in us and just make one to follow it the way they are doing it, without questioning why we should do it that way.",
+
+      "And this slavery spirit bring us into body of Christ and again make many general overseers to begin to brainwash us, none of us can question the doctrine of tithing as key to prosperity even we know it is unscritpural because Christ has become poor so that through his poverty we might be rich not so that through tithing we might be rich.",
+
+      `2 CORINTHIANS 8:9
+For ye know the grace of our Lord Jesus Christ, that, though He was rich, yet for your sakes He became poor, that ye through His poverty might be rich.`,
+
+      "But lack of thinking capacity could not make us question that.",
+
+      "All you need to be rich in life is creativity, and because Christ pay the price you have free access to inspiration and revelation to stimulate your mentality and know how to navigate your way through life into success.",
+
+      "Inspiration is very easy to tap if you can make your mind single, once your thoughts is free from slavery and you are ready to listen to the education of your spirit, inspiration of the Almighty will begin to give you understanding.",
+
+      "And if I want the inspiration to stop flowing, if I am writing anything all I do is to take my mind of what I am writing and put it on another topic again.",
+
+      "Infact in most cases it takes me enough self control not to be changing every topic in this Banjo Ayeka's DIARY into parts, series and book, every daily topic are book on their own, all I will just do is to keep on meditating and thinking of that topic and with pen in my hand and before 6 hours I have written over 100 pages of book on that same topic.",
+
+      "For instance I have been writing on the spirit of man now and inspiration if i didn't take my mind off it and put it on another topic, we may keep on exploring some mystery and knowledge around inspiration of the Almighty and spirit of man for 3 weeks.",
+
+      "This is the reality of everyone, if your mind is not enslave, you don't need to be born again, all you need is to have human spirit in you.",
+
+      "And the scripture say there is a spirit in man and the inspiration of the Almighty give that spitit spiritual understanding.",
+
+      `Job 32:8
+8But there is [a vital force] a spirit [of intelligence] in man, and the inspiration of the Almighty gives men understanding.`,
+
+      "This same inspiration of the Almighty is the one behind many strange technologies you are seeing.",
+
+      "Your human spirit is too loaded with just certain things, all you need is to discover your talent and let the inspiration of the Almighty take over from there.",
+
+      "At the time this book Banjo Ayeka's daily will be published by next year October it is 2000 pages of book.",
+
+      "I am planning to write a book that will be ten thousand pages, just showing you what human spirit can do once you can have a single of mind.",
+
+      "If your is songs, by the inspiration of the Almighty you can release 1000 songs in a year. I am not talking about all this songs composed by carpenter, I am talking of songs loaded with melody, full of inspirational content and sweet to the ear.",
+
+      "If your Spirit can get your mind to focus on something, your body will be full of light on that thing, you will know much about that thing.",
+
+      "If fashion designer is what you put all your mind, you have open up the channel of inspiration on that thing, and come out with creative styles that once someone sees it he will want to sew the same style.",
+
+      "Can you see why we lack uniqueness and creativity on anything in Africa, it is because our mind is too divided.",
+
+      "The law of inspiration is the dedication of your mind to just one thing.",
+
+      "Infact if you dedicate 90 percent of your mind on one thing, you can't flow in inspiration of the Almighty over that thing, it must be all your mind, full undivided attention.",
+
+      "It must be all your mind, you can see the mystery behind my writing Grace.",
+
+      "Because if you lack peace of mind, rest of mind, and unity of mind, you have kill the power of inspiration in you, no matter how you fast and pray for it.",
+
+      "Inspiration doesn't respond to any religious act, like fasting and prayer, it only responds to peace of mind, rest of mind, and focus of Mind (that is, undivided mind and attention)",
+
+      "Inspiration of the Almighty is the life that what  you are doing  need to survive and make impact in life.",
+    ],
+  },
+  {
+    id: 13,
+    page: "9a",
+    bookName: "Banjo Ayeka Diary",
+    title: "Knowing God Through Nature.",
+    content: [
+      "Romans 2.14-16, “For when Gentiles, who do not have the law, by nature do what the law requires, they are a law to themselves, even though they do not have the law.",
+
+"Get this whenever you want the inspiration of the Almighty to come, study Nature. why whenever you want the revelation of the Almighty to come study the scripture.",
+
+"That is why men who wrote the scripture are men who study nature.",
+
+"Because nature contains the truth about God more than scripture, that may the too hard for you to believe.",
+
+"That is why the scripture say.",
+
+`Romans 1:20
+For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse:`,
+
+"Look at another scripture again",
+
+ ` Psalms 19:1 
+The heavens declare the glory of God; and the firmament sheweth his handywork.`,
+
+`Psalms 19:2
+Day unto day uttereth speech, and night unto night sheweth knowledge.`,
+
+"So it is not only in scripture that you see the hand work of God alone, when you study nature you see physically the hand work of God.",
+
+"That is you can study nature and know the eternal power of God, because the scripture say in that Roman's 1 vs 20 that even the eternal power of God can be understood by things that are made.",
+
+"You felt until you study the book ot Act you can't see the move of the spirit, when you study the sky and seas you can also see the move of the spirit.",
+
+"Get this, you must be able to understand the difference between what God wrote by himself and what God use men to write.",
+
+"The holy book which is bible is a book that God use men to write and the scripture say all scripture is talking about Christ.", 
+
+"Why nature is the visible handwriting of God writen by God himself, everything God created is communicating  something about eternity, and you can study God through them.",
+
+"Scripture is like when God use letter to communicate why nature is like when God use picture to communicate.",
+
+"That is why when Jesus want to begin to reveal his true identity, he was referring us to nature, you see him saying I am the light of the world, meaning jesus is telling you to close your bible and begin to study light, just as he was using scripture to explain himself, he was also using nature to reveal himself.",
+
+"Infact when Jesus want to give us the explanation of the nature of the kingdom of God, he could not see any scripture to explain his understanding, all he begin to do was to relate the kingdom with nature , and he said the kingdom of God is like..",
+
+`Luke 13:18.
+Then He said, “What is the kingdom of God like? And to what shall I compare it?`,
+
+"Luke 13:19 It is like a mustard seed, which a man took and put in his garden; and it grew and became a large tree, and the birds of the air nested in its branches.”",
+
+"When David begin to write that who is men that you are mindful of and the son of man that you visited.",
+
+`Psalms 8:4 What is man that You are mindful of him,
+And the son of man that You visit him?`,
+
+"We never read from verse 2 to study what brought that inspiration,",
+
+"The scripture say it was when he was studying stars and Heavens.",
+
+`Psalms 8:3 When I consider Your heavens, the work of Your fingers,
+The moon and the stars, which You have ordained,`,
+
+"Psalms 8:4 What is man that You are mindful of him,And the son of man that You visit him?",
+
+"That is when he begin to meditate on heaven suddenly the inspiration of the Almighty came and he begin to write, it was not scripture he was studying, he was studying nature to write scripture.",
+
+"We studied scripture to write spiritual books, why they studied nature to write the scripture we are studying,",
+
+"If I begin to studying nature to write, quote nature to write, the religious nature in us  we say Banjo Ayeka's Diary is not spiritual, he never even quote scripture for once,",
+
+"We study the scripture to write revelation, but men wrote scripture never wrote it by revelation, they wrote it by inspiration.",
+
+"That is why the scripture say all scripture was written by the inspiration of the Almighty, not writen by revelation,",
+
+"2 Timothy 3:16 All Scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness,",
+
+"because at the time they where written, the spirit of revelation was not yet in existence.",
+
+"Because revelation came when you are trying to study God through the scripture or through spiritual material why inspiration come when you are trying to study nature, that is why the new testament was writing by revelation of the Almighty why the old testament was written by the inspiration of the Almighty.",
+
+"So when Paul was saying all scripture was written by the inspiration of the Almighty, he wasn't talking about Mathew to Jude, he was referring to Genesis to Malachi, because at the time he was written 2nd Timothy there was no new testament writing.",
+
+"So if the scripture say all scripture was written by the inspiration of the Almighty, it mean scripture was written by men who study nature to know God.",
+
+"I share this secret to you today, if you want to be a good writer, either songs writer, script writer or book writer just learn to gaze your mind on the reality of life , activities of life and nature under heaven , you will suddenly begin to see the inspiration of the Almighty given you understanding about life, nature, and activities under the heaven, this is the mystery behind the expression of wisdom of Solomon that he wrote as scripture which now become what we study as scripture and get revelation from it.",
+
+"Ecclesiastes 1:13 And I set my heart to seek and search out by wisdom concerning all that is done under heaven; this burdensome task God has given to the sons of man, by which they may be exercised.",
+
+"You can kindly see what Solomon said he was studying, he set his heart to seek and search not scripture but activities done under the heaven.",
+
+"Kindly look at another scripture again.",
+
+`Ecclesiastes 9:11 I returned and saw under the sun that—
+The race is not to the swift,
+Nor the battle to the strong,
+Nor bread to the wise,
+Nor riches to men of understanding,
+Nor favor to men of skill;
+But time and chance happen to them all.`,
+
+"He said he returns and saw under the sun, and he begin to write what he saw under the heaven by inspiration and what he wrote become scripture for us.",
+
+"There is one thing to study nature to know nature and there is another thing to study nature to know God.",
+
+"Those that study nature to know nature are the one that wrote Geography and Biology by the inspiration of the Almighty.",
+
+"Those that study nature to know life are the ones that become philosophers and they write many books and have many wise sayings that contain wisdom for life and this is the origin of many of our Africa's proverbs.", 
+
+"Why those that study nature to know God are the one that write scripture by the inspiration of the Almighty.",
+
+"So you can study nature to know nature and bring out the benefits of nature to man.",
+
+"You can study nature to know life also and bring out wise Proverbs by them.",
+
+"Why you can also study nature to know God and know the will of God for man.",
+
+"I don't know how to say it but the fact is that if you want to know God the Father, scripture is your greatnest disadvantage why nature is a your greatest advantage.",
+
+"Because scripture didn't contain much about the revelation of God the Father, the scripture contain much about the revelation of God the judge and God the master, that is why he Give law to them as Judge and give commandments to them as Master , but he never give Grace to them as father, so old testament never reveal God the father know as the God of all Grace.",
+
+"That is why you discover that whenever Jesus want to reveal the nature of God the Father to his disciples you see him pointing them to the earthly Father and learn from it, you see him pointing them to birds to learn from it.",
+
+"You see him saying if your earthly Father can do this, how much more your heavenly Father.",
+
+`Matthew 7:11  (NLT)
+So if you sinful people know how to give good gifts to your children, how much more will your heavenly Father give good gifts to those who ask him.`,
+
+"Many in the church struggle to understand God the Father and relate with him as son to Father because they don't have much reference from the scripture that capture that reality.",
+
+"They still carry the mentality of the fearful consuming fire who can kill them for doing wrong, the image of God they have in their mind is the one they see in the picture of the scripture.",
+
+"I don't know if you are fortunate to have a lovely parent from your childhood till you grow up now, how did they treat you? Even as you grow up? If you can study that, it is enough revelation to capture the nature of God the Father.",
+
+"Because Jesus keep on saying if your earthly Father who is evil can know how to love you this way, how much more your heavenly Father.",
+
+"I find it easy to relate with God as my Father because I was fortunate to have a lovely Father when he was alive.",
+
+"My parent trust God for years for the fruit of the womb before given birth to us, so when God answered their prayers, and they begin to have us, we so much enjoy their love and care.",
+
+"My Daddy has bought my school bag when my mother was still having me in her belly, my parent put us to the best private school in the environment in the early 90's, we grow up to enjoy the good things of life until he died and we entered into suffering.", 
+
+"Having tasted the two side, having a Father and been without Father then I understand people who live under the old testament without having God as Father and we under the new covenant who have God as Father.",
+
+"It is ignorance of the highest order to begin to study how God relate with the people of the old testament and think that is how God will relate with you, God relate with them as a Boss relate with his Staff in the place of work , why God relate with you as a father to his children at home.",
+
+"Truly the man is a boss and also a father, but he is a boss not to you but to his servant at work, why he is a father to you.",
+
+"Truly God can be many things, he can be Master and Judge, but He is not my master and He is not my judge, He is my Father.",
+
+"I repeat again that God is not my judge, Jesus already said that.",
+
+"John 5:22 For the Father judges no one, but has committed all judgment to the Son,",
+
+"So I don't approach My Heavenly father with fear, because I know he can never and will never judge me for doing wrong, he may chastise me with his word but not judge me, that is why I come to his throne with boldness because I know mercy Is sure for men and grace is also sure banker.",
+
+"They are servant and God is a Master to them, why you are son and God is Father to you, they are two different Things.", 
+
+"What God have in store for them was reward based on their service and obedience to God their Master.",
+
+"Why what God have in store for you is inheritance based on your growth.",
+
+"Just as my earthly Father trust  God for children for years before they give birth to us and that lead them to take care of us with much love so also Your heavenly father's was barren for 4000 years before he begin to us as children.",
+
+"Since Adam to John the Baptist, God have servants, slaves, both in Heaven and Earth, but God never have son but suddenly Jesus become the first begotten son and open the womb of the Spirit for us and God begin to have us as children.",
+
+"So the way God will relate with you will be different, no scripture captures the dimension of God's love for us.",
+
+"The scripture say how deep and wide the love of God is for us.",
+
+`Ephesians 3:18 may be able to comprehend with all the saints what is the width and length and depth and height
+Ephesians 3:19 to know the love of Christ which passes knowledge; that you may be filled with all the fullness of God.`,
+
+"What is the point, if you really want to know God study nature also, not only scripture but nature and not only nature but scripture also.",
+
+"Have you observed that how do men who didn't have scripture in the old testament know God.",
+
+"That scripture in your hand was written by men who doesn't study scripture, they didn't study scripture and yet they know God, all they do was to study nature and by it they begin to encounter different dimensions of supernatural and angelic visitations.",
+
+"Infact they know God more than us.",
+
+"How do I know? Because they did exploits more than us.",
+
+"Because the scripture say those who know their God shall be strong and do exploit.",
+
+"If you claim you know God show me the exploits.",
+
+"You may know scripture and not know God and you may not know scripture and know God.",
+
+"Nature is loud about the voice of eternity more than scripture.", 
+
+"Devil can use scripture to deceive, he can quote it wrongly to deceive you and put you in bondage but devil can't use nature to deceive, nature is like a voice so audible to the deaf and visible to the blind, you may quote scripture out of context and lead to arguments but you cannot quote nature out of context, instantly it will reveal your level of ignorance and foolishness.",
+
+"How do men fall victim of the scripture that told them that if they don't pay tithe God will curse them and close the window of heaven on them.",
+
+"You believe such wrong interpretation because you don't study nature.",
+
+"Because if you and me know how to study nature to know God, we'll know the truth.",
+
+"I will advise you to ask that your pastor that can he do that to his son?",
+
+"If he has the key of Heaven at hand can he close it on his own son because he refuse to pay tithe?",
+
+"Can you lay a curse on your son by yourself if he refuse to pay tithe?",
+
+"If you can't do that base on your love for him, how can you now foolishly think that God will lay curse on his children and close heaven on them because they didn't pay tithe.",
+
+"But this is the scripture that has been in church doctrine for years.",
+
+"It is because we study scripture and we don't study nature.",
+
+"I say this to you clearly that if all we have to study to know God is nature, the church could have been more United that studying scripture alone to know God.",
+
+"We don't need scripture to tell you don't marry two wives, nature is enough, no one came out from polygamy that will advice his enemy to marry two wives.",
+
+"You don't need scripture to teach you don't fornicate, before christianity came to Nigeria nature through culture has been teaching that already.", 
+
+"It was a shameful thing in the ancient day to marry and you are not a virgin, yet they know it to be wrong without scripture.", 
+
+"Mind you, they don't have scripture teaching them, but they have nature teaching them.",
+
+"Kindly look are what paul says",
+
+"Romans 2.14-16, “For when Gentiles, who do not have the law, by nature do what the law requires, they are a law to themselves, even though they do not have the law.",
+
+"So don't think if we don't have scripture how can we live holy, sir we will even be more holier because men without law can by nature do what the law says without having the book of the law.",
+
+"Because they know that nature can teach and they have master how to listen to the voice of God through nature, personally my life begin to have direction in life when I master how to hear the voice of nature.",
+
+"I suffer direction for long because I don't know where God want me to be, how will I know if God want me to be in Lagos or Abuja, been a teacher that scripture is much primarily way of direction, scripture which is my strength can't help me, because there is no Lagos and Abuja in scripture and I dont trust the thought of my heart because I know that is the strength of religious spirit who usually pretends as Holy Spirit and lead man into fustraction all in the name of Holy Spirit speak to me.",
+
+"And since dream is not also my strength I could not take advantage of it to know where God want me to be, but when I master how to hear the voice of nature I begin to have direction in life.",
+
+"Look at what Paul said again.",
+
+"1 Corinthians 11:14 Does not even nature itself teach you that if a man has long hair, it is a dishonor to him?",
+
+"Meaning it is not only scripture that teach, nature also teach, get this everything nature is saying is what men wrote down in scripture by the inspiration of the Almighty.",
+
+"I say this to you clearly that nature is loaded more than scripture, nature is more spiritual than scripture.",
+
+"Nature contain the knowledge about God more than Scripture.", 
+
+"And you get inspiration through nature more than scripture, you only get revelation from scripture to know and understand what men who by inspiration write in the scripture.",
+
+"You can see that inspiration is higher than revelation.",
+
+"Inspiration of the Almighty is a breathe, it is life.",
+
+"Revelation of the Almighty is light.",
+
+"And you get light from life.",
+
+`John 1:4
+In him was life; and the life was the light of men.",
+
+"And you get life from Spirit, it is the Spirit that give life.`,
+
+    ],
+  },
+  {
+    id: 14,
+    page: "9b",
+    bookName: "Banjo Ayeka Diary",
+    title: "The Poverty Of Lazarus..",
+    content: [
+      "Luke 16:25 But Abraham said, ‘Son, remember that in your lifetime you received your good things, and likewise Lazarus evil things; but now he is comforted and you are tormented.",
+
+"We all know the story of the rich man and Lazarus, a story between the man who experienced one of the highest level of prosperity and the one that experienced the highest level of poverty.",
+
+"When both of them died and got to the main reality of life which is the life after death, the rich man found himself in hell and the poor man found himself in Heaven, then the rich man began to beg father Abraham to send Lazarus to him with a drop of water, but the response of Father Abraham to him requires serious attention.",
+
+"Abraham said to the rich man that in your life time you have received the good things of life while Lazarus receive evil things.",
+
+"Luke 16:25 But Abraham said, ‘Son, remember that in your lifetime you RECEIVED YOUR GOOD THINGS, and likewise LAZARUS EVIL THINGS; but now he is comforted and you are tormented.",
+
+"The good things the rich man received is not my issue, but the scripture says Larazus received evil things. Then, I begin to ask who gave him evil things. Secondly, if evil things was given to him why did he receive it?",
+
+"Because the law of the spirit is that anything released into our life can either be accepted or rejected, spiritual realm is a realm that extremely respects the choice of man.",
+
+"The problem many have in life is just the problem of receiving. They don't know how to receive and reject, they have the nature that rejects good things of life and receive evil things of life and this is also the nature of Lazarus.",
+
+"Kindly look at the scripture very well.",
+
+"Father Abraham said to the rich man that you have received your good things of life in time while Larazus received evil things.",
+
+"Then I said to myself, it means there is nothing you have in life that is not a product of what you receive from the spirit, the scripture says no man can receive anything except it is given from the Heaven.",
+
+`John 3:27
+John answered and said, A man can receive nothing, except it be given him from heaven.`,
+
+"Get this and get this mystery today, it is not the devil that gives evil, no man can receive either evil or good in life except it is given by God, if God has not first cursed you, no one can do, you can't curse whom God has not cursed.",
+
+`Numbers 23:8
+How shall I curse, whom God hath not cursed? or how shall I defy, whom the LORD hath not defied?`,
+
+"If you curse me and it comes to pass, that is a true report card that I am under the curse of God, because the scripture says no one can curse whom God has not cursed. If God has blessed someone and you curse him, you have just cursed yourself, because whosoever shall curse them shall be cursed and whosoever shall bless them shall be blessed.",
+
+`Genesis 12:3
+And I will bless them that bless thee, and curse him that curseth thee........`,
+
+"Whenever devil wants to curse you all he does is to make you to be under the curse of God first, and if he wants to make you to be under the curse of God he puts you under the law, because curse is everyone that is under the curse of the law.",
+
+`Galatians 3:10
+For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continueth not in all things which are written in the book of the law to do them.`,
+
+"The legal ground of the devil is the word of God upon your life, his strength is the negative word of God upon your life?",
+
+"How did Christ spoil principalities and render them powerless? By fighting them? CAPITAL NO!!!",
+
+"All that Christ did was to remove all the handwriting of ordinance in scripture written against us, that is Jesus counselled all the curse of the law upon us.",
+
+"Colossians 2:14 having wiped out the handwriting of requirements that was against us, which was contrary to us. And He has taken it out of the way, having nailed it to the cross.",
+
+"Colossians 2:15 Having disarmed principalities and powers, He made a public spectacle of them, triumphing over them in it.",
+
+"Because the attacking power of the devil is the written word of God spoken against us by God, because evil was created when God released negative words upon the life of man.",
+
+"Can you now understand when God said I created evil not the devil?",
+
+`Isaiah 45:7 I form the light and create darkness,
+I make peace and create calamity;
+I, the Lord, do all these things.’`,
+
+"Saying devil is the one that created evil is giving him the glory and power he doesn't have. Devil can not create anything both good and evil. The assignment of the devil is to lead you to choose evil that God has created, and this is how Lazarus received his evil.",
+
+"And how does devil do this? He makes you to be under the law rather than under faith and grace. He makes you to think you can use your righteousness to earn God's blessing. Nothing puts a man under the curse of God under new covenant than this.",
+
+"The scripture says curse is everyone under the law. (Galatians 3:10)",
+
+"Because the law attracts the wrath of God, if you want to attract the wrath of God upon your life and receive evil into your life without doing anything wrong just be under the law.",
+
+`NKJV, Romans 4:15
+because the law brings about wrath;`,
+
+`Romans 4:15( NLT)
+[15]For the law always brings punishment on those who try to obey it.`,
+
+"Show me a man who will receive evil with his life even though he is praying against evil with his mouth, then I will show you a man under the law.",
+
+"Just be following, I want to show you the mystery behind the poverty of Lazarus.",
+
+"The scripture says Lazarus received evil, then I begin to ask myself who gave him evil, and the scripture says the rich man received the good things of life, them I said to myself who gave the rich man good things?",
+
+"Get this clearly, no man can receives anything either good or evil except it is first given by the Lord, the scripture says the same God that makes evil also makes good and he sets before us good and evil, and under the old covenant you choose by works while under the new covenant you choose by faith.",
+
+"Meaning, devil is not the one that makes evil, devil only make evil to manifest in your life, he is not the one that puts evil in your life, the curse of God is what puts evil in the life of any Man, while the curse of evil man is what makes evil to manifest in the life or any man. The blessing of the Lord is what makes good to come into the life of any man while the blessing of holy Men (priest) is what makes the blessing of the Lord to manifest in the life of any man. (we'll talk more on this in tomorrow devotional)",
+
+"And the scripture now says and Lazarus received evil.",
+
+"That it is given is not the issue, that it is received is the issue here.",
+
+"Something can be given to you and you reject it. If good things can be rejected when it is given so also evil things can be rejected when it is given.",
+
+"The scripture didn't say and Lazarus did anything wrong to receive the evil things, the only issue he has is that he doesn't know how to reject evil and receive good but he is very good in receiving evil and rejecting good.",
+
+`That a sickness was given to you is not the issue, it was given to everyone of us.
+That a poverty was given to you is not the issue, it was given to everyone of us, the issue is that you received it.`,
+
+"To everything that manifest in your life either good or evil, you must be humble enough to accept that it is because you received it.",
+
+"There is an aspect of you responsible for receiving in the realm of the Spirit. If you don't train that aspect to receive, God can give you your blessing for years and yet you will not know how to receive it, you will keep on thinking God has not blessed you. You didn't know that you are the one that didn't know how to receive the blessing that has been freely given to you since 2000 years ago.",
+
+"When God wants to bless us with all spiritual blessinf, he didn't give it directly to us, he gave it directly to Christ so that we can get it through Christ.",
+
+"Meaning, God has given us all the spiritual blessings since 2000 years ago. Your life only remains the same if you don't know how to receive what has been freely given.",
+
+"Just be following, I am just showing you the mystery behind the poverty of Lazarus.",
+
+"Look at the scripture very well.",
+
+"The bible says when the rich man died he was buried but when Lazarus died he was taken to Heaven by angels.",
+
+"Luke 16:20 But there was a certain beggar named Lazarus, full of sores, who was laid at his gate,",
+
+"Luke 16:21 desiring to be fed with the crumbs which fell from the rich man’s table. Moreover the dogs came and licked his sores.",
+
+"Luke 16:22 So it was that the beggar died, and was carried by the angels to Abraham’s bosom. The rich man also died and was buried.",
+
+"Verse 20 and 21 capture the life experience while verse 22 captures what happened to them immediately after they died, and the scripture says when the rich man died he was buried, he doesn't have any angel to carry him, but when Lazarus died an angel carried him to Heaven.",
+
+"Meaning that an angel have been with him all through when he was alive, that is his angels for God's sake!",
+
+"Meaning, the angels were watching him all through his suffering, and he could not do anything. What is that thing that will make your angels to fold his arms with your blessing and yet stay with you and not bless you with it, just to be waiting for you to die and he takes you to heaven, just to be comforted there , not to be crowned in heaven, but to be comforted?",
+
+"Luke 16:25 But Abraham said, ‘Son, remember that in your lifetime you received your good things, and likewise Lazarus evil things; but now he is COMFORTED and you are tormented.",
+
+"All the riches that Lazarus needed to live a good life was with the angels, but he was poor because he doesn't know how to receive good things.",
+
+"Could it be that the riches that belong to him was what the rich man was spending? Because the rich man doesn't have any angel, he doesn't have spiritual backing, and has no riches of life that is not sponsored by Spirit. Then, how did the rich man become rich without angels and how did Lazarus become poor even with the gift of angels.",
+
+"How could a man die in poverty and angels took him to Heaven and the rich man died in riches and went to hell?",
+
+"Can I shock you? There is nothing you are asking God for that has not been given to you even before you ask.",
+
+"But you lack the wisdom of how to receive good things available for you and reject evil things available for you.",
+
+"Because just as good things are free because Christ has paid the price so also evil things are free because Adam paid the price. Evil is free based on one man's disobedience and blessing is free based on one man's obedience.",
+
+`Romans 5:17-18
+[17]For the sin of this one man, Adam, caused death to rule over many. But even greater is God’s wonderful grace and his gift of righteousness, for all who receive it will live in triumph over sin and death through this one man, Jesus Christ.`,
+
+"[18]Yes, Adam’s one sin brings condemnation for everyone, but Christ’s one act of righteousness brings a right relationship with God and new life for everyone.",
+
+"So all you need is to learn how to receive good things of life that comes through Christ and reject evil things of life that comes through Adam.",
+
+"You can't tell me that the problem of Lazarus is disobedience, because if it is disobedience he can't make it to Heaven.",
+
+"But the only problem he has is that he doesn't know how to reject evil when it was given to him and he doesn't know how to receive good that was given to him.",
+
+"Now the question is how do you receive good things? It is by FAITH.",
+
+"Romans 4:16 Therefore it is of faith that it might be according to grace, so that the promise might be sure to all the seed, not only to those who are of the law, but also to those who are of the faith of Abraham, who is the father of us all.",
+
+"And how do you receive any evil thing? It is also by Faith.",
+
+`The scripture said "Put on the shield of Faith that you will be able to quench all the arrows of the enemy.`,
+
+"Ephesians 6:16 above all, taking the shield of faith with which you will be able to quench all the fiery arrows of the wicked one.",
+
+"Meaning, the only problem of Lazarus is lack of Faith, it is by Faith you receive good things and it is by Faith you reject  any evil thing.",
+
+"Evil things came to the life of Lazarus and he didn't have Faith to quench it, for him to die and go to the bosom of Abraham who was generationally rich on Earth means he doesn't have what made Abraham to be justified and blessed on Earth which is by Faith.",
+
+"Romans 4:2 For if Abraham was justified by works, he has something to boast about, but not before God.",
+
+"Good things was given to him and yet he doesn't have Faith to receive it. Once you come from the lineage of Abraham, good things have already been given to you even before you where born, because the blessing of Abraham is for him and his children's children.",
+
+"The covenant of undeserved blessings begin with the lineage of Abraham where God bless you for Abraham's sake, that is not based on your obedience but based on the Faith of Abraham.",
+
+"Once a blessing is undeserved, it is by Faith you receive it. Once an evil is also undeserved, it is by Faith you reject it.",
+
+"Meaning, the evil that Lazarus received is an underserved evil, for him to make it to Heaven means he doesn't deserve every evil he manifests on Earth.",
+
+"Because since we entered into the economy of Grace in the New Testament which is the dispensation of undeserved blessing, you must also know that devil will also come with his own package to put you under the law all in the name of righteousness and holiness just to ensure the evil that came from God through Adam manifest in your life.",
+
+"Highest percentage of the problem many Christians are facing today is undeserved problem, undeserved sickness, and you don't use warfare prayer to fight against any undeserved evil that comes your way, you fight it, reject it and quench it by Faith.",
+
+"Look at the scripture again he said we quench all arrow of the wicked one by faith, not some arrow but all arrows.",
+
+`Ephesians 6:16
+[16]In addition to all of these, hold up the shield of faith to stop the fiery arrows of the devil.`,
+
+"That ignorance that is making you to kill arrow by warfare prayers is the one that wants to make you to die like Lazarus because you lack the revelational knowledge of how to reject evil that comes.",
+
+"The scripture says by Faith, you quench all arrow, meaning, the arrow will come, you can't stop them from coming but you can quench them from manifesting if they come.",
+
+"Meaning, the rich man understands how to receive good and reject evil while Lazarus understands how to receive evil and reject good.",
+
+"Now, the question is why did the rich man land in hell if he has Faith to receive the good.",
+
+"He landed in hell because he didn't use what he received by Faith to know those who didn't have.",
+
+"The first question should be how did the rich man who doesn't have angel become rich in life?",
+
+"How did the rich man now receive good? From God? No, he received good from the angels of Lazarus, he was enjoying the riches that belongs to Lazarus.",
+
+"How? Just be following, I will show you from scripture in tomorrow devotional.",
+
+    ],
+  },
+  {
+    id: 15,
+    page: "10a",
+    bookName: "Banjo Ayeka Diary",
+    title: "The Prosperity Of The Rich Man",
+    content: [
+      "In the last devotional we discussed about the mystery behind to poverty of Lazarus, now the question is what is the mystery behind the prosperity of the rich man?",
+
+"Now pay a close attention on this scripture.",
+
+`Matthew 10:41 
+He who receives a prophet in the name of a prophet shall receive a prophet’s reward. And he who receives a righteous man in the name of a righteous man shall receive a righteous man’s reward.`,
+
+`Matthew 10:42 
+And whoever gives one of these little ones only a cup of cold water in the name of a disciple, assuredly, I say to you, he shall by no means lose his reward.`,
+
+"Kindly look at these scriptures and let us take it one after the other.",
+
+"In verse 41 the  scripture is saying that if you accept a prophet in the name of a prophet then you will receive the reward of the prophet, Meaning, the prophet has a reward, the gift of a prophet is different from the reward of a prophet.",
+
+`He goes on to say again that if you receive the righteous for the sake of the name "righteous" then you have received the reward of the righteous, Meaning, the righteous has reward.`,
+
+"That is, you can be unrighteous and yet you are receiving the reward of the righteous and yet the righteous himself is not getting any reward in life.",
+
+"I will show you a mystery today why many you tag to be unrighteous are prospering in life and yet you who claim to be righteous are struggling in life.",
+
+"It is because those sinners and the unrighteous men you see know how to receive the reward of the righteous.",
+
+"Mind you they may enjoy the rewards of the righteous on Earth and still land in hell like the rich man, why the righteous on Earth can die like Lazarus and goes to hell because he doesn't know how to receive in life.",
+
+"Get this no one is designed in life to live by his own reward, we are designed to live by another person's reward why others live by your own reward.",
+
+"You lost the capacity to receive in the spirit each time you go with the consciousness to receive the reward of your good deeds, what you will receive is a curse, because no one is qualified before God to receive the reward of his good deeds because no one have good deeds enough to qualify him to be blessed in the spirit, you can never please him without faith.",
+
+"What qualifies you to receive the reward of your righteousness before God is 100% righteousness, someone who keep all the law and offended in one is like someone who didn't keep the law at all.",
+
+`James 2:10
+For whosoever shall keep the whole law, and yet offend in one point, he is guilty of all.`,
+
+"May you not stand before God and be demanding for blessing because you are morally righteous you put yourself under high curse that is more than closed Heaven, because you lack the wisdom of receiving like Lazarus.",
+
+"Each time you go to God to receive anything based on your good deeds, what you will receive is evil, just showing you mystery why Lazarus receive evil, even though you will still make it to Heaven because you are a seed of Abraham but you lack the wisdom to know that it is only by Faith that the children of Abraham can receive anything from God.",
+
+`NKJV, Romans 4:14
+For if those who are of the law are heirs, faith is made void and the promise made of no effect,`,
+
+"So, do we have reward for been righteous? Yes, but the reward is what become gift for others, the reward of your righteousness is for those that accept you in the name of the righteous.",
+
+"And there are many unrighteous rich people who understand the mystery of this, many of them are just enjoying the reward of the Righteous in their life and yet they are unrighteous, why many who are righteous are receiving the reward of the unrighteous because they lack the knowledge of this mystery.", 
+
+"The scripture didn't say if you receive the righteous in the name of Christ, but he said if you receive the righteous in the name of the righteous, the reward of the righteous will surely follow you.",
+
+"Look at the scripture again.",
+
+`Matthew 10:41 
+He who receives a prophet in the name of a prophet shall receive a prophet’s reward. And he who receives a righteous man in the name of a righteous man shall receive a righteous man’s reward.`,
+
+"He didn't say if you receive the prophet in the name of Christ, but if you receive the prophet in the name of the prophet, you shall receive the reward of the prophet.",
+
+"Secondly, the scripture didn't say when you accept the righteous in the name of the righteous you will receive the reward of God, he said what you will receive is the reward of the righteous.",
+
+"He didn't also said when you received the prophet in the name of the prophet you will receive the reward of God.",
+
+"No sir, what you will receive is the reward of the prophet and what you will receive is the reward of the righteous.",
+
+"Potiphar was able to understand this mystery and he never joke with Joseph, he knew the reason why God is blessing him is for the sake of Joseph.",
+
+"Genesis 39:2 The Lord was with Joseph, and he was a successful man; and he was in the house of his master the Egyptian.",
+
+"Genesis 39:5 So it was, from the time that he had made him overseer of his house and all that he had, that the Lord blessed the Egyptian’s house for Joseph’s sake; and the blessing of the Lord was on all that he had in the house and in the field.",
+
+"All the people in the potipher  house are not righteous, but the scripture say the lord blessed the Egyptian's house for Joseph's sake,",
+
+"What potipher and every one in the house was receiving is the reward of Joseph, he was using the reward of Joseph to prosper and yet Joseph was still his slave.",
+
+"The scripture never say and the lord was with Potiphar, the scripture say and the lord was with Joseph,",
+
+"Genesis 39:2 The Lord was with Joseph, and he was a successful man; and he was in the house of his master the Egyptian.",
+
+"Meaning, whosoever that house Joseph has house the Lord, meaning, such people is qualified to begin to enjoy the presence of God, not because they carry the presence of God but they receive someone that carry the presence of God.",
+
+"There is a wisdom in Potiphar's heart that is missing in the rich man that house Lazarus.",
+
+"Potiphar knows that God was blessing him for the sake of Joseph and he begin to promote Joseph, he doesn't want Joseph to leave.",
+
+"Genesis 39:3 And his master saw that the Lord was with him and that the Lord made all he did to prosper in his hand.",
+
+"Genesis 39:4 So Joseph found favor in his sight, and served him. Then he made him overseer of his house, and all that he had he put under his authority.",
+
+"But for the rich man, he become so rich based on the reward of Lazarus.",
+
+"The scripture say when Lazarus died his angels Carried him, every righteous man has an angel guiding them, it was the angels of Lazarus making the rich man prospering.",
+
+"There are many company that has employ a righteous man and the company is progressing because of the righteous man, literally speaking the righteous may not be productive in the place of work, but lack of discernment will make you not to know that his presence in your office is what is making everything to be productive.",
+
+"At times you give them sack letter because they are not productive and since they left, their angels left with them, it is because you don't know how to receive the rewards of the righteous.",
+
+"You don't know how to accept the righteous in the name of his righteousness, not in the name of his productivity, not in the name of his sharpness and his creativity in the place of work but in the name of his righteous and if you understand this mystery you will receive the reward of the righteous.",
+
+"I write to you a mystery oh ye captain of industry, if your company survive unconsciously and you didn't involve in any ritual or diabolical things to make your company work, and the company is working, it is working on the strength of two things.",
+
+"1. You are enjoying the reward of a prophet or you are enjoy the reward of a righteous man.",
+
+"And the day you loose this wisdom of receiving that becomes the day your company begin to go down, it is spiritual, success is not hardworking, it is spiritual that only responds to spiritual code.",
+
+"And the code is what I just released now.",
+
+"Do you have any righteous in your place of work? May God give you Grace to know how to receive them in the name of the righteous, promote them not because they are productive but in the name of the righteous, show kindness to them not because they are physically bringing benefit to the organisation but they are spiritually bring strange blessings to that organisation.",
+
+"If you can do this, you activate their angel to bless you more, this is the mystery of receiving the reward of the righteous.",
+
+"Someone is asking how do I receive the reward of the prophet also? What is the reward of the prophet ?",
+
+"The scripture say believe in the Lord and you shall be established and believe in the prophet and you shall prosper.",
+
+`2 chronicles 20:20
+................ Jehoshaphat stood and said, Hear me, O Judah, and ye inhabitants of Jerusalem; Believe in the LORD your God, so shall ye be established; believe his prophets, so shall ye prosper.`,
+
+"Many only believe in the lord but never believe in his prophet and that is why they are establish but are not prosper.",
+
+"Meaning, prosperity lies in the mouth of the prophet.",
+
+"If you know how to triger the spirit of prophet in them which is by gift, you will receive the reward of a prophet.",
+
+"These are spiritual code of receiving, mind you God has blessed us already with all spiritual blessings, but I am giving you the wisdom of receiving those spiritual blessings.",
+
+"Because you receive the spiritual blessing through Christ, but many didn't know Christ, they only know the invisible Christ, they don't know the visible image of the invisible Christ, and the visible image of the invisible Christ is the body of Christ.",
+
+"It is through the body of Christ you receive every Grace, all Grace comes from God and God give all to us through Christ and we receive all from Christ through his BODY.",
+
+"For instance If I want to give you something and you don't have relationship with my hand, you may not receive anything from me, because if I want to give anything I give it through my hand.",
+
+"The moment you have Faith you don't look unto me again, begin to look at my hand, because it is through my hand you will receive.",
+
+"Same to us, once you have received Faith to receive anything begin to look at the body of Christ, it is through the body of Christ that all blessing available in the Spirit will get to you.",
+
+"And many unrighteous are tapping into this blessing than us, many of them have different men of God they are giving gift to but for you, all you do is to be claiming you are following his teachings.",
+
+"You are following the teaching of a man of God for years and you have never honour him with gift even though it is little out of what you have, you are violating spiritual code.",
+
+"That is why many Christians will die like Lazarus even though they will make it to Heaven.",
+
+"Truly every giving must be based on leading, but the leading of the spirit is always based on the revelational light you have in you, so that when it Lead you to do something, you will do it from revelational understanding.",
+
+"You will do it spiritually not religiously.",
+
+"What is this prophet reward? Who are the prophet the scripture is talking about? How do the prophet released the reward.",
+
+"And why must it be gift we use to trigger them to release the reward?.... it that scriptural?  Yes sir 100 percent scriptural.",
+
+"Just be following. ......"
+
+    ],
+  },
+  {
+    id: 16,
+    page: "10b",
+    bookName: "Banjo Ayeka Diary",
+    title: "The Reward Of A Prophet.",
+    content: [
+      "Matthew 10:41 He who receives a prophet in the name of a prophet shall receive a prophet’s reward. And he who receives a righteous man in the name of a righteous man shall receive a righteous man’s reward.",
+
+      "One of the mysteries of ministry is the ability to know your reward and the ability to give your reward as a gift to others to receive, because just as fish can only survive by water so also the financial life of anyone survives by the reward of men of God.",
+      
+      "That is why the scripture says believe in His prophet (man of God) and you shall prosper.",
+      
+      "2 Chronicles 20:20 ......: Believe in the Lord your God, and you shall be established; believe His prophets, and you shall prosper.”",
+      
+      "Because prosperity is automatic for you when a man of God releases his reward on you.",
+      
+      "The scripture says if you believe a prophet in the name of the prophet, you shall receive the reward of a prophet.",
+      
+      "The first thing you must know is  that the prophet the scripture is talking about in this context are not seers, not those who stand in the office of prophet but everyone sent by God with a message.",
+      
+      "Every man called by God in the new testament is a prophet of the lord, a prophet in this context means a mouth piece of the Lord, a voice of the Lord, someone that the Lord is speaking through to you.",
+      
+      "If God is speaking through me to you then I am your prophet. If God is not speaking through me to you, then I am not your prophet.",
+      
+      "A prophet is a person that gives prophecy and prophecy is the ability to speak the mind of God God through inspired teaching and preaching.",
+      
+      "Kindly look at the way the Amplified version defines prophecy;",
+      
+      `1 Corinthians 14:1
+      1 EAGERLY PURSUE and seek to acquire [this] love [make it your aim, your great quest]; and earnestly desire and cultivate the spiritual endowments (gifts), especially that you may prophesy ([a]interpret the divine will and purpose in inspired preaching and teaching).`,
+      
+      "So under the new covenant, anyone with the ability to interpret the divine will and purpose of God through inspired teaching and preaching is a prophet.",
+      
+      `Take note of the emphasis in that scriptural definition, "interpret" not "speak"`,
+      
+      "Under the old covenant, a prophet is someone with the the ability to speak the mind of God and all the mind of God they spoke is what we are reading now as scripture, but when God began to raise new testament prophets, their assignment differ, they don't just speak, they are to interpret what has been spoken by the old testament in the scripture through inspired teachings and preaching.",
+      
+      "And this mind of God to interpret is the scripture, the old testament prophet spoke the mind of God, while the new testament prophets interprets the mind of God, and scripture is the mind of God.. May God deliver the body of christ from men with spirit of divination dragging themselves to be prophet.",
+      
+      "If your pastor can interpret the mind of God( scripture) through inspired teaching and preaching and your spirit  receive your pastors  message as though God is speaking to you through them then your pastor is a prophet of the Lord and that pastor has a reward.",
+      
+      "And you must be able to know the difference between the gift of a man of God and the reward of a man of God.",
+      
+      "Don't make the mistake of letting a man of God bless you with money no matter how rich he may be, expecting money from a man of God is an act of rubbing yourself from an inheritance and birthright just because of pottage.",
+      
+      "Truly a man of God can give you a material gift but don't expect it, the only thing you should expect from a man of God is the manifestation of their gift and the release of their reward.",
+      
+      "Now the question is how do men of God have strange rewards that can be released into the life of people as gifts?",
+      
+      "Once you do anything in life for men to pay you or do anything for men to praise you then you don't have reward in the spirit again, you have already received your reward from man, that is the picture of what Jesus is saying in Matthew 6:2",
+      
+      "Matthew 6:2 Therefore, when you do a charitable deed, do not sound a trumpet before you as the hypocrites do in the synagogues and in the streets, that they may have glory from men. Assuredly, I say to you, they have their reward.",
+      
+      "That is why I pity men of God selling their grace and gift, that I don't sell my books for instance doesn't mean I don't like money, it is not self discipline but it is an expression of a mystery of reward I am sharing now. I lost my reward with God once I get my reward from man.",
+      
+      "The reason why it looks as if men of God are the one that have the most reward is because 90 percent of their life service is free.",
+      
+      "Their assignment doesn't require you to do something to pay them or do something to praise them.",
+      
+      "We have a gift from God and we also have a reward for using our gift free of charge, we trust God to pay us back after working for him full time, and what God pay us with is called REWARD.",
+      
+      "But the sad news is that, the reward we receive for our service to God is not for our benefit, just as we give gifts to people so also we give our reward, you can see our gift but you cannot see our reward with physical eyes except men who can discern in the spirit.",
+      
+      "But it is unfortunate that the highest of people benefiting from the gift and grace of a man of God doesn't know how to benefit from their reward, just showing you the mystery of the poverty of many christians.",
+      
+      "Now the question is how do a man of God give his reward and how do they give their gift; how do they bless people with their gift and how do they bless people with their reward ?",
+      
+      "Because the gift of a prophet is different from the reward of the prophet, the gift of a teacher is different from the reward of a teacher.",
+      
+      "You can know how to give your gift as a prophet, gift your gift as a teacher for others to enjoy but lack the knowledge of how to give your reward.",
+      
+      "For instance, what you are enjoying now is not my reward as a prophet of God , you are enjoying the gift of a prophet, you are enjoying the divine mind of God through inspired teaching from me.",
+      
+      "The question is what is the reward of a prophet and what is the difference between the reward of a prophet and the gift of a prophet?",
+      
+      "How can i tap into the grace and also tap into the reward?",
+      
+      "As a man of God, how can I give grace and also give my reward, what is the benefit when you receive the gift of a man of God which is what you are reading now, what is also the benefit when you receive the reward of a man of God?",
+      
+      "Get this, anything you receive in life as a gift is a reward of someone, that is, someone pays the price for it, for instance the grace I am using to minister now I didn't pay the price for it, christ pay the price for it, it is the reward of christ that I received as teaching grace.",
+      
+      "Truly we pay a price in life, but we are not designed to receive and enjoy the rewards of our price, it is others that receive the rewards of our price from us.",
+      
+      "Because everything we have also which we receive as a gift is a reward for someone, someone paid the price for it.",
+      
+      "Every man of God has the capacity to give three gifts.",
+      
+      "1. They can give spiritual gifts." ,
+      "2. They can give supernatural gifts.",
+      "3. They can give physical gifts.",
+      
+      `That is, they can bless you with their spirit (spiritual gift).
+      They can bless you with their soul (supernatural gift).
+      They can bless you with their hand (material) gift.`,
+      
+      "Spiritual gift is the one they give based on the grace of God upon them, and this is released to people when they minister. For instance, now you are enjoying the gift of the spirit now not my reward.",
+      
+      "A supernatural gift is the gift they give based on their reward, and this is released from them when they  pray for you.",
+      
+      "A physical gift is the gift they give based on their good heart (they are material gifts).",
+      
+      "So when the scripture says you receive the reward of a prophet, a prophet released their reward through prayer, and one of the ways to trigger their emotions to pray from their soul is to do something that makes them happy.",
+      
+      "Get this, men of God don't pray from their spirit, they minister from the spirit and by the spirit.",
+      
+      "But men of God pray from their emotion, it is the prayer they prayed for you from their emotions that produce results in your life.",
+      
+      "So they release their gift through their spirit and release their reward through their emotions (soul)",
+      
+      "Can you now understand why Issac was asking  Esau to get him sweet bush animals so that his soul can bless him.",
+      
+      `Genesis 27:1 Isaac Blesses Jacob
+      Now it came to pass, when Isaac was old and his eyes were so dim that he could not see, that he called Esau his older son and said to him, “My son.”
+      And he answered him, “Here I am.”`,
+      
+      "Genesis 27:2 Then he said, “Behold now, I am old. I do not know the day of my death.",
+      
+      "Genesis 27:3 Now therefore, please take your weapons, your quiver and your bow, and go out to the field and hunt for me.",
+      
+      "Genesis 27:4 And make me savory food, such as I love, and bring it to me that I may eat, that my soul may bless you before I die.”",
+      
+      "Kindly look at verse 4, Isaac said make me a savory food which I love that my soul may bless you.",
+      
+      "He didn't say that my spirit may bless you (that is a release of ministerial blessing) he didn't say that my hand may bless you, that is the release of material blessing, but he said that my soul may bless you, that is the release of his reward he has with God.",
+      
+      "Isaac was telling Esau here the code to trigger this dimension of blessing, you must do what makes me happy, it is not a blessing I release because I am high in the spirit after praying in tongue, it is a gift I release after I am high in soul with happiness (that is you trigger my emotion) you do what makes me happy.",
+      
+      "If the wife and biological children  of men of God can understand this, they should be the first to receive the reward of their husbands as wife and receive the reward of their father as children  but those that lose this reward most are those who allow over-familiarity to rub them off this strange supernatural blessing their man of God carry.",
+      
+      "This blessing has nothing to do with whether a man of God can raise the dead or not, it only has to do with if you are called by God and you obey the call.",
+      
+      "You must be wise enough to know how to trigger the emotions of men of God and this happen not when you just sow seed or give them gift, it happens when you give them gift that meet their needs, that is, you give them gift at the point of their need, gift that solve their needs, whatever they utter from their mouth by their emotions is their reward and men who understand this has tapped into it and become great in life with it.",
+      
+      "Ability to study the need of a man of God and meet him at the point of his need is what triggers them to release their reward.",
+      
+      "That is why this must either be done by the leading of the holy spirit because it is the holy spirit that knows their need or this is done by observations, you can literally look at a man of God and know his need.",
+      
+      "Whenever the Holy Spirit leads you to give into the life of a man of God , just know that the Holy Spirit is about to open you up into the blessing of the lord that makes men rich.",
+      
+      "Because the blessing of the Lord that make men rich is in the mouth of a man of God, that blessing of the Lord is their reward, many men of God has died with this because no body to trigger them to release it, and you see one unbeliever coming their way to just buy a car for them and suddenly they release the reward meant for their congregation on just one unbeliever who is not a member of the church.",
+      
+      "Over familiarity could only make you see the gift of a man of God but you cannot see his reward.",
+      
+      "Do you know I have been writing for years now and people are following and enjoying the gift.",
+      
+      "But do you know that for me to be writing for five years, it means I have a five years reward of my labour with God and one unbeliever can come and trigger my emotion and you see me releasing my five years of reward upon him, and yet you see those following my grace growing spiritually but not growing financially, ignorance will now make them to think that they need another man of God with grace of prosperity, they only just lack the knowledge of how to receive my reward.",
+      
+      "You don't know that once God gives you a man of God, everything your life needs both spiritually and materially is in the life of the man of God.",
+      
+      "You  need the grace and gift of that man of God to grow spiritually and you need his reward to grow financially, their reward is what the scripture describes as the blessing of the Lord making people rich without adding sorrow to it.",
+      
+      "Have you not observed that after some men of God have prayed  for you, they will just tell you by prophetic direction to give some man of God a gift, what they are saying is mystery just that they cannot explain it.",
+      
+      "May God give you wisdom to learn how to make a man of God bless you from their soul, not from their spirit, not from their pocket, but from their soul.",
+      
+      "What pains me most is that unbelievers are the ones enjoying our reward most, people who are not benefiting from our gift and ministerial grace are the ones benefiting from our reward.",
+      
+      "And the truth is that the reward is designed to be for our followers, for those benefiting from our spiritual gift, but ignorance of this mystery kept them behind. Spiritually they are growing because they are benefiting from our ministerial grace but financially they are not growing because they are not benefiting from our rewards.", 
+      
+      `I show you a mystery. ....
+      I show you a code of the spirit...
+      I show you a hidden wisdom of God....`,
+      
     ],
   },
 ];
