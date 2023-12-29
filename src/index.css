@@ -1,16 +1,31 @@
-@import url('https://fonts.googleapis.com/css2?family=Luxurious+Script&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Luxurious+Script&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-.glass__bg{
-    background-color: rgba(255, 255, 255, 0.459);
-  }
-  .semi__glass__bg{
-    background-color: rgba(255, 255, 255, 0.945);
-  }
-  section, .custom__css__container{
-    max-width: 960px;
-    margin-inline: auto;
+.glass__bg {
+  background-color: rgba(255, 255, 255, 0.459);
 }
+.semi__glass__bg {
+  background-color: rgba(255, 255, 255, 0.945);
+}
+section,
+.custom__css__container {
+  max-width: 960px;
+  margin-inline: auto;
+}
+.hero__gradient {
+  background-image: linear-gradient(
+    rgba(0, 76, 255, 0.898),
+    rgba(5, 148, 250, 0.805)
+  );
+}
+/* .flex__layout {
+  display: flex;
+  flex-wrap: wrap;
+}
+.flex__layout > * {
+  flex-basis: 33%;
+}
+ */
