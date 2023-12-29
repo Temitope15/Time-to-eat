@@ -27,7 +27,7 @@ const TimeToEat = () => {
           </p>
           <p>
             To join this movement{" "}
-            <Link to="" className="font-bold text-blue-500">
+            <Link to="https://ultramsg.com/m/47bsZqg" className="font-bold text-blue-500">
               click me
             </Link>
           </p>

@@ -1,6 +1,5 @@
 import { banjoDiary } from "../data/banjo-diary";
 import { useParams } from "react-router-dom";
-import Navbar from "../components/navbar";
 import ViewMore from "../components/view-more-btn";
 const DiaryPages = () => {
   const { id } = useParams();
@@ -9,7 +8,6 @@ const DiaryPages = () => {
 
   return (
     <>
-    <Navbar showSearch={false}/>
       {id ? (
         <div className="md:px-10 px-4 py-4">
           <div className="text-justify">

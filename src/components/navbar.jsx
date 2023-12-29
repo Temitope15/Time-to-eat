@@ -123,7 +123,7 @@ export const MyComponent = () => {
                   transition={{ delay: 0.4 }}
                   className="  border-slate-500  hover:bg-yellow-500"
                 >
-                  <Link className="block pl-6 py-4">About</Link>
+                  <Link className="block pl-6 py-4" to={"/about"}>About</Link>
                 </motion.li>
               </motion.ul>
             </motion.div>

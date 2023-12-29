@@ -4,14 +4,11 @@ import { books } from "../data/library";
 import Card from "../components/card";
 import { banjoDiary } from "../data/banjo-diary";
 import Hero from "../components/Hero";
-import Navbar from "../components/navbar";
 import TimeToEat from "../components/time-to-eat";
 import AudioTeaching from "../components/audio-teachings";
 import { SiBookstack } from "react-icons/si";
 import { motion } from "framer-motion";
-import { Link } from "react-router-dom";
 import ViewMore from "../components/view-more-btn";
-import { MdOutlineNavigateNext } from "react-icons/md";
 
 const Home = () => {
   const slicedBooks = books.slice(0, 3);
@@ -22,7 +19,6 @@ const Home = () => {
 
   return (
     <div>
-      <Navbar />
       <Hero />
       <section>
         <div className="px-5">
@@ -48,12 +44,7 @@ const Home = () => {
             </motion.span>
           </h1>
           <BooksLibrary books={slicedBooks} instersection={{ once: false }} />
-          <Link
-            to="/book-list"
-            className="p-4 text-white border bg-blue-500 rounded-md hover:border hover:bg-white border-blue-500 hover:text-blue-500 flex justify-center items-center text-xl"
-          >
-            View more <MdOutlineNavigateNext size={30} />
-          </Link>
+          <ViewMore link="/book-list" text="Go to Library"/>
         </div>
 
         <motion.div>
@@ -63,7 +54,8 @@ const Home = () => {
               <BsPenFill className="text-blue-500" />
               Latest on {currentBook}...
             </h1>
-            <Card pages={banjoDiary} />
+            <Card pages={slicedDiary} />
+            <ViewMore text="Read previous pages" link="/diary"/>
           </div>
           <AudioTeaching />
         </motion.div>
