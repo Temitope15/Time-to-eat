@@ -42,7 +42,6 @@ function SearchBox() {
                   >
                     {e.title}
                   </Link>
-                  <p>{console.log(e.title)}</p>
                 </li>
               );
             }
