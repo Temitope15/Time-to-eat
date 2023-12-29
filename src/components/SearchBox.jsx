@@ -9,11 +9,11 @@ function SearchBox() {
 
   function onTestClick(e) {
     e.preventDefault();
-    books?.map((e) => {
-      if (search != "") {
-        window.location.href = "/book-list/" + search;
-      }
-    });
+
+    if (search != "") {
+      window.location.href = "/book-list/" + search;
+    }
+
     return false;
   }
 
@@ -30,9 +30,9 @@ function SearchBox() {
         onChange={(e) => setSearch(e.target.value)}
       />
 
-      <div className="absolute w-full semi__glass__bg top-20 rounded-lg overflow-hidden shadow-sky-950 shadow-2xl max-h-80 overflow-y-auto min-w-[200px]">
+      <div className="absolute block w-full semi__glass__bg top-20 rounded-lg overflow-hidden shadow-sky-950 shadow-2xl max-h-80 overflow-y-auto min-w-[200px]">
         <ul>
-          {books?.map((e) => {
+          {books.map((e) => {
             if (e.title.toLowerCase().includes(search) && search != "") {
               return (
                 <li key={e.title} className="border-b-2 border-slate-200">
@@ -42,7 +42,6 @@ function SearchBox() {
                   >
                     {e.title}
                   </Link>
-                  <p>{console.log(e.title)}</p>
                 </li>
               );
             }
