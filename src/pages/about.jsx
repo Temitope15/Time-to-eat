@@ -1,6 +1,7 @@
 /* eslint-disable react/prop-types */
 import { AboutPstBanjo } from "../data/about-pst";
 import ViewMore from "../components/view-more-btn";
+import Navbar from "../components/navbar";
 
 // card component
 const Card = ({ children }) => (
@@ -10,10 +11,12 @@ const Card = ({ children }) => (
 );
 
 const AboutBanjo = () => {
-  
   return (
     <>
-      <section className="container flex flex-col items-center justify-around my-4 ite lg:m-4 md:flex-row font-tertiary">
+
+      <Navbar />
+      <section className="container flex flex-col items-center justify-around my-4 ite md:m-4 md:flex-row font-tertiary pt-24">
+
         <div className="w-[35%] h-full p-1 border-4 rounded-md border-blue-500 mx-auto md:mx-0">
           <img
             src={AboutPstBanjo.img}
@@ -46,9 +49,15 @@ const AboutBanjo = () => {
             <p>{AboutPstBanjo.family}</p>
           </Card>
 
-          <div className="flex gap-2 md:justify-between p-2 md:py-2">
-            <ViewMore link="/book-list" text="Library" style="flex-grow" />
-            <ViewMore link={AboutPstBanjo.chatLink} text="Chat with Pst Banjo" style="" />
+
+          <div className="flex justify-between">
+            <ViewMore link="/book-list" text="Library" style="mx-4" />
+            <ViewMore
+              link={AboutPstBanjo.chatLink}
+              text="Chat with Pst Banjo"
+              style="mx-4"
+            />
+
           </div>
         </div>
       </section>
