@@ -5,48 +5,69 @@ import Card from "../components/card";
 import { banjoDiary } from "../data/banjo-diary";
 import Hero from "../components/Hero";
 import Navbar from "../components/navbar";
-import TimeToEat from "../components/time-to-eat"
+import TimeToEat from "../components/time-to-eat";
 import AudioTeaching from "../components/audio-teachings";
 import { SiBookstack } from "react-icons/si";
+import { motion } from "framer-motion";
+import { Link } from "react-router-dom";
 import ViewMore from "../components/view-more-btn";
+import { MdOutlineNavigateNext } from "react-icons/md";
 
 const Home = () => {
   const slicedBooks = books.slice(0, 3);
-  const currentBook = "Banjo Ayeka Diary"
-  const slicedDiary =  banjoDiary.slice(-1);
+  const currentBook = "Banjo Ayeka Diary";
+  const slicedDiary = banjoDiary.slice(-1);
 
   const bookLibraryText = "Books written by Pastor Banjo Ayeka";
+
   return (
     <div>
-
       <Navbar />
       <Hero />
+      <section>
+        <div className="px-5">
+          <h1 className="font-bold py-3 mb-3 justify-center gap-2 border-b border-blue-500 flex items-center">
+            <motion.span
+              initial={{ scale: 1 }}
+              whileInView={{ scale: [0, 1.2, 1.5, 1] }}
+              transition={{
+                duration: 1,
+              }}
+              className="text-blue-500 block mr-5"
+            >
+              <SiBookstack size={50} />
+            </motion.span>
+            <motion.span
+              whileInView={{ scale: [0, 1], opacity: [0, 1] }}
+              transition={{
+                duration: 1,
+              }}
+              className="span"
+            >
+              {bookLibraryText}
+            </motion.span>
+          </h1>
+          <BooksLibrary books={slicedBooks} instersection={{ once: false }} />
+          <Link
+            to="/book-list"
+            className="p-4 text-white border bg-blue-500 rounded-md hover:border hover:bg-white border-blue-500 hover:text-blue-500 flex justify-center items-center text-xl"
+          >
+            View more <MdOutlineNavigateNext size={30} />
+          </Link>
+        </div>
 
-      <div>
-      <h1 className="font-bold py-3 justify-center gap-2 border-b border-blue-500 flex items-center">
-        <span className="text-blue-500 ">
-          <SiBookstack size={50} />
-        </span>
-        {bookLibraryText}
-      </h1>
-      <BooksLibrary books={slicedBooks}/>
-      <ViewMore link="/book-list" text="Go to library" style="mx-4"/>
-      </div>
-
-      <TimeToEat />
-
-      <div className="p-4 border-b border-blue-500">
-        <h1 className="font-primary font-bold text-base md:text-lg italic px-4 flex items-center gap-2">
-          <BsPenFill className="text-blue-500 " />
-          Latest on {currentBook}...
-        </h1>
-        <Card pages={slicedDiary} />
-        <ViewMore text="Read previous pages" link="/diary"/>
-      </div>
-
-      <AudioTeaching />
-
-
+        <motion.div>
+          <TimeToEat />
+          <div className="p-4 border-b border-blue-500">
+            <h1 className="font-primary font-bold text-xl  italic px-4 flex items-center gap-2">
+              <BsPenFill className="text-blue-500" />
+              Latest on {currentBook}...
+            </h1>
+            <Card pages={banjoDiary} />
+          </div>
+          <AudioTeaching />
+        </motion.div>
+      </section>
     </div>
   );
 };
