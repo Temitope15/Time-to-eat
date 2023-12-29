@@ -16,7 +16,7 @@ function Hero() {
     }}
   />
 */
-    <main className="hero__gradient py-8 px-2 pt-28 lg:pt-16  text-white ">
+    <main className="hero__gradient py-8 px-2 pt-28 lg:pt-16 min-h-screen  text-white ">
       <section className=" mx-auto md:flex md:justify-between md:items-center px-10 ">
         <motion.div
           className="opacity-0"
