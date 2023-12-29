@@ -10,5 +10,5 @@ export const AboutPstBanjo = {
     education: "He is a graduate of Estate management at Rufus Giwa Polytechnic Owo ( formally Ondo state polytechnic), haven received a call into ministry he furthered to have his PGD in religion studies at Redeemers University.",
     family:"He is happily married to Tomi and bless with a son, oreofe.",
     img: pstBanjoImg,
-    chatLink: "https://whatsapp",
+    chatLink: "https://ultramsg.com/m/3TGNgB1",
 }

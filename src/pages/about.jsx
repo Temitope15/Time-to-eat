@@ -13,8 +13,10 @@ const Card = ({ children }) => (
 const AboutBanjo = () => {
   return (
     <>
+
       <Navbar />
       <section className="container flex flex-col items-center justify-around my-4 ite md:m-4 md:flex-row font-tertiary pt-24">
+
         <div className="w-[35%] h-full p-1 border-4 rounded-md border-blue-500 mx-auto md:mx-0">
           <img
             src={AboutPstBanjo.img}
@@ -47,6 +49,7 @@ const AboutBanjo = () => {
             <p>{AboutPstBanjo.family}</p>
           </Card>
 
+
           <div className="flex justify-between">
             <ViewMore link="/book-list" text="Library" style="mx-4" />
             <ViewMore
@@ -54,6 +57,7 @@ const AboutBanjo = () => {
               text="Chat with Pst Banjo"
               style="mx-4"
             />
+
           </div>
         </div>
       </section>

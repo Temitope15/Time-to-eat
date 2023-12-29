@@ -8,10 +8,12 @@ import Footer from "./components/footer";
 import Diary from "./pages/diary";
 import AboutBanjo from "./pages/about";
 import Contact from "./pages/contact";
+import Navbar from "./components/navbar";
 
 const App =() =>{
   return(
     <Router>
+        <Navbar/>
         <Routes>
           <Route path="/" element={<Home/>} />
           <Route path="book-list" element={<BooksList/>}/>
