@@ -3080,4 +3080,651 @@ He who receives a prophet in the name of a prophet shall receive a prophet’s r
       
     ],
   },
+  {
+    id: 17,
+    page: "11a",
+    bookName: "Banjo Ayeka Diary",
+    title: "Coming soon",
+    content: [],
+  },
+  {
+    id: 18,
+    page: "11b",
+    bookName: "Banjo Ayeka Diary",
+    title: "Coming soon",
+    content: [],
+  },
+  {
+    id: 19,
+    page: "12a",
+    bookName: "Banjo Ayeka Diary",
+    title: "Coming soon",
+    content: [],
+  },
+  {
+    id: 20,
+    page: "12b",
+    bookName: "Banjo Ayeka Diary",
+    title: "Coming soon",
+    content: [],
+  },
+  {
+    id: 21,
+    page: "13a",
+    bookName: "Banjo Ayeka Diary",
+    title: "Coming soon",
+    content: [],
+  },
+  {
+    id: 22,
+    page: "13b",
+    bookName: "Banjo Ayeka Diary",
+    title: "Coming soon",
+    content: [],
+  },
+  {
+    id: 23,
+    page: "14a",
+    bookName: "Banjo Ayeka Diary",
+    title: "The End of the Natural",
+    content: [
+      `The End of the Natural is the beginning of the Supernatural. The word "Above the Natural" is not talking about height.`,
+
+    "It means a realm that begins where natural ended.The word above in the spiritual realm is like ahead , like today is above yesterday and tomorrow is above today ,that is the same way supernatural is to the natural",
+    
+    "That is why aside from entering into the supernatural through Christ or entering into the supernatural through sacrifice from the devil the only way to enter into the supernatural is through physical Death.",
+    
+    "Once you are dead, you become supernatural, because where natural end is where supernatural begins, the end of the natural is the beginning of the supernatural, it has nothing to do with literia hight like from the ground to above the skye, it is just between a life in this time and life that begin when this time come to an end.",
+    
+    "That is why once a man is dead he become prophetic, he can know those that kill him, he can see the end of everything natural, because he is now seen into the past", 
+    
+    "He can see what will happen to us next week or next year.",
+    
+    "It is when you stand into the nature that you are trying to see into the future,  when you stand into the supernatural( heavenly places) you see into the past and what was captured as past in that realm is future in this realm",
+    
+    "Because this natural realm is a programmed realm, what happens today are what has been planned before the foundation of the world, it is just the opening of a scroll amongst many books from the library of eternity",
+    
+    "What is fustraction? it is an act of trying to act a role not according to what is written concerning you in the library of eternity",
+    
+    "Things that happen in the natural has been programmed long ago, so once you stand in the supernatural you can see what has been programmed, and begin to decode it to explain to men what will happen tomorrow, and if your spirit can pick your roles in those books of eternity that contain everyone born in Nigeria then you begin to walk in alignment and outstanding success in life",
+    
+    "There is holy book which is bible and there are holy books of destiny also which contain everything written concerning you, there are many books that will open on the last day aside from the book of life",
+    
+    "Revelation 20:12 And I saw the dead, small and great, standing before God, and books were opened. And another book was opened, which is the Book of Life. And the dead were judged according to their works, by the things which were written in the books.",
+    
+    "Look at the scripture ,  John said he saw that books were open, not book( singular) but books ( plural)",
+    
+    "you can't find it in the bible in your hand that you will be born in Nigeria and the bible doesn't contain how you will died, because it is not a book writen concerning you, it I'd about Book writen concerning just one man and that is Jesus, there are books in the spirit written concerning you, the prophecy of the Bible is not a book writen concerning us , it is only the promises of the bible that was written for us.",
+    
+    "That is why it was written clearly in the scripture how Jesus will be born, where he will be born, how he will die and where he will die.",
+    
+    "So the scripture is a book writen concerning christ not book written concerning you, it is a book that give the prophetic details of christ not prophetic details about you,",
+    
+    "The promises of the scripture is for us but the prophecy of the scripture is about Jesus",
+    
+    "We don't need any books of promises again, bible is enough, but we still need the rising of books of prophecy concerning individual that capture the details of our earthly existence and assignment",
+    
+    "Get this mystery, the plan of God is that just has he raised men and they begin to give prophecy in the old testament about christ because they accessed the scroll that contained things written concerning him, so also God want to raised different prophets who will speak different things concerning us before we where born and we will pick their books and something will be telling us in us that this prophet who live 200 years ago and wrote this prophecy was talking about me",
+    
+    "Just has jesus came and begin to read scripture and know that Isaiah was talking about him,  so also different writing books containing different prophecy of generations yet unborn should be available so that as those generation came and pick the book of Banjo Ayeka they will know Banjo Ayeka is talking about them",
+    
+    "Just image a book writen by a prophet 300 years ago saying a guy will be born from Nigeria and he will be a great writer in the hand of God, and through his book a revival will spread around the campus, just imagine me reading that prophecy,  something in me will be telling me this prophecy is talking about me",
+    
+    "It will become easy for me to just also said like jesus in luke 4: 18 when he read the book of Isaiah and he said this prophecy fulfilled in your hearing today",
+    
+    "Luke 4:20 Then He closed the book, and gave it back to the attendant and sat down. And the eyes of all who were in the synagogue were fixed on Him.",
+    
+    "Luke 4:21 And He began to say to them, “Today this Scripture is fulfilled in your hearing.”",
+    
+    "The way jesus was ready bible could have been the way I could have been reading that prophecy writen concerning me by a prophet who live 300 years ago.",
+    
+    "Jesus was able to easily have direction because he accessed a book of prophecy written concerning him, we lost direction because we lack a book of prophecy written concerning us.",
+    
+    "This is the dimension of prophetic writers and writing coming to pass before the end of the age.. I have seen it",
+    
+    "Scroll about the destiny of children yet on born are going to be opening in the supernatural realm, and men will be given access to see those scroll and inspiration to write will begin rest on them to write it down now and when the generations involved landed on earth, divine direction will lead them to that books",
+    
+    "Get this, it is not only Jesus that is designed to be born by prophecy,  everyone ordain to carry out Gods agenda on earth is a child of prophecy and to every child of prophecy there is a book of prophecy",
+    
+    "Some said bible is enough, those are religious voice ordain to silence the move of God that eyes has not seen, the move of God that ear has not hear and the move of God that has not enter into the heart of man",
+    
+    "the evil of religion spirit is that they want what God has done in the part to repeat itself when God is saying I will do a new things, is a spirit that just love to stay with the old traditions, it is an enemy of a new move.",
+    
+    "They want what ear has heard and what eyes has seen to be seen again when God is saying he want to do what eyes has not seen",
+    
+    `1 Corinthians 2:9.
+    “Eye has not seen, nor ear heard,
+    Nor have entered into the heart of man
+    The things which God has prepared for those who love Him.”`,
+    
+    "If you claim bible is enough,  show me from the bible how you will directly know that lagos is where God want you to be, but for Jesus he can see clearly how he will be born in Bethlehem, moved to Egypt,  raised in Nazareth and many more, it was prophetically and literally stated, that is why it become easy for christ to get direction",
+    
+    "And such as we saw what was writen concerning christ, there are liberary in heaven full of scroll written concerning us, just as men studied the prophecy about jesus and wait for it, so also men should be studying about prophecy writen concerning us and be waiting for it hopefully it will come to pass in their time.",
+    
+    "David was able to see this and he said all my members was written in your books , he wasn't talking about bible,", 
+    
+    "Psalm 139:16-17. “All the days ordained for me were written in your book before one of them came to be.",
+    
+    "And this book of prophecy become posible if men can begin to learn to stand at the supernatural and see into the natural, because what is future here is past there.",
+    
+    `So using the word "Above" to explain supernatural become what is difficult for man to capture the position of the supernatural.`,
+    
+    `The word "Above" in the spirit realm is different from the word Above in the natural realm.`,
+    
+    "In the natural the word Above is in terms of height, like two story buildings for instance whereby the second floor is above the first floor.",
+    
+    "But in the Spirit, Time is what is use to explan Above.",
+    
+    "Like today now is above yesterday why tomorrow is above today.",
+    
+    "So when you stand in the supernatural you begin to see what we count as future in the nature to be past in the supernatural.",
+    
+    "Because as far as this natural realm is concerned, there is nothing that will happen to those in the supernatural by surprise, they see everything as what has happened,",
+    
+    "So when you stand in that realm you speak as if you are talking about history, like what has happened and when what you think is history enter into the natural it become future and prophecy.",
+    
+    "That was why when Isaiah was given the prophecy about Jesus he wasn't given prophecy as what will happen, he talked as though it has happened.",
+    
+    `Isaiah 9:6
+    For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.`,
+    
+    "By his stripes we are healed, not will shall be heal.",
+    
+    `Isaiah 53:5 
+    But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.`,
+    
+    "He never said a time is coming that unto us a child will be born",
+    
+    "He said unto us a child is born and unto us a son is given.",
+    
+    "He was speaking as though it has taken place whereas it is in the Future.",
+    
+    "That is why when you see a man who speak Truth as someone speaking from the supernatural, it will take the help of the Holy Spirit to understand what he is saying.",
+    
+    "You can't understand the prophecy until it has come to fulfilment.Not all this prediction we are seeing every where which they tag to be prophecy.",
+    
+    "You can never understand true prophecy if it has not come to pass, except the Holy Spirit interpret it to you.",
+    
+    "Can't you see the book of Revelation, we are still struggling to understand many things written in it.",
+    
+    "Some of it will only be understood by those that will be alive after the last rapture.",
+    
+    "If you give a prophecy and a natural man can understand what you are saying, what you give is just prediction not prophecy.",
+    
+    "Because when you stand in the supernatural to speak, you speak what will happen as though it has happen.",
+    
+    "It will look as though you are watching history.",
+    
+    "Because you are standing at the end of the Natural, so you see the end of everything already.",
+    
+    "The greatest weakness of a natural man is that he doesn't know tomorrow, and the greatest strength of a supernatural man is that he stand in the realm above tomorrow and see what you call tomorrow as yesterday.",
+    
+    "It is the ability to tap into the ability of the world to come, and begin to manifest it in this world.",
+    
+    "Get this, we believers are designed to be strange beings, a realm is opened to us called the world to come, just imagine God Opening the door of the world to come for you to tap into the resources available in that realm to handle situations and solve problems in this present world.",
+    
+    "That is why we have different Heavens and those Heavens are above each other.",
+    
+    "For instance if you stand in the second heaven now known as the supernatural, in that realm there are Angels, it is a realm of the angelic but if you stand in the third heaven which is the realm of some heavenly beings which are not Angels like the 24 elders you can also begin to see into the future of the Angels",
+    
+    "That is you can also prophesy to Angels because you are now standing in the realm that is far above the angelic realm",
+    
+    "Because just as supernatural realm begin from where natural realm end so also there is a realm that begin where supernatural realm ended.",
+    
+    "That realm also there is a realm that begins where that realm ended, and that is how it happens until the many Heavens.",
+    
+    "I think you can now understand the meaning of eternity, and eternal life that is in you.",
+    
+    "It means at the time that even the supernatural realm will be coming to an end when angels are going to be judged also you will be available to witness and still be much in existence.",
+    
+    "When the third heaven also will be coming to an end you will also be in existence.",
+    
+    "Because time has not begin yet in the supernatural realm, it is still a timeless realm now, but once this natural realm come to an end, day one begins in the supernatural realm.",
+    
+    "Because just as there will be a new Earth so also there will be a new Heaven.", 
+    
+    "Because the old heaven will also pas away.",
+    
+    `2 Peter 3:10
+    But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up.`,
+    
+    `Revelation 21:1 All Things Made New
+    Now I saw a new heaven and a new earth, for the first heaven and the first earth had passed away. Also there was no more sea.`,
+    
+    "Mind you they are not going to pass away at the same time this Earth will pass away.",
+    
+    "John wrote them as if it is going to be an event that will happen at the same time, it is because John was standing in a realm where he saw the end of the supernatural also." ,
+    
+    "Because there was an invitation for him to come up hither.",
+    
+    `Revelation 4:1
+    After this I looked, and, behold, a door was opened in heaven: and the first voice which I heard was as it were of a trumpet talking with me; which said, Come up hither, and I will shew thee things which must be hereafter.`,
+    
+    "Before he was Invited to come up hither he was still busy writing to the seven churches, he was still busy correcting the body of Christ, as some are busy doing now.",
+    
+    "But when he entered into another realm, he doesn't have time for those ones again, he was not only one seeing the end of the natural, he also began to see the end of the supernatural.",
+    
+    "He was not only seeing the end of man, he was also seeing the end of angels, and seeing the end of the devil.",
+    
+    "He saw that Satan will be bound for 1000 years and after that again he begin to see what will happen.",
+    
+  `Revelation 20:1
+    And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand.`,
+    
+    "2 And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,",
+    
+    "He saw the end of the natural, also saw the end of the supernatural, just imagine john given prophecy to the devil also, because devil himself got to know this about himself through john that he will be captured and throw into the bottomless pit.",
+    
+    "If you can see the end of the natural, then you are a prophet to the natural, and if you can see into the end of the supernatural that is you become a prophet to the angels.",
+    
+    "And God's plan for we the children of God is not only to be the prophet to men but to also be the prophet to the angels.",
+    
+    "That is, angels now stand in the supernatural they can know the end of man, they know our future, but there is a realm also we can stand, which is the third Heaven and in that realm we can know the future of the angels and also begin to tell them.",
+    
+    "That is why the scriptures say the manifold wisdom of God shall be made known to the Angels.",
+    
+    `Ephesians 3:10
+    To the intent that now unto the principalities and powers in heavenly places might be known by the church the manifold wisdom of God`,
+    
+    "Meaning, we are to give word of knowledge to angels also.",
+    
+    "We have access to a place that is far above where they stand and dwell." ,
+    
+    "If the scripture say Christ is sitted far above all Heavens.",
+    
+    "Ephesians 4:10 He who descended is also the One who ascended far above all the heavens, that He might fill all things.)",
+    
+    "And the scripture say we are sitted with him, it means we have access to a realm that is far above the heaven",
+    
+    "Where we didn't see alone the end of the race of man but we see the end of the race of the angels.",
+    
+    "We can have access to the heavenly and also have access to the realm that is far above all the heavenly places.", 
+    
+    "It is a realm of the God's family, if you are not part of God's family you are not permitted to be there.",
+    
+    "And once we are born again that realm is available for us, because we are now part of Godhead ( if is a realm of God and his children)",
+    ],
+  },
+  {
+    id: 24,
+    page: "14b",
+    bookName: "Banjo Ayeka Diary",
+    title: "Be filled with the Holy Ghost",
+    content: [
+      `Ephesians 4
+10He Who descended is the [very] same as He Who also has ascended high above all the heavens, that He [His presence] might fill all things (the whole universe, from the lowest to the highest).`,
+
+"When you look at this scripture, you will know that there is nothing in life you need that you lack, there are many things you have that you just don't know.",
+
+"The scripture says and Christ descended and he ascended again that he might fill all things.",
+
+"Ephesians 4:10 He who descended is also the One who ascended far above all the heavens, that He might fill all things.)",
+
+"Meaning, as far as heaven is concerned now, everyone is already filled with the holy ghost.",
+
+"Because when he first descended, he descended as Jesus of Nazareth and when he ascended, he ascended has Christ and when he descended again he descended as spirit, because the Lord is that Spirit",
+
+"2 Corinthians 3:17 Now the Lord is the Spirit; and where the Spirit of the Lord is, there is liberty.",
+
+"And the scripture now say that he descended that he might fill all things.",
+
+"So you only look at Peter and say peter was filled with the holy ghost.", 
+
+`NKJV, The Acts 4:8
+Then Peter, filled with the Holy Spirit, said to them, “Rulers of the people and elders of Israel:`,
+
+"I tell you today that it is not only Peter that was filled with the holy ghost, all things were filled with the holy ghost. Once you are born again you are filled with the holy ghost.",
+
+"In fact, all the stones and trees were filled with the holy ghost.... the scripture say that he might filled all things", 
+
+"The descending of the holy ghost is not only to fill all people but to fill all things.",
+
+"Look at the scripture again...",
+
+`Ephesians 4
+10He Who descended is the [very] same as He Who also has ascended high above all the heavens, that He [His presence] might fill all things (the whole universe, from the lowest to the highest).`,
+
+"So once you are born again, you are filled with the holy ghost already.",
+
+"Not that you are looking for means to be filled with the holy ghost, not that you are looking for men of God to fill you with the holy ghost, but you are filled with the holy ghost already.",
+
+"You only need men of God and teaching that will open the eyes of your understanding to see this.",
+
+"It is a reality that you are filled with the holy ghost.",
+
+"It is not something you receive by faith, the faith of Jesus has made you receive it already, you only need the right revelational knowledge to manifest it.",
+
+"The only thing we need that we lack in the body of Christ is revelational knowledge that will open the eyes of our understanding to see what we have that we don't know.",
+
+"And this is the assignment of the Holy spirit we receive",
+
+"1 Corinthians 2:12 Now we have received, not the spirit of the world, but the Spirit who is from God, that we might know the things that have been freely given to us by God.",
+
+`Look at the purpose why you have Holy ghost,...." that you might know the things that has been freely given to you by God" not that you might know the things that will be freely given to you by God, but the things that have been freely given already`,
+
+"There is nothing again that you lack, show me what you claim you lack and I will show you from the scripture that you have them already.", 
+
+"That you are not seeing the manifestation doesn't mean you lack them.", 
+
+"That is why the creatures are waiting to see the manifestation of the sons of God because they know the sons of God have everything already, but the sons didn't just manifest anything.. and why? They lack the light of the holy ghost.",
+
+"Instead of them to be seeking for the light of the holy ghost they are busy seeking the for the power and fire of the holy ghost, they don't know that they have the power in them already, they only need the light that will make the power and fire in them to break out.",
+
+"When the scripture begins to talk about the reality of the heir who is still a child in the scripture, he said even though the heir is the lord of all.",
+
+"Galatians 4:1 Now I say that the heir, as long as he is a child, does not differ at all from a slave, though he is lord of all,",
+
+`The word "Lord" means owner, that is someone that owns everything but yet we never see anything manifesting in their life.`,
+
+"The question is why? As long as the heir is still a child, he is not different from the slave even though he has been filled with the holy ghost, he will not see the manifestation.",
+
+"No matter how much the son fast and prays, he will not see the manifestation of what he has.",
+
+"Because once you are born again, all things you have are tied to spiritual maturity.", 
+
+"That is why all you need is spiritual food that will grow your spirit.",
+
+"You need heavenly information that will grow your spirit.",
+
+"In fact, it is not your mind you develop,  it is your spirit you grow, all you need is the growth of your spirit, I have said that your spirit has all the information needed for your mind to develop",
+
+"That is why the scripture never says if you want to grow your mind listen to messages, he said if you want to grow your mind, it is through renewal of mind.",
+
+"Romans 12:2 And do not be conformed to this world, but be transformed by the renewing of your mind, that you may prove what is that good and acceptable and perfect will of God.",
+
+"And renewal of mind happens when your mind sits under your spirit and your spirit begins to educate your mind, you may call it meditation. Your mind can never be renewed by information you receive from external, any information you receive in your mind  that is not your spirit that teach and educate your mind, is what the scripture refers to as stronghold and you must learn to use the knowledge of the word of God to pull it down.",
+
+"The only knowledge that your spirit needs from external is interpretation of scripture and as your spirit begins to grow, he will begin to educate your mind and step to take in life and decisions to make in life.",
+
+"Spiritual maturity is not based on your mind development, it is based on your spirit development.", 
+
+"In the physical, your mind development is a proof of  maturity but in the realm of the spirit, your spirit development is the proof of spiritual maturity in the sight of God and upon this dimension you receive your inheritance.",
+
+"You don't receive inheritance because your mind is developed, you receive inheritance because your spirit is developed, God doesn't need the development of your mind, mind development is an hindrance to faith journey ,God want your mind to be renew and narrow, narrow in  the sense that your mind you only be filled with the knowledge of Gods will in all spiritual wisdom and understanding received from your spirit.",
+
+`Colossians 1:9.
+For this reason we also, since the day we heard it, do not cease to pray for you, and to ask that you may be filled with the knowledge of His will in all wisdom and spiritual understanding;`,
+
+"If you have not obtained your inheritance, may you be humble enough to accept that it is because you are heir who is still a child.",
+
+"Someone said what is my inheritance?",
+
+"The answer is in Psalm 2:8",
+
+`Psalms 2:7-8
+[7]The king proclaims the lord’s decree: 
+“The lord said to me, ‘You are my son. 
+    Today I have become your Father.
+[8]Only ask, and I will give you the nations as your inheritance, 
+    the whole earth as your possession.`,
+
+"Can you now see why Galatians 4vs 1 said you are lord of all...",
+
+"Your father is the owner of all physical and material things you can think of and imagine on earth,  that is why the scripture says the Earth is the lord and the full",
+
+`Psalms 24:1
+[1]The earth is the lord’s, and everything in it. The world and all its people belong to him.`,
+
+"And Gods plan is to give this earth and everything to you as inheritance.",
+
+"The only people that are not permitted to receive material things of this life as inheritance are the priest by calling, truly everyone born again are royal priesthood but not everyone are servant priesthood, a servant priesthood is different from a royal priesthood", 
+
+"The servant priesthood are  those designed by God to be full time pastors, because just has  God denied them from physical inheritance in the land of cannan, same reality in the spirit ...",
+
+"Once you are Priest by calling, the scripture say the lord is your inheritance",
+
+`Deuteronomy 18:1.
+“The priests, the Levites—all the tribe of Levi—shall have no part nor inheritance with Israel; they shall eat the offerings of the Lord made by fire, and His portion.`,
+
+"Deuteronomy 18:2 Therefore they shall have no inheritance among their brethren; the Lord is their inheritance, as He said to them.",
+
+"And the fact is that if you are  truly called into priesthood assignment,  you can never suffer in life, you may suffer for some season but you can never suffer for life",
+
+"Those that your grace is impacting will not allow you to suffer, as God is using you to minister to them in spiritual things, God will surely use them to minister to you in material things, without you beging them", 
+
+"This is the scripture that captured the reality of how material blessings are to come to we full time pastors.",
+
+"1 Corinthians 9:11 If we have sown spiritual things for you, is it a great thing if we reap your material things?",
+
+"1 Corinthians 9:13 Do you not know that those who minister the holy things eat of the things of the temple, and those who serve at the altar partake of the offerings of the altar?",
+
+"1 Corinthians 9:14 Even so the Lord has commanded that those who preach the gospel should live from the gospel.",
+
+"Galatians 6:6 also testify to that.",
+
+"NKJV, Galatians 6:6 Let him who is taught the word share in all good things with him who teaches.",
+
+"But for the material things of this life, God want to give it to you as inheritance",
+
+"Someone said but the children of darkness are in possession of them and yet they are not sons, yes sir, they are in possession of them because the heirs are still a child.",
+
+"It is like when you the father hand over the properties of the house to your house maid because you are going on 2 days journey  just because your son is just 2 years old", 
+
+"So you kept your son under the house maid and handover everything in the house to the house maid, even though your child is the heir, but as long as he is a child he is not different from slave, not in identity but in access, even though he is the lord of all",
+
+"This is the mystery  why you see unrighteous in high places and the children of God in low places, it is because they are child, they remain in high places as long as we remain a child, as long as we refuse to grow.",
+
+"when your spirit grow, a law will begin to be automatically working in you and for you which is the law of wealth trasfer from the children of the house maid to your hand the sons of the owner.",
+
+"When you see any rich man who is not born again just know that you are the lord of all he possess, the earth is of the lord, meaning your father is the owner of everything in his hand, God helps it with them for you because your spirit is still a child", 
+
+"That is why the scripture says you shall inherit the wealth of the gentiles.",
+
+"If you have not seen this law working in you as a son may you be humble enough to accept that it is because you are heir who is stil a child.",
+
+"Show me anything you claim you lack aside from light and I will show you everything you have that you didn't know.",
+
+"I just show you now that everything has been filled, you are filled with the holy ghost already you are not waiting for it, you don't tarry for it.",
+
+"If you are tarrying to be filled, it means you don't know what you have that you don't know.",
+
+"The scripture says all things have been filled already.",
+
+"If you don't have something already,  Jesus will not say out of your belly shall flow the river of living water.", 
+
+"John 7:38 He who believes in Me, as the Scripture has said, out of his heart will flow rivers of living water.”",
+
+"John 7:39 But this He spoke concerning the Spirit, whom those believing in Him would receive; for the Holy Spirit was not yet given, because Jesus was not yet glorified.",
+
+"The Apostles are the only one permitted to wait for it, because they Holy Ghost has not come, but for us we meet holy ghost on earth, the earth has been filled with him since the day of Pentecost, that is why Holy ghost doesn't come from heaven to rest upon us again, out of our belly shall flow rivers of living water.. and water is a symbol of the Holy Ghost",
+
+"It is what you don't have already that you wait for, it is what is not with you that you tarry like the day of pentecost to wait.",
+
+"They wait to receive, but beginning from the day of pentecost, we wait to manifest, we don't wait to receive we only wait to manifest.",
+
+"Because we have everything already and the scripture says it flows out of your belly that they follow out from.",
+
+"Revelational knowledge in the new testament is like well, you have to dig it to bring out the water.", 
+
+"And digging has to do with removing the soil blocking the surface, and the soil is your ignorance, what you have as knowledge that is not true knowledge is the soil you must dig out, it is called unlearning to relearn, and that is the most difficult things for man",
+
+"It is easy to teach someone who didn't know and accept he didn't know, but can be difficult to teach someone who no wrong things but thinks what he knows is the truth... they argue blindly",
+
+"So there are many wrong knowledge that have covered the glory and blessing of God in our spirit, all we need is to begin to use the light of the scripture to remove them.",
+
+"I repeat again, all you need is the LIGHT OF THE HOLY GHOST",
+
+"the power of the holy ghost is in you already,  do you have christ in you? if yes then christ is the power and wisdom of God.",
+
+"That is why the scripture said it is according to the power at work in you that God will use to solve your problem",
+
+`Ephesians 3:20
+[20]Now all glory to God, who is able, through his mighty power at work within us, to accomplish infinitely more than we might ask or think.`,
+
+"Jesus said you shall receive power after the holy ghost has come upon you and by Gods grace the Holy ghost has come and he has filled all things, you are filled with the holy ghost already meaning you have power already",
+
+"All you need is the Light of the holy Ghost to manifest all that has been freely given to you that you didn't known .. SEEK LIGHT",
+
+"Because you are already filled with the Holy Ghost, you already have the power of the Holy Ghost, you only need the light of the Holy Ghost",
+
+    ],
+  },
+  {
+    id: 25,
+    page: "15a",
+    bookName: "Banjo Ayeka Diary",
+    title: "Knowledge: The food of Gods children",
+    content: [
+      "Because of the wrong knowledge we were brought up with that didn't produce any supernatural result for us, so we now felt there is something we need aside from knowledge.",
+
+"It is like saying,  because you eat a food and the food is not working in your body and you claim there is something you need outside food, no sir it is not that food is not working, it is the kind of food you are eating that lack chemicals substances that can bring nutrients into your body",
+
+"Same to knowledge, we felt there is more to knowledge, We now felt just as we need Knowledge, so also we need power, we don't know that all the power we need is already inside our spirit.",
+
+"We grow up under wrong knowledge that is why those knowledge cripple us rather than enabling us, the knowledge we grew up with become a padlock that close the channel of our spirit rather that becoming a keys of the kingdom that open the channels of our spirit and allow living water to flow out of our belly.",
+
+"If a knowledge comes to you as light, it wake everything sleeping in you, power that is available in us already lacking revelational knowledge ( light) is like electrical equipment lacking a light from electricity",
+
+"Just as everything an electrical equipment need to works is inside the electrical equipment but needed a light from electricity to work, so also everything pertaining to your life and godliness is inside of you, but needed a light from revelational knowledge to work.",
+
+"When a light from the Holy Ghost comes to you and you receive it as revelation, that is all you need.",
+
+"What we claimed to be knowledge is not the light of the Holy Ghost, that is why it look as if we need another things with it, when a light is not from the holy ghost it can become religion in your hand and put you in bondage rather than set you free",
+
+"You now see people saying there's a place of prayer and there is a place of knowledge.",
+
+"Show me all the prayer points recommended for us in the scripture if it is not about knowledge.",
+
+"This scripture say if anyone lack wisdom let him pray.",
+
+`James 1:5
+If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.`,
+
+"Another scripture said;",
+
+`Colossians 1:9
+For this cause we also, since the day we heard it, do not cease to pray for you, and to desire that ye might be filled with the knowledge of his will in all wisdom and spiritual understanding;`,
+
+"This scripture say my prayer for you is that you should be filled with the knowledge of God will in all wisdom and understanding.",
+
+"Look at another one again;",
+
+`Ephesians 1:17
+That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:`,
+
+"This scripture say I pray that God will grant you the Spirit of wisdom and Revelation.",
+
+"Here's another one;",
+
+`2 Peter 1:3
+According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue.`,
+
+"This scripture say all things pertaining to life and godliness as been given to you already but you see the manifestation of them through knowledge.",
+
+"Here's another one;",
+
+`2 Peter 1:2
+Grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord,`,
+
+"This scripture says Grace be multiplied to you through knowledge.",
+
+"Consider this scripture again;",
+
+`Jeremiah 33:3
+Call unto me, and I will answer thee, and shew thee great and mighty things, which thou knowest not.`,
+
+"This scripture say ask me in prayer and I will show you great and mighty things you didn't know.",
+
+"Here's what John said;",
+
+"John 8:32 And ye shall know the truth, and the truth shall make you free.",
+
+"This scripture say you shall know the truth and the knowledge of the truth have the power to set you free.",
+
+"Show me your prayer point, if it is not about knowledge, I can tell you that you are not praying at all, you are far from new testament prayer point,",
+
+"Because there is nothing you need that has not been given.",
+
+"Lack of revelational knowledge is what make you think there is place of knowledge, there's place of fasting and prayer.",
+
+"As long as new testament is concerned, if you are fasting and praying, you are fasting and praying for light, you are fasting and praying that the eyes of your understanding might be opened just like Daniel who go goes into fasting not for power  but to set his heart unto understanding",
+
+"Daniel 10:2 In those days I, Daniel, was mourning three full weeks",
+
+"Daniel 10:3 I ate no pleasant food, no meat or wine came into my mouth, nor did I anoint myself at all, till three whole weeks were fulfilled.",
+
+"Daniel 10:12 Then he said to me, “Do not fear, Daniel, for from the first day that you set your heart to understand, and to humble yourself before your God, your words were heard; and I have come because of your words.",
+
+"You can't be wiser than God that said with all thy getting get wisdom, and get understanding",
+
+"Because we are blind, but we didn't know, the god of this world is doing a serious business and the business is to blind us.",
+
+"And the instrument he is using for the blindness is not ignorance, but wrong knowledge, false knowledge that appears to be truth but lack power to set you free.",
+
+"So because what you know didn't solve any of your problems, you now felt there is more to knowledge, you now begin to think you must engage in much fasting for power.",
+
+"No sir, there is no more to knowledge, there is more in knowledge.",
+
+"Get this anywhere sacrifice is needed under the new covenant it mean knowledge is missing,",
+
+"What you know is not light that is why it is not setting you free.",
+
+"What you know is not the light of the Holy Ghost that is why you are frustrated with it.",
+
+"The new testament is a testament of light.",
+
+"Light is what bring every power in you into manifestation, we travel in the spirit realm on the wings of light.",
+
+"My advice for you is to seek for men called into the office of teacher they are the one that have the true knowledge for the mature , they are the one gifted with the light of the holy ghost",
+
+"The problem of many of us is that we are listening to those who teach because they know how to teach, rather than those who teach because they are called by God into teaching ministry.",
+
+"We don't do ministerial  in this kingdom because you know how to do it, you do it because you are called by God to do it", 
+
+"Once you know how to teach, you can be a teacher to baby Christians,  but once God called you into teaching ministry then your information become only for the mature",
+
+"That is why Paul said whenever we speak the hidden wisdom of God, we only speak it amongs the mature,",
+
+`1 Corinthians 2:6 Spiritual Wisdom
+However, we speak wisdom among those who are mature, yet not the wisdom of this age, nor of the rulers of this age, who are coming to nothing.`,
+
+"1 Corinthians 2:7 But we speak the wisdom of God in a mystery, the hidden wisdom which God ordained before the ages for our glory,",
+
+"Mystery is not for babies Christians, that is why this Banjo Ayeka's DIARY devotional is not for babies, it is a deep designed to called unto deep,",
+
+"That is why once you begin to climb the latter of spiritual maturity seek after those called into the office of a teacher, for that purpose they where raised by God.",
+
+"This is the difference between the office of a teacher and every other fivefold office, any office be it apostle, prophet, evangelist, pastor can teach, but not every office can teach the mature Christians",
+
+"Once you are called into the office of a teacher, your teaching are deep things of the kingdom that can only attract deep people,  it is a deep that only calleth unto deep, that is why the gift of the mystery of the kingdom are committed into the hand of those called into the office of a teacher.",
+
+"If you really want to feed on light seek after teachers , not those that can teach, but those called into the office of a teacher and anointed by God into such assignment",
+
+"Their messages is an iron that only designed to shappen others iron, it is for those that can crack strong bones",
+
+"You can't listen to people like Myles Munroe,  and claim everything is not knowledge, sit down with his teaching and see how your heart will be flooded with light.",
+
+"The problem of many of us is that we don't know who to listen to.",
+
+"It is not first about what you need to know, it is first about who you need to know, know your teachers, anyone called to teach is gifted with the light of the Holy Ghost, there are angels of light working with their calling.",
+
+"And let them begin to use light to open your understanding to what you have that you didn't know.",
+
+"Because everything you need has been given.",
+
+"Look at the scripture again;",
+
+`2 Peter 1:3
+According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue:",
+
+"He said the power of God has given us all things pertaining to your life and godliness and he said you receive them true knowledge.`,
+
+"And some who doesn't know what knowledge is all about is telling you knowledge alone is not what you need.",
+
+"Get this all you need is within you, and knowledge alone is the key to unlock all of them into manifestation.",
+
+"Show me what you need, and I will show you from the scripture that God has given them to you already ..... why are you not manifesting it? I will show you from scripture that all you need is light",
+
+"When your light come, everything with you begin to rise and shine",
+
+"For the babies, law come through knowledge to them, but for the mature light come through knowledge to them",
+
+"All I need is to spend few minutes to listen to the knowledge you are given, if law is coming out of the knowledge, I know you are not for me, but if light is coming from the knowledge opening the eyes of my understanding, I know you are for me, your deep is calling upon the deep in me,",
+
+"Many thought knowledge produce transformation why power produce manifestation, no sir , when light come through knowledge consistently into your life, the resultant effect is the manifestation of the power in you...",
+
+"With all thy getting get understanding....... your spiritual life depent on it",
+
+    ],
+  },
 ];
