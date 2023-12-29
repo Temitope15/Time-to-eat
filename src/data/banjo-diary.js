@@ -2309,91 +2309,91 @@ For ye know the grace of our Lord Jesus Christ, that, though He was rich, yet fo
     content: [
       "Romans 2.14-16, “For when Gentiles, who do not have the law, by nature do what the law requires, they are a law to themselves, even though they do not have the law.",
 
-"Get this whenever you want the inspiration of the Almighty to come, study Nature. why whenever you want the revelation of the Almighty to come study the scripture.",
+      "Get this whenever you want the inspiration of the Almighty to come, study Nature. why whenever you want the revelation of the Almighty to come study the scripture.",
 
-"That is why men who wrote the scripture are men who study nature.",
+      "That is why men who wrote the scripture are men who study nature.",
 
-"Because nature contains the truth about God more than scripture, that may the too hard for you to believe.",
+      "Because nature contains the truth about God more than scripture, that may the too hard for you to believe.",
 
-"That is why the scripture say.",
+      "That is why the scripture say.",
 
-`Romans 1:20
+      `Romans 1:20
 For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse:`,
 
-"Look at another scripture again",
+      "Look at another scripture again",
 
- ` Psalms 19:1 
+      ` Psalms 19:1 
 The heavens declare the glory of God; and the firmament sheweth his handywork.`,
 
-`Psalms 19:2
+      `Psalms 19:2
 Day unto day uttereth speech, and night unto night sheweth knowledge.`,
 
-"So it is not only in scripture that you see the hand work of God alone, when you study nature you see physically the hand work of God.",
+      "So it is not only in scripture that you see the hand work of God alone, when you study nature you see physically the hand work of God.",
 
-"That is you can study nature and know the eternal power of God, because the scripture say in that Roman's 1 vs 20 that even the eternal power of God can be understood by things that are made.",
+      "That is you can study nature and know the eternal power of God, because the scripture say in that Roman's 1 vs 20 that even the eternal power of God can be understood by things that are made.",
 
-"You felt until you study the book ot Act you can't see the move of the spirit, when you study the sky and seas you can also see the move of the spirit.",
+      "You felt until you study the book ot Act you can't see the move of the spirit, when you study the sky and seas you can also see the move of the spirit.",
 
-"Get this, you must be able to understand the difference between what God wrote by himself and what God use men to write.",
+      "Get this, you must be able to understand the difference between what God wrote by himself and what God use men to write.",
 
-"The holy book which is bible is a book that God use men to write and the scripture say all scripture is talking about Christ.", 
+      "The holy book which is bible is a book that God use men to write and the scripture say all scripture is talking about Christ.",
 
-"Why nature is the visible handwriting of God writen by God himself, everything God created is communicating  something about eternity, and you can study God through them.",
+      "Why nature is the visible handwriting of God writen by God himself, everything God created is communicating  something about eternity, and you can study God through them.",
 
-"Scripture is like when God use letter to communicate why nature is like when God use picture to communicate.",
+      "Scripture is like when God use letter to communicate why nature is like when God use picture to communicate.",
 
-"That is why when Jesus want to begin to reveal his true identity, he was referring us to nature, you see him saying I am the light of the world, meaning jesus is telling you to close your bible and begin to study light, just as he was using scripture to explain himself, he was also using nature to reveal himself.",
+      "That is why when Jesus want to begin to reveal his true identity, he was referring us to nature, you see him saying I am the light of the world, meaning jesus is telling you to close your bible and begin to study light, just as he was using scripture to explain himself, he was also using nature to reveal himself.",
 
-"Infact when Jesus want to give us the explanation of the nature of the kingdom of God, he could not see any scripture to explain his understanding, all he begin to do was to relate the kingdom with nature , and he said the kingdom of God is like..",
+      "Infact when Jesus want to give us the explanation of the nature of the kingdom of God, he could not see any scripture to explain his understanding, all he begin to do was to relate the kingdom with nature , and he said the kingdom of God is like..",
 
-`Luke 13:18.
+      `Luke 13:18.
 Then He said, “What is the kingdom of God like? And to what shall I compare it?`,
 
-"Luke 13:19 It is like a mustard seed, which a man took and put in his garden; and it grew and became a large tree, and the birds of the air nested in its branches.”",
+      "Luke 13:19 It is like a mustard seed, which a man took and put in his garden; and it grew and became a large tree, and the birds of the air nested in its branches.”",
 
-"When David begin to write that who is men that you are mindful of and the son of man that you visited.",
+      "When David begin to write that who is men that you are mindful of and the son of man that you visited.",
 
-`Psalms 8:4 What is man that You are mindful of him,
+      `Psalms 8:4 What is man that You are mindful of him,
 And the son of man that You visit him?`,
 
-"We never read from verse 2 to study what brought that inspiration,",
+      "We never read from verse 2 to study what brought that inspiration,",
 
-"The scripture say it was when he was studying stars and Heavens.",
+      "The scripture say it was when he was studying stars and Heavens.",
 
-`Psalms 8:3 When I consider Your heavens, the work of Your fingers,
+      `Psalms 8:3 When I consider Your heavens, the work of Your fingers,
 The moon and the stars, which You have ordained,`,
 
-"Psalms 8:4 What is man that You are mindful of him,And the son of man that You visit him?",
+      "Psalms 8:4 What is man that You are mindful of him,And the son of man that You visit him?",
 
-"That is when he begin to meditate on heaven suddenly the inspiration of the Almighty came and he begin to write, it was not scripture he was studying, he was studying nature to write scripture.",
+      "That is when he begin to meditate on heaven suddenly the inspiration of the Almighty came and he begin to write, it was not scripture he was studying, he was studying nature to write scripture.",
 
-"We studied scripture to write spiritual books, why they studied nature to write the scripture we are studying,",
+      "We studied scripture to write spiritual books, why they studied nature to write the scripture we are studying,",
 
-"If I begin to studying nature to write, quote nature to write, the religious nature in us  we say Banjo Ayeka's Diary is not spiritual, he never even quote scripture for once,",
+      "If I begin to studying nature to write, quote nature to write, the religious nature in us  we say Banjo Ayeka's Diary is not spiritual, he never even quote scripture for once,",
 
-"We study the scripture to write revelation, but men wrote scripture never wrote it by revelation, they wrote it by inspiration.",
+      "We study the scripture to write revelation, but men wrote scripture never wrote it by revelation, they wrote it by inspiration.",
 
-"That is why the scripture say all scripture was written by the inspiration of the Almighty, not writen by revelation,",
+      "That is why the scripture say all scripture was written by the inspiration of the Almighty, not writen by revelation,",
 
-"2 Timothy 3:16 All Scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness,",
+      "2 Timothy 3:16 All Scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness,",
 
-"because at the time they where written, the spirit of revelation was not yet in existence.",
+      "because at the time they where written, the spirit of revelation was not yet in existence.",
 
-"Because revelation came when you are trying to study God through the scripture or through spiritual material why inspiration come when you are trying to study nature, that is why the new testament was writing by revelation of the Almighty why the old testament was written by the inspiration of the Almighty.",
+      "Because revelation came when you are trying to study God through the scripture or through spiritual material why inspiration come when you are trying to study nature, that is why the new testament was writing by revelation of the Almighty why the old testament was written by the inspiration of the Almighty.",
 
-"So when Paul was saying all scripture was written by the inspiration of the Almighty, he wasn't talking about Mathew to Jude, he was referring to Genesis to Malachi, because at the time he was written 2nd Timothy there was no new testament writing.",
+      "So when Paul was saying all scripture was written by the inspiration of the Almighty, he wasn't talking about Mathew to Jude, he was referring to Genesis to Malachi, because at the time he was written 2nd Timothy there was no new testament writing.",
 
-"So if the scripture say all scripture was written by the inspiration of the Almighty, it mean scripture was written by men who study nature to know God.",
+      "So if the scripture say all scripture was written by the inspiration of the Almighty, it mean scripture was written by men who study nature to know God.",
 
-"I share this secret to you today, if you want to be a good writer, either songs writer, script writer or book writer just learn to gaze your mind on the reality of life , activities of life and nature under heaven , you will suddenly begin to see the inspiration of the Almighty given you understanding about life, nature, and activities under the heaven, this is the mystery behind the expression of wisdom of Solomon that he wrote as scripture which now become what we study as scripture and get revelation from it.",
+      "I share this secret to you today, if you want to be a good writer, either songs writer, script writer or book writer just learn to gaze your mind on the reality of life , activities of life and nature under heaven , you will suddenly begin to see the inspiration of the Almighty given you understanding about life, nature, and activities under the heaven, this is the mystery behind the expression of wisdom of Solomon that he wrote as scripture which now become what we study as scripture and get revelation from it.",
 
-"Ecclesiastes 1:13 And I set my heart to seek and search out by wisdom concerning all that is done under heaven; this burdensome task God has given to the sons of man, by which they may be exercised.",
+      "Ecclesiastes 1:13 And I set my heart to seek and search out by wisdom concerning all that is done under heaven; this burdensome task God has given to the sons of man, by which they may be exercised.",
 
-"You can kindly see what Solomon said he was studying, he set his heart to seek and search not scripture but activities done under the heaven.",
+      "You can kindly see what Solomon said he was studying, he set his heart to seek and search not scripture but activities done under the heaven.",
 
-"Kindly look at another scripture again.",
+      "Kindly look at another scripture again.",
 
-`Ecclesiastes 9:11 I returned and saw under the sun that—
+      `Ecclesiastes 9:11 I returned and saw under the sun that—
 The race is not to the swift,
 Nor the battle to the strong,
 Nor bread to the wise,
@@ -2401,163 +2401,162 @@ Nor riches to men of understanding,
 Nor favor to men of skill;
 But time and chance happen to them all.`,
 
-"He said he returns and saw under the sun, and he begin to write what he saw under the heaven by inspiration and what he wrote become scripture for us.",
+      "He said he returns and saw under the sun, and he begin to write what he saw under the heaven by inspiration and what he wrote become scripture for us.",
 
-"There is one thing to study nature to know nature and there is another thing to study nature to know God.",
+      "There is one thing to study nature to know nature and there is another thing to study nature to know God.",
 
-"Those that study nature to know nature are the one that wrote Geography and Biology by the inspiration of the Almighty.",
+      "Those that study nature to know nature are the one that wrote Geography and Biology by the inspiration of the Almighty.",
 
-"Those that study nature to know life are the ones that become philosophers and they write many books and have many wise sayings that contain wisdom for life and this is the origin of many of our Africa's proverbs.", 
+      "Those that study nature to know life are the ones that become philosophers and they write many books and have many wise sayings that contain wisdom for life and this is the origin of many of our Africa's proverbs.",
 
-"Why those that study nature to know God are the one that write scripture by the inspiration of the Almighty.",
+      "Why those that study nature to know God are the one that write scripture by the inspiration of the Almighty.",
 
-"So you can study nature to know nature and bring out the benefits of nature to man.",
+      "So you can study nature to know nature and bring out the benefits of nature to man.",
 
-"You can study nature to know life also and bring out wise Proverbs by them.",
+      "You can study nature to know life also and bring out wise Proverbs by them.",
 
-"Why you can also study nature to know God and know the will of God for man.",
+      "Why you can also study nature to know God and know the will of God for man.",
 
-"I don't know how to say it but the fact is that if you want to know God the Father, scripture is your greatnest disadvantage why nature is a your greatest advantage.",
+      "I don't know how to say it but the fact is that if you want to know God the Father, scripture is your greatnest disadvantage why nature is a your greatest advantage.",
 
-"Because scripture didn't contain much about the revelation of God the Father, the scripture contain much about the revelation of God the judge and God the master, that is why he Give law to them as Judge and give commandments to them as Master , but he never give Grace to them as father, so old testament never reveal God the father know as the God of all Grace.",
+      "Because scripture didn't contain much about the revelation of God the Father, the scripture contain much about the revelation of God the judge and God the master, that is why he Give law to them as Judge and give commandments to them as Master , but he never give Grace to them as father, so old testament never reveal God the father know as the God of all Grace.",
 
-"That is why you discover that whenever Jesus want to reveal the nature of God the Father to his disciples you see him pointing them to the earthly Father and learn from it, you see him pointing them to birds to learn from it.",
+      "That is why you discover that whenever Jesus want to reveal the nature of God the Father to his disciples you see him pointing them to the earthly Father and learn from it, you see him pointing them to birds to learn from it.",
 
-"You see him saying if your earthly Father can do this, how much more your heavenly Father.",
+      "You see him saying if your earthly Father can do this, how much more your heavenly Father.",
 
-`Matthew 7:11  (NLT)
+      `Matthew 7:11  (NLT)
 So if you sinful people know how to give good gifts to your children, how much more will your heavenly Father give good gifts to those who ask him.`,
 
-"Many in the church struggle to understand God the Father and relate with him as son to Father because they don't have much reference from the scripture that capture that reality.",
+      "Many in the church struggle to understand God the Father and relate with him as son to Father because they don't have much reference from the scripture that capture that reality.",
 
-"They still carry the mentality of the fearful consuming fire who can kill them for doing wrong, the image of God they have in their mind is the one they see in the picture of the scripture.",
+      "They still carry the mentality of the fearful consuming fire who can kill them for doing wrong, the image of God they have in their mind is the one they see in the picture of the scripture.",
 
-"I don't know if you are fortunate to have a lovely parent from your childhood till you grow up now, how did they treat you? Even as you grow up? If you can study that, it is enough revelation to capture the nature of God the Father.",
+      "I don't know if you are fortunate to have a lovely parent from your childhood till you grow up now, how did they treat you? Even as you grow up? If you can study that, it is enough revelation to capture the nature of God the Father.",
 
-"Because Jesus keep on saying if your earthly Father who is evil can know how to love you this way, how much more your heavenly Father.",
+      "Because Jesus keep on saying if your earthly Father who is evil can know how to love you this way, how much more your heavenly Father.",
 
-"I find it easy to relate with God as my Father because I was fortunate to have a lovely Father when he was alive.",
+      "I find it easy to relate with God as my Father because I was fortunate to have a lovely Father when he was alive.",
 
-"My parent trust God for years for the fruit of the womb before given birth to us, so when God answered their prayers, and they begin to have us, we so much enjoy their love and care.",
+      "My parent trust God for years for the fruit of the womb before given birth to us, so when God answered their prayers, and they begin to have us, we so much enjoy their love and care.",
 
-"My Daddy has bought my school bag when my mother was still having me in her belly, my parent put us to the best private school in the environment in the early 90's, we grow up to enjoy the good things of life until he died and we entered into suffering.", 
+      "My Daddy has bought my school bag when my mother was still having me in her belly, my parent put us to the best private school in the environment in the early 90's, we grow up to enjoy the good things of life until he died and we entered into suffering.",
 
-"Having tasted the two side, having a Father and been without Father then I understand people who live under the old testament without having God as Father and we under the new covenant who have God as Father.",
+      "Having tasted the two side, having a Father and been without Father then I understand people who live under the old testament without having God as Father and we under the new covenant who have God as Father.",
 
-"It is ignorance of the highest order to begin to study how God relate with the people of the old testament and think that is how God will relate with you, God relate with them as a Boss relate with his Staff in the place of work , why God relate with you as a father to his children at home.",
+      "It is ignorance of the highest order to begin to study how God relate with the people of the old testament and think that is how God will relate with you, God relate with them as a Boss relate with his Staff in the place of work , why God relate with you as a father to his children at home.",
 
-"Truly the man is a boss and also a father, but he is a boss not to you but to his servant at work, why he is a father to you.",
+      "Truly the man is a boss and also a father, but he is a boss not to you but to his servant at work, why he is a father to you.",
 
-"Truly God can be many things, he can be Master and Judge, but He is not my master and He is not my judge, He is my Father.",
+      "Truly God can be many things, he can be Master and Judge, but He is not my master and He is not my judge, He is my Father.",
 
-"I repeat again that God is not my judge, Jesus already said that.",
+      "I repeat again that God is not my judge, Jesus already said that.",
 
-"John 5:22 For the Father judges no one, but has committed all judgment to the Son,",
+      "John 5:22 For the Father judges no one, but has committed all judgment to the Son,",
 
-"So I don't approach My Heavenly father with fear, because I know he can never and will never judge me for doing wrong, he may chastise me with his word but not judge me, that is why I come to his throne with boldness because I know mercy Is sure for men and grace is also sure banker.",
+      "So I don't approach My Heavenly father with fear, because I know he can never and will never judge me for doing wrong, he may chastise me with his word but not judge me, that is why I come to his throne with boldness because I know mercy Is sure for men and grace is also sure banker.",
 
-"They are servant and God is a Master to them, why you are son and God is Father to you, they are two different Things.", 
+      "They are servant and God is a Master to them, why you are son and God is Father to you, they are two different Things.",
 
-"What God have in store for them was reward based on their service and obedience to God their Master.",
+      "What God have in store for them was reward based on their service and obedience to God their Master.",
 
-"Why what God have in store for you is inheritance based on your growth.",
+      "Why what God have in store for you is inheritance based on your growth.",
 
-"Just as my earthly Father trust  God for children for years before they give birth to us and that lead them to take care of us with much love so also Your heavenly father's was barren for 4000 years before he begin to us as children.",
+      "Just as my earthly Father trust  God for children for years before they give birth to us and that lead them to take care of us with much love so also Your heavenly father's was barren for 4000 years before he begin to us as children.",
 
-"Since Adam to John the Baptist, God have servants, slaves, both in Heaven and Earth, but God never have son but suddenly Jesus become the first begotten son and open the womb of the Spirit for us and God begin to have us as children.",
+      "Since Adam to John the Baptist, God have servants, slaves, both in Heaven and Earth, but God never have son but suddenly Jesus become the first begotten son and open the womb of the Spirit for us and God begin to have us as children.",
 
-"So the way God will relate with you will be different, no scripture captures the dimension of God's love for us.",
+      "So the way God will relate with you will be different, no scripture captures the dimension of God's love for us.",
 
-"The scripture say how deep and wide the love of God is for us.",
+      "The scripture say how deep and wide the love of God is for us.",
 
-`Ephesians 3:18 may be able to comprehend with all the saints what is the width and length and depth and height
+      `Ephesians 3:18 may be able to comprehend with all the saints what is the width and length and depth and height
 Ephesians 3:19 to know the love of Christ which passes knowledge; that you may be filled with all the fullness of God.`,
 
-"What is the point, if you really want to know God study nature also, not only scripture but nature and not only nature but scripture also.",
+      "What is the point, if you really want to know God study nature also, not only scripture but nature and not only nature but scripture also.",
 
-"Have you observed that how do men who didn't have scripture in the old testament know God.",
+      "Have you observed that how do men who didn't have scripture in the old testament know God.",
 
-"That scripture in your hand was written by men who doesn't study scripture, they didn't study scripture and yet they know God, all they do was to study nature and by it they begin to encounter different dimensions of supernatural and angelic visitations.",
+      "That scripture in your hand was written by men who doesn't study scripture, they didn't study scripture and yet they know God, all they do was to study nature and by it they begin to encounter different dimensions of supernatural and angelic visitations.",
 
-"Infact they know God more than us.",
+      "Infact they know God more than us.",
 
-"How do I know? Because they did exploits more than us.",
+      "How do I know? Because they did exploits more than us.",
 
-"Because the scripture say those who know their God shall be strong and do exploit.",
+      "Because the scripture say those who know their God shall be strong and do exploit.",
 
-"If you claim you know God show me the exploits.",
+      "If you claim you know God show me the exploits.",
 
-"You may know scripture and not know God and you may not know scripture and know God.",
+      "You may know scripture and not know God and you may not know scripture and know God.",
 
-"Nature is loud about the voice of eternity more than scripture.", 
+      "Nature is loud about the voice of eternity more than scripture.",
 
-"Devil can use scripture to deceive, he can quote it wrongly to deceive you and put you in bondage but devil can't use nature to deceive, nature is like a voice so audible to the deaf and visible to the blind, you may quote scripture out of context and lead to arguments but you cannot quote nature out of context, instantly it will reveal your level of ignorance and foolishness.",
+      "Devil can use scripture to deceive, he can quote it wrongly to deceive you and put you in bondage but devil can't use nature to deceive, nature is like a voice so audible to the deaf and visible to the blind, you may quote scripture out of context and lead to arguments but you cannot quote nature out of context, instantly it will reveal your level of ignorance and foolishness.",
 
-"How do men fall victim of the scripture that told them that if they don't pay tithe God will curse them and close the window of heaven on them.",
+      "How do men fall victim of the scripture that told them that if they don't pay tithe God will curse them and close the window of heaven on them.",
 
-"You believe such wrong interpretation because you don't study nature.",
+      "You believe such wrong interpretation because you don't study nature.",
 
-"Because if you and me know how to study nature to know God, we'll know the truth.",
+      "Because if you and me know how to study nature to know God, we'll know the truth.",
 
-"I will advise you to ask that your pastor that can he do that to his son?",
+      "I will advise you to ask that your pastor that can he do that to his son?",
 
-"If he has the key of Heaven at hand can he close it on his own son because he refuse to pay tithe?",
+      "If he has the key of Heaven at hand can he close it on his own son because he refuse to pay tithe?",
 
-"Can you lay a curse on your son by yourself if he refuse to pay tithe?",
+      "Can you lay a curse on your son by yourself if he refuse to pay tithe?",
 
-"If you can't do that base on your love for him, how can you now foolishly think that God will lay curse on his children and close heaven on them because they didn't pay tithe.",
+      "If you can't do that base on your love for him, how can you now foolishly think that God will lay curse on his children and close heaven on them because they didn't pay tithe.",
 
-"But this is the scripture that has been in church doctrine for years.",
+      "But this is the scripture that has been in church doctrine for years.",
 
-"It is because we study scripture and we don't study nature.",
+      "It is because we study scripture and we don't study nature.",
 
-"I say this to you clearly that if all we have to study to know God is nature, the church could have been more United that studying scripture alone to know God.",
+      "I say this to you clearly that if all we have to study to know God is nature, the church could have been more United that studying scripture alone to know God.",
 
-"We don't need scripture to tell you don't marry two wives, nature is enough, no one came out from polygamy that will advice his enemy to marry two wives.",
+      "We don't need scripture to tell you don't marry two wives, nature is enough, no one came out from polygamy that will advice his enemy to marry two wives.",
 
-"You don't need scripture to teach you don't fornicate, before christianity came to Nigeria nature through culture has been teaching that already.", 
+      "You don't need scripture to teach you don't fornicate, before christianity came to Nigeria nature through culture has been teaching that already.",
 
-"It was a shameful thing in the ancient day to marry and you are not a virgin, yet they know it to be wrong without scripture.", 
+      "It was a shameful thing in the ancient day to marry and you are not a virgin, yet they know it to be wrong without scripture.",
 
-"Mind you, they don't have scripture teaching them, but they have nature teaching them.",
+      "Mind you, they don't have scripture teaching them, but they have nature teaching them.",
 
-"Kindly look are what paul says",
+      "Kindly look are what paul says",
 
-"Romans 2.14-16, “For when Gentiles, who do not have the law, by nature do what the law requires, they are a law to themselves, even though they do not have the law.",
+      "Romans 2.14-16, “For when Gentiles, who do not have the law, by nature do what the law requires, they are a law to themselves, even though they do not have the law.",
 
-"So don't think if we don't have scripture how can we live holy, sir we will even be more holier because men without law can by nature do what the law says without having the book of the law.",
+      "So don't think if we don't have scripture how can we live holy, sir we will even be more holier because men without law can by nature do what the law says without having the book of the law.",
 
-"Because they know that nature can teach and they have master how to listen to the voice of God through nature, personally my life begin to have direction in life when I master how to hear the voice of nature.",
+      "Because they know that nature can teach and they have master how to listen to the voice of God through nature, personally my life begin to have direction in life when I master how to hear the voice of nature.",
 
-"I suffer direction for long because I don't know where God want me to be, how will I know if God want me to be in Lagos or Abuja, been a teacher that scripture is much primarily way of direction, scripture which is my strength can't help me, because there is no Lagos and Abuja in scripture and I dont trust the thought of my heart because I know that is the strength of religious spirit who usually pretends as Holy Spirit and lead man into fustraction all in the name of Holy Spirit speak to me.",
+      "I suffer direction for long because I don't know where God want me to be, how will I know if God want me to be in Lagos or Abuja, been a teacher that scripture is much primarily way of direction, scripture which is my strength can't help me, because there is no Lagos and Abuja in scripture and I dont trust the thought of my heart because I know that is the strength of religious spirit who usually pretends as Holy Spirit and lead man into fustraction all in the name of Holy Spirit speak to me.",
 
-"And since dream is not also my strength I could not take advantage of it to know where God want me to be, but when I master how to hear the voice of nature I begin to have direction in life.",
+      "And since dream is not also my strength I could not take advantage of it to know where God want me to be, but when I master how to hear the voice of nature I begin to have direction in life.",
 
-"Look at what Paul said again.",
+      "Look at what Paul said again.",
 
-"1 Corinthians 11:14 Does not even nature itself teach you that if a man has long hair, it is a dishonor to him?",
+      "1 Corinthians 11:14 Does not even nature itself teach you that if a man has long hair, it is a dishonor to him?",
 
-"Meaning it is not only scripture that teach, nature also teach, get this everything nature is saying is what men wrote down in scripture by the inspiration of the Almighty.",
+      "Meaning it is not only scripture that teach, nature also teach, get this everything nature is saying is what men wrote down in scripture by the inspiration of the Almighty.",
 
-"I say this to you clearly that nature is loaded more than scripture, nature is more spiritual than scripture.",
+      "I say this to you clearly that nature is loaded more than scripture, nature is more spiritual than scripture.",
 
-"Nature contain the knowledge about God more than Scripture.", 
+      "Nature contain the knowledge about God more than Scripture.",
 
-"And you get inspiration through nature more than scripture, you only get revelation from scripture to know and understand what men who by inspiration write in the scripture.",
+      "And you get inspiration through nature more than scripture, you only get revelation from scripture to know and understand what men who by inspiration write in the scripture.",
 
-"You can see that inspiration is higher than revelation.",
+      "You can see that inspiration is higher than revelation.",
 
-"Inspiration of the Almighty is a breathe, it is life.",
+      "Inspiration of the Almighty is a breathe, it is life.",
 
-"Revelation of the Almighty is light.",
+      "Revelation of the Almighty is light.",
 
-"And you get light from life.",
+      "And you get light from life.",
 
-`John 1:4
+      `John 1:4
 In him was life; and the life was the light of men.",
 
 "And you get life from Spirit, it is the Spirit that give life.`,
-
     ],
   },
   {
@@ -2568,197 +2567,196 @@ In him was life; and the life was the light of men.",
     content: [
       "Luke 16:25 But Abraham said, ‘Son, remember that in your lifetime you received your good things, and likewise Lazarus evil things; but now he is comforted and you are tormented.",
 
-"We all know the story of the rich man and Lazarus, a story between the man who experienced one of the highest level of prosperity and the one that experienced the highest level of poverty.",
+      "We all know the story of the rich man and Lazarus, a story between the man who experienced one of the highest level of prosperity and the one that experienced the highest level of poverty.",
 
-"When both of them died and got to the main reality of life which is the life after death, the rich man found himself in hell and the poor man found himself in Heaven, then the rich man began to beg father Abraham to send Lazarus to him with a drop of water, but the response of Father Abraham to him requires serious attention.",
+      "When both of them died and got to the main reality of life which is the life after death, the rich man found himself in hell and the poor man found himself in Heaven, then the rich man began to beg father Abraham to send Lazarus to him with a drop of water, but the response of Father Abraham to him requires serious attention.",
 
-"Abraham said to the rich man that in your life time you have received the good things of life while Lazarus receive evil things.",
+      "Abraham said to the rich man that in your life time you have received the good things of life while Lazarus receive evil things.",
 
-"Luke 16:25 But Abraham said, ‘Son, remember that in your lifetime you RECEIVED YOUR GOOD THINGS, and likewise LAZARUS EVIL THINGS; but now he is comforted and you are tormented.",
+      "Luke 16:25 But Abraham said, ‘Son, remember that in your lifetime you RECEIVED YOUR GOOD THINGS, and likewise LAZARUS EVIL THINGS; but now he is comforted and you are tormented.",
 
-"The good things the rich man received is not my issue, but the scripture says Larazus received evil things. Then, I begin to ask who gave him evil things. Secondly, if evil things was given to him why did he receive it?",
+      "The good things the rich man received is not my issue, but the scripture says Larazus received evil things. Then, I begin to ask who gave him evil things. Secondly, if evil things was given to him why did he receive it?",
 
-"Because the law of the spirit is that anything released into our life can either be accepted or rejected, spiritual realm is a realm that extremely respects the choice of man.",
+      "Because the law of the spirit is that anything released into our life can either be accepted or rejected, spiritual realm is a realm that extremely respects the choice of man.",
 
-"The problem many have in life is just the problem of receiving. They don't know how to receive and reject, they have the nature that rejects good things of life and receive evil things of life and this is also the nature of Lazarus.",
+      "The problem many have in life is just the problem of receiving. They don't know how to receive and reject, they have the nature that rejects good things of life and receive evil things of life and this is also the nature of Lazarus.",
 
-"Kindly look at the scripture very well.",
+      "Kindly look at the scripture very well.",
 
-"Father Abraham said to the rich man that you have received your good things of life in time while Larazus received evil things.",
+      "Father Abraham said to the rich man that you have received your good things of life in time while Larazus received evil things.",
 
-"Then I said to myself, it means there is nothing you have in life that is not a product of what you receive from the spirit, the scripture says no man can receive anything except it is given from the Heaven.",
+      "Then I said to myself, it means there is nothing you have in life that is not a product of what you receive from the spirit, the scripture says no man can receive anything except it is given from the Heaven.",
 
-`John 3:27
+      `John 3:27
 John answered and said, A man can receive nothing, except it be given him from heaven.`,
 
-"Get this and get this mystery today, it is not the devil that gives evil, no man can receive either evil or good in life except it is given by God, if God has not first cursed you, no one can do, you can't curse whom God has not cursed.",
+      "Get this and get this mystery today, it is not the devil that gives evil, no man can receive either evil or good in life except it is given by God, if God has not first cursed you, no one can do, you can't curse whom God has not cursed.",
 
-`Numbers 23:8
+      `Numbers 23:8
 How shall I curse, whom God hath not cursed? or how shall I defy, whom the LORD hath not defied?`,
 
-"If you curse me and it comes to pass, that is a true report card that I am under the curse of God, because the scripture says no one can curse whom God has not cursed. If God has blessed someone and you curse him, you have just cursed yourself, because whosoever shall curse them shall be cursed and whosoever shall bless them shall be blessed.",
+      "If you curse me and it comes to pass, that is a true report card that I am under the curse of God, because the scripture says no one can curse whom God has not cursed. If God has blessed someone and you curse him, you have just cursed yourself, because whosoever shall curse them shall be cursed and whosoever shall bless them shall be blessed.",
 
-`Genesis 12:3
+      `Genesis 12:3
 And I will bless them that bless thee, and curse him that curseth thee........`,
 
-"Whenever devil wants to curse you all he does is to make you to be under the curse of God first, and if he wants to make you to be under the curse of God he puts you under the law, because curse is everyone that is under the curse of the law.",
+      "Whenever devil wants to curse you all he does is to make you to be under the curse of God first, and if he wants to make you to be under the curse of God he puts you under the law, because curse is everyone that is under the curse of the law.",
 
-`Galatians 3:10
+      `Galatians 3:10
 For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continueth not in all things which are written in the book of the law to do them.`,
 
-"The legal ground of the devil is the word of God upon your life, his strength is the negative word of God upon your life?",
+      "The legal ground of the devil is the word of God upon your life, his strength is the negative word of God upon your life?",
 
-"How did Christ spoil principalities and render them powerless? By fighting them? CAPITAL NO!!!",
+      "How did Christ spoil principalities and render them powerless? By fighting them? CAPITAL NO!!!",
 
-"All that Christ did was to remove all the handwriting of ordinance in scripture written against us, that is Jesus counselled all the curse of the law upon us.",
+      "All that Christ did was to remove all the handwriting of ordinance in scripture written against us, that is Jesus counselled all the curse of the law upon us.",
 
-"Colossians 2:14 having wiped out the handwriting of requirements that was against us, which was contrary to us. And He has taken it out of the way, having nailed it to the cross.",
+      "Colossians 2:14 having wiped out the handwriting of requirements that was against us, which was contrary to us. And He has taken it out of the way, having nailed it to the cross.",
 
-"Colossians 2:15 Having disarmed principalities and powers, He made a public spectacle of them, triumphing over them in it.",
+      "Colossians 2:15 Having disarmed principalities and powers, He made a public spectacle of them, triumphing over them in it.",
 
-"Because the attacking power of the devil is the written word of God spoken against us by God, because evil was created when God released negative words upon the life of man.",
+      "Because the attacking power of the devil is the written word of God spoken against us by God, because evil was created when God released negative words upon the life of man.",
 
-"Can you now understand when God said I created evil not the devil?",
+      "Can you now understand when God said I created evil not the devil?",
 
-`Isaiah 45:7 I form the light and create darkness,
+      `Isaiah 45:7 I form the light and create darkness,
 I make peace and create calamity;
 I, the Lord, do all these things.’`,
 
-"Saying devil is the one that created evil is giving him the glory and power he doesn't have. Devil can not create anything both good and evil. The assignment of the devil is to lead you to choose evil that God has created, and this is how Lazarus received his evil.",
+      "Saying devil is the one that created evil is giving him the glory and power he doesn't have. Devil can not create anything both good and evil. The assignment of the devil is to lead you to choose evil that God has created, and this is how Lazarus received his evil.",
 
-"And how does devil do this? He makes you to be under the law rather than under faith and grace. He makes you to think you can use your righteousness to earn God's blessing. Nothing puts a man under the curse of God under new covenant than this.",
+      "And how does devil do this? He makes you to be under the law rather than under faith and grace. He makes you to think you can use your righteousness to earn God's blessing. Nothing puts a man under the curse of God under new covenant than this.",
 
-"The scripture says curse is everyone under the law. (Galatians 3:10)",
+      "The scripture says curse is everyone under the law. (Galatians 3:10)",
 
-"Because the law attracts the wrath of God, if you want to attract the wrath of God upon your life and receive evil into your life without doing anything wrong just be under the law.",
+      "Because the law attracts the wrath of God, if you want to attract the wrath of God upon your life and receive evil into your life without doing anything wrong just be under the law.",
 
-`NKJV, Romans 4:15
+      `NKJV, Romans 4:15
 because the law brings about wrath;`,
 
-`Romans 4:15( NLT)
+      `Romans 4:15( NLT)
 [15]For the law always brings punishment on those who try to obey it.`,
 
-"Show me a man who will receive evil with his life even though he is praying against evil with his mouth, then I will show you a man under the law.",
+      "Show me a man who will receive evil with his life even though he is praying against evil with his mouth, then I will show you a man under the law.",
 
-"Just be following, I want to show you the mystery behind the poverty of Lazarus.",
+      "Just be following, I want to show you the mystery behind the poverty of Lazarus.",
 
-"The scripture says Lazarus received evil, then I begin to ask myself who gave him evil, and the scripture says the rich man received the good things of life, them I said to myself who gave the rich man good things?",
+      "The scripture says Lazarus received evil, then I begin to ask myself who gave him evil, and the scripture says the rich man received the good things of life, them I said to myself who gave the rich man good things?",
 
-"Get this clearly, no man can receives anything either good or evil except it is first given by the Lord, the scripture says the same God that makes evil also makes good and he sets before us good and evil, and under the old covenant you choose by works while under the new covenant you choose by faith.",
+      "Get this clearly, no man can receives anything either good or evil except it is first given by the Lord, the scripture says the same God that makes evil also makes good and he sets before us good and evil, and under the old covenant you choose by works while under the new covenant you choose by faith.",
 
-"Meaning, devil is not the one that makes evil, devil only make evil to manifest in your life, he is not the one that puts evil in your life, the curse of God is what puts evil in the life of any Man, while the curse of evil man is what makes evil to manifest in the life or any man. The blessing of the Lord is what makes good to come into the life of any man while the blessing of holy Men (priest) is what makes the blessing of the Lord to manifest in the life of any man. (we'll talk more on this in tomorrow devotional)",
+      "Meaning, devil is not the one that makes evil, devil only make evil to manifest in your life, he is not the one that puts evil in your life, the curse of God is what puts evil in the life of any Man, while the curse of evil man is what makes evil to manifest in the life or any man. The blessing of the Lord is what makes good to come into the life of any man while the blessing of holy Men (priest) is what makes the blessing of the Lord to manifest in the life of any man. (we'll talk more on this in tomorrow devotional)",
 
-"And the scripture now says and Lazarus received evil.",
+      "And the scripture now says and Lazarus received evil.",
 
-"That it is given is not the issue, that it is received is the issue here.",
+      "That it is given is not the issue, that it is received is the issue here.",
 
-"Something can be given to you and you reject it. If good things can be rejected when it is given so also evil things can be rejected when it is given.",
+      "Something can be given to you and you reject it. If good things can be rejected when it is given so also evil things can be rejected when it is given.",
 
-"The scripture didn't say and Lazarus did anything wrong to receive the evil things, the only issue he has is that he doesn't know how to reject evil and receive good but he is very good in receiving evil and rejecting good.",
+      "The scripture didn't say and Lazarus did anything wrong to receive the evil things, the only issue he has is that he doesn't know how to reject evil and receive good but he is very good in receiving evil and rejecting good.",
 
-`That a sickness was given to you is not the issue, it was given to everyone of us.
+      `That a sickness was given to you is not the issue, it was given to everyone of us.
 That a poverty was given to you is not the issue, it was given to everyone of us, the issue is that you received it.`,
 
-"To everything that manifest in your life either good or evil, you must be humble enough to accept that it is because you received it.",
+      "To everything that manifest in your life either good or evil, you must be humble enough to accept that it is because you received it.",
 
-"There is an aspect of you responsible for receiving in the realm of the Spirit. If you don't train that aspect to receive, God can give you your blessing for years and yet you will not know how to receive it, you will keep on thinking God has not blessed you. You didn't know that you are the one that didn't know how to receive the blessing that has been freely given to you since 2000 years ago.",
+      "There is an aspect of you responsible for receiving in the realm of the Spirit. If you don't train that aspect to receive, God can give you your blessing for years and yet you will not know how to receive it, you will keep on thinking God has not blessed you. You didn't know that you are the one that didn't know how to receive the blessing that has been freely given to you since 2000 years ago.",
 
-"When God wants to bless us with all spiritual blessinf, he didn't give it directly to us, he gave it directly to Christ so that we can get it through Christ.",
+      "When God wants to bless us with all spiritual blessinf, he didn't give it directly to us, he gave it directly to Christ so that we can get it through Christ.",
 
-"Meaning, God has given us all the spiritual blessings since 2000 years ago. Your life only remains the same if you don't know how to receive what has been freely given.",
+      "Meaning, God has given us all the spiritual blessings since 2000 years ago. Your life only remains the same if you don't know how to receive what has been freely given.",
 
-"Just be following, I am just showing you the mystery behind the poverty of Lazarus.",
+      "Just be following, I am just showing you the mystery behind the poverty of Lazarus.",
 
-"Look at the scripture very well.",
+      "Look at the scripture very well.",
 
-"The bible says when the rich man died he was buried but when Lazarus died he was taken to Heaven by angels.",
+      "The bible says when the rich man died he was buried but when Lazarus died he was taken to Heaven by angels.",
 
-"Luke 16:20 But there was a certain beggar named Lazarus, full of sores, who was laid at his gate,",
+      "Luke 16:20 But there was a certain beggar named Lazarus, full of sores, who was laid at his gate,",
 
-"Luke 16:21 desiring to be fed with the crumbs which fell from the rich man’s table. Moreover the dogs came and licked his sores.",
+      "Luke 16:21 desiring to be fed with the crumbs which fell from the rich man’s table. Moreover the dogs came and licked his sores.",
 
-"Luke 16:22 So it was that the beggar died, and was carried by the angels to Abraham’s bosom. The rich man also died and was buried.",
+      "Luke 16:22 So it was that the beggar died, and was carried by the angels to Abraham’s bosom. The rich man also died and was buried.",
 
-"Verse 20 and 21 capture the life experience while verse 22 captures what happened to them immediately after they died, and the scripture says when the rich man died he was buried, he doesn't have any angel to carry him, but when Lazarus died an angel carried him to Heaven.",
+      "Verse 20 and 21 capture the life experience while verse 22 captures what happened to them immediately after they died, and the scripture says when the rich man died he was buried, he doesn't have any angel to carry him, but when Lazarus died an angel carried him to Heaven.",
 
-"Meaning that an angel have been with him all through when he was alive, that is his angels for God's sake!",
+      "Meaning that an angel have been with him all through when he was alive, that is his angels for God's sake!",
 
-"Meaning, the angels were watching him all through his suffering, and he could not do anything. What is that thing that will make your angels to fold his arms with your blessing and yet stay with you and not bless you with it, just to be waiting for you to die and he takes you to heaven, just to be comforted there , not to be crowned in heaven, but to be comforted?",
+      "Meaning, the angels were watching him all through his suffering, and he could not do anything. What is that thing that will make your angels to fold his arms with your blessing and yet stay with you and not bless you with it, just to be waiting for you to die and he takes you to heaven, just to be comforted there , not to be crowned in heaven, but to be comforted?",
 
-"Luke 16:25 But Abraham said, ‘Son, remember that in your lifetime you received your good things, and likewise Lazarus evil things; but now he is COMFORTED and you are tormented.",
+      "Luke 16:25 But Abraham said, ‘Son, remember that in your lifetime you received your good things, and likewise Lazarus evil things; but now he is COMFORTED and you are tormented.",
 
-"All the riches that Lazarus needed to live a good life was with the angels, but he was poor because he doesn't know how to receive good things.",
+      "All the riches that Lazarus needed to live a good life was with the angels, but he was poor because he doesn't know how to receive good things.",
 
-"Could it be that the riches that belong to him was what the rich man was spending? Because the rich man doesn't have any angel, he doesn't have spiritual backing, and has no riches of life that is not sponsored by Spirit. Then, how did the rich man become rich without angels and how did Lazarus become poor even with the gift of angels.",
+      "Could it be that the riches that belong to him was what the rich man was spending? Because the rich man doesn't have any angel, he doesn't have spiritual backing, and has no riches of life that is not sponsored by Spirit. Then, how did the rich man become rich without angels and how did Lazarus become poor even with the gift of angels.",
 
-"How could a man die in poverty and angels took him to Heaven and the rich man died in riches and went to hell?",
+      "How could a man die in poverty and angels took him to Heaven and the rich man died in riches and went to hell?",
 
-"Can I shock you? There is nothing you are asking God for that has not been given to you even before you ask.",
+      "Can I shock you? There is nothing you are asking God for that has not been given to you even before you ask.",
 
-"But you lack the wisdom of how to receive good things available for you and reject evil things available for you.",
+      "But you lack the wisdom of how to receive good things available for you and reject evil things available for you.",
 
-"Because just as good things are free because Christ has paid the price so also evil things are free because Adam paid the price. Evil is free based on one man's disobedience and blessing is free based on one man's obedience.",
+      "Because just as good things are free because Christ has paid the price so also evil things are free because Adam paid the price. Evil is free based on one man's disobedience and blessing is free based on one man's obedience.",
 
-`Romans 5:17-18
+      `Romans 5:17-18
 [17]For the sin of this one man, Adam, caused death to rule over many. But even greater is God’s wonderful grace and his gift of righteousness, for all who receive it will live in triumph over sin and death through this one man, Jesus Christ.`,
 
-"[18]Yes, Adam’s one sin brings condemnation for everyone, but Christ’s one act of righteousness brings a right relationship with God and new life for everyone.",
+      "[18]Yes, Adam’s one sin brings condemnation for everyone, but Christ’s one act of righteousness brings a right relationship with God and new life for everyone.",
 
-"So all you need is to learn how to receive good things of life that comes through Christ and reject evil things of life that comes through Adam.",
+      "So all you need is to learn how to receive good things of life that comes through Christ and reject evil things of life that comes through Adam.",
 
-"You can't tell me that the problem of Lazarus is disobedience, because if it is disobedience he can't make it to Heaven.",
+      "You can't tell me that the problem of Lazarus is disobedience, because if it is disobedience he can't make it to Heaven.",
 
-"But the only problem he has is that he doesn't know how to reject evil when it was given to him and he doesn't know how to receive good that was given to him.",
+      "But the only problem he has is that he doesn't know how to reject evil when it was given to him and he doesn't know how to receive good that was given to him.",
 
-"Now the question is how do you receive good things? It is by FAITH.",
+      "Now the question is how do you receive good things? It is by FAITH.",
 
-"Romans 4:16 Therefore it is of faith that it might be according to grace, so that the promise might be sure to all the seed, not only to those who are of the law, but also to those who are of the faith of Abraham, who is the father of us all.",
+      "Romans 4:16 Therefore it is of faith that it might be according to grace, so that the promise might be sure to all the seed, not only to those who are of the law, but also to those who are of the faith of Abraham, who is the father of us all.",
 
-"And how do you receive any evil thing? It is also by Faith.",
+      "And how do you receive any evil thing? It is also by Faith.",
 
-`The scripture said "Put on the shield of Faith that you will be able to quench all the arrows of the enemy.`,
+      `The scripture said "Put on the shield of Faith that you will be able to quench all the arrows of the enemy.`,
 
-"Ephesians 6:16 above all, taking the shield of faith with which you will be able to quench all the fiery arrows of the wicked one.",
+      "Ephesians 6:16 above all, taking the shield of faith with which you will be able to quench all the fiery arrows of the wicked one.",
 
-"Meaning, the only problem of Lazarus is lack of Faith, it is by Faith you receive good things and it is by Faith you reject  any evil thing.",
+      "Meaning, the only problem of Lazarus is lack of Faith, it is by Faith you receive good things and it is by Faith you reject  any evil thing.",
 
-"Evil things came to the life of Lazarus and he didn't have Faith to quench it, for him to die and go to the bosom of Abraham who was generationally rich on Earth means he doesn't have what made Abraham to be justified and blessed on Earth which is by Faith.",
+      "Evil things came to the life of Lazarus and he didn't have Faith to quench it, for him to die and go to the bosom of Abraham who was generationally rich on Earth means he doesn't have what made Abraham to be justified and blessed on Earth which is by Faith.",
 
-"Romans 4:2 For if Abraham was justified by works, he has something to boast about, but not before God.",
+      "Romans 4:2 For if Abraham was justified by works, he has something to boast about, but not before God.",
 
-"Good things was given to him and yet he doesn't have Faith to receive it. Once you come from the lineage of Abraham, good things have already been given to you even before you where born, because the blessing of Abraham is for him and his children's children.",
+      "Good things was given to him and yet he doesn't have Faith to receive it. Once you come from the lineage of Abraham, good things have already been given to you even before you where born, because the blessing of Abraham is for him and his children's children.",
 
-"The covenant of undeserved blessings begin with the lineage of Abraham where God bless you for Abraham's sake, that is not based on your obedience but based on the Faith of Abraham.",
+      "The covenant of undeserved blessings begin with the lineage of Abraham where God bless you for Abraham's sake, that is not based on your obedience but based on the Faith of Abraham.",
 
-"Once a blessing is undeserved, it is by Faith you receive it. Once an evil is also undeserved, it is by Faith you reject it.",
+      "Once a blessing is undeserved, it is by Faith you receive it. Once an evil is also undeserved, it is by Faith you reject it.",
 
-"Meaning, the evil that Lazarus received is an underserved evil, for him to make it to Heaven means he doesn't deserve every evil he manifests on Earth.",
+      "Meaning, the evil that Lazarus received is an underserved evil, for him to make it to Heaven means he doesn't deserve every evil he manifests on Earth.",
 
-"Because since we entered into the economy of Grace in the New Testament which is the dispensation of undeserved blessing, you must also know that devil will also come with his own package to put you under the law all in the name of righteousness and holiness just to ensure the evil that came from God through Adam manifest in your life.",
+      "Because since we entered into the economy of Grace in the New Testament which is the dispensation of undeserved blessing, you must also know that devil will also come with his own package to put you under the law all in the name of righteousness and holiness just to ensure the evil that came from God through Adam manifest in your life.",
 
-"Highest percentage of the problem many Christians are facing today is undeserved problem, undeserved sickness, and you don't use warfare prayer to fight against any undeserved evil that comes your way, you fight it, reject it and quench it by Faith.",
+      "Highest percentage of the problem many Christians are facing today is undeserved problem, undeserved sickness, and you don't use warfare prayer to fight against any undeserved evil that comes your way, you fight it, reject it and quench it by Faith.",
 
-"Look at the scripture again he said we quench all arrow of the wicked one by faith, not some arrow but all arrows.",
+      "Look at the scripture again he said we quench all arrow of the wicked one by faith, not some arrow but all arrows.",
 
-`Ephesians 6:16
+      `Ephesians 6:16
 [16]In addition to all of these, hold up the shield of faith to stop the fiery arrows of the devil.`,
 
-"That ignorance that is making you to kill arrow by warfare prayers is the one that wants to make you to die like Lazarus because you lack the revelational knowledge of how to reject evil that comes.",
+      "That ignorance that is making you to kill arrow by warfare prayers is the one that wants to make you to die like Lazarus because you lack the revelational knowledge of how to reject evil that comes.",
 
-"The scripture says by Faith, you quench all arrow, meaning, the arrow will come, you can't stop them from coming but you can quench them from manifesting if they come.",
+      "The scripture says by Faith, you quench all arrow, meaning, the arrow will come, you can't stop them from coming but you can quench them from manifesting if they come.",
 
-"Meaning, the rich man understands how to receive good and reject evil while Lazarus understands how to receive evil and reject good.",
+      "Meaning, the rich man understands how to receive good and reject evil while Lazarus understands how to receive evil and reject good.",
 
-"Now, the question is why did the rich man land in hell if he has Faith to receive the good.",
+      "Now, the question is why did the rich man land in hell if he has Faith to receive the good.",
 
-"He landed in hell because he didn't use what he received by Faith to know those who didn't have.",
+      "He landed in hell because he didn't use what he received by Faith to know those who didn't have.",
 
-"The first question should be how did the rich man who doesn't have angel become rich in life?",
+      "The first question should be how did the rich man who doesn't have angel become rich in life?",
 
-"How did the rich man now receive good? From God? No, he received good from the angels of Lazarus, he was enjoying the riches that belongs to Lazarus.",
+      "How did the rich man now receive good? From God? No, he received good from the angels of Lazarus, he was enjoying the riches that belongs to Lazarus.",
 
-"How? Just be following, I will show you from scripture in tomorrow devotional.",
-
+      "How? Just be following, I will show you from scripture in tomorrow devotional.",
     ],
   },
   {
@@ -2769,150 +2767,149 @@ That a poverty was given to you is not the issue, it was given to everyone of us
     content: [
       "In the last devotional we discussed about the mystery behind to poverty of Lazarus, now the question is what is the mystery behind the prosperity of the rich man?",
 
-"Now pay a close attention on this scripture.",
+      "Now pay a close attention on this scripture.",
 
-`Matthew 10:41 
+      `Matthew 10:41 
 He who receives a prophet in the name of a prophet shall receive a prophet’s reward. And he who receives a righteous man in the name of a righteous man shall receive a righteous man’s reward.`,
 
-`Matthew 10:42 
+      `Matthew 10:42 
 And whoever gives one of these little ones only a cup of cold water in the name of a disciple, assuredly, I say to you, he shall by no means lose his reward.`,
 
-"Kindly look at these scriptures and let us take it one after the other.",
+      "Kindly look at these scriptures and let us take it one after the other.",
 
-"In verse 41 the  scripture is saying that if you accept a prophet in the name of a prophet then you will receive the reward of the prophet, Meaning, the prophet has a reward, the gift of a prophet is different from the reward of a prophet.",
+      "In verse 41 the  scripture is saying that if you accept a prophet in the name of a prophet then you will receive the reward of the prophet, Meaning, the prophet has a reward, the gift of a prophet is different from the reward of a prophet.",
 
-`He goes on to say again that if you receive the righteous for the sake of the name "righteous" then you have received the reward of the righteous, Meaning, the righteous has reward.`,
+      `He goes on to say again that if you receive the righteous for the sake of the name "righteous" then you have received the reward of the righteous, Meaning, the righteous has reward.`,
 
-"That is, you can be unrighteous and yet you are receiving the reward of the righteous and yet the righteous himself is not getting any reward in life.",
+      "That is, you can be unrighteous and yet you are receiving the reward of the righteous and yet the righteous himself is not getting any reward in life.",
 
-"I will show you a mystery today why many you tag to be unrighteous are prospering in life and yet you who claim to be righteous are struggling in life.",
+      "I will show you a mystery today why many you tag to be unrighteous are prospering in life and yet you who claim to be righteous are struggling in life.",
 
-"It is because those sinners and the unrighteous men you see know how to receive the reward of the righteous.",
+      "It is because those sinners and the unrighteous men you see know how to receive the reward of the righteous.",
 
-"Mind you they may enjoy the rewards of the righteous on Earth and still land in hell like the rich man, why the righteous on Earth can die like Lazarus and goes to hell because he doesn't know how to receive in life.",
+      "Mind you they may enjoy the rewards of the righteous on Earth and still land in hell like the rich man, why the righteous on Earth can die like Lazarus and goes to hell because he doesn't know how to receive in life.",
 
-"Get this no one is designed in life to live by his own reward, we are designed to live by another person's reward why others live by your own reward.",
+      "Get this no one is designed in life to live by his own reward, we are designed to live by another person's reward why others live by your own reward.",
 
-"You lost the capacity to receive in the spirit each time you go with the consciousness to receive the reward of your good deeds, what you will receive is a curse, because no one is qualified before God to receive the reward of his good deeds because no one have good deeds enough to qualify him to be blessed in the spirit, you can never please him without faith.",
+      "You lost the capacity to receive in the spirit each time you go with the consciousness to receive the reward of your good deeds, what you will receive is a curse, because no one is qualified before God to receive the reward of his good deeds because no one have good deeds enough to qualify him to be blessed in the spirit, you can never please him without faith.",
 
-"What qualifies you to receive the reward of your righteousness before God is 100% righteousness, someone who keep all the law and offended in one is like someone who didn't keep the law at all.",
+      "What qualifies you to receive the reward of your righteousness before God is 100% righteousness, someone who keep all the law and offended in one is like someone who didn't keep the law at all.",
 
-`James 2:10
+      `James 2:10
 For whosoever shall keep the whole law, and yet offend in one point, he is guilty of all.`,
 
-"May you not stand before God and be demanding for blessing because you are morally righteous you put yourself under high curse that is more than closed Heaven, because you lack the wisdom of receiving like Lazarus.",
+      "May you not stand before God and be demanding for blessing because you are morally righteous you put yourself under high curse that is more than closed Heaven, because you lack the wisdom of receiving like Lazarus.",
 
-"Each time you go to God to receive anything based on your good deeds, what you will receive is evil, just showing you mystery why Lazarus receive evil, even though you will still make it to Heaven because you are a seed of Abraham but you lack the wisdom to know that it is only by Faith that the children of Abraham can receive anything from God.",
+      "Each time you go to God to receive anything based on your good deeds, what you will receive is evil, just showing you mystery why Lazarus receive evil, even though you will still make it to Heaven because you are a seed of Abraham but you lack the wisdom to know that it is only by Faith that the children of Abraham can receive anything from God.",
 
-`NKJV, Romans 4:14
+      `NKJV, Romans 4:14
 For if those who are of the law are heirs, faith is made void and the promise made of no effect,`,
 
-"So, do we have reward for been righteous? Yes, but the reward is what become gift for others, the reward of your righteousness is for those that accept you in the name of the righteous.",
+      "So, do we have reward for been righteous? Yes, but the reward is what become gift for others, the reward of your righteousness is for those that accept you in the name of the righteous.",
 
-"And there are many unrighteous rich people who understand the mystery of this, many of them are just enjoying the reward of the Righteous in their life and yet they are unrighteous, why many who are righteous are receiving the reward of the unrighteous because they lack the knowledge of this mystery.", 
+      "And there are many unrighteous rich people who understand the mystery of this, many of them are just enjoying the reward of the Righteous in their life and yet they are unrighteous, why many who are righteous are receiving the reward of the unrighteous because they lack the knowledge of this mystery.",
 
-"The scripture didn't say if you receive the righteous in the name of Christ, but he said if you receive the righteous in the name of the righteous, the reward of the righteous will surely follow you.",
+      "The scripture didn't say if you receive the righteous in the name of Christ, but he said if you receive the righteous in the name of the righteous, the reward of the righteous will surely follow you.",
 
-"Look at the scripture again.",
+      "Look at the scripture again.",
 
-`Matthew 10:41 
+      `Matthew 10:41 
 He who receives a prophet in the name of a prophet shall receive a prophet’s reward. And he who receives a righteous man in the name of a righteous man shall receive a righteous man’s reward.`,
 
-"He didn't say if you receive the prophet in the name of Christ, but if you receive the prophet in the name of the prophet, you shall receive the reward of the prophet.",
+      "He didn't say if you receive the prophet in the name of Christ, but if you receive the prophet in the name of the prophet, you shall receive the reward of the prophet.",
 
-"Secondly, the scripture didn't say when you accept the righteous in the name of the righteous you will receive the reward of God, he said what you will receive is the reward of the righteous.",
+      "Secondly, the scripture didn't say when you accept the righteous in the name of the righteous you will receive the reward of God, he said what you will receive is the reward of the righteous.",
 
-"He didn't also said when you received the prophet in the name of the prophet you will receive the reward of God.",
+      "He didn't also said when you received the prophet in the name of the prophet you will receive the reward of God.",
 
-"No sir, what you will receive is the reward of the prophet and what you will receive is the reward of the righteous.",
+      "No sir, what you will receive is the reward of the prophet and what you will receive is the reward of the righteous.",
 
-"Potiphar was able to understand this mystery and he never joke with Joseph, he knew the reason why God is blessing him is for the sake of Joseph.",
+      "Potiphar was able to understand this mystery and he never joke with Joseph, he knew the reason why God is blessing him is for the sake of Joseph.",
 
-"Genesis 39:2 The Lord was with Joseph, and he was a successful man; and he was in the house of his master the Egyptian.",
+      "Genesis 39:2 The Lord was with Joseph, and he was a successful man; and he was in the house of his master the Egyptian.",
 
-"Genesis 39:5 So it was, from the time that he had made him overseer of his house and all that he had, that the Lord blessed the Egyptian’s house for Joseph’s sake; and the blessing of the Lord was on all that he had in the house and in the field.",
+      "Genesis 39:5 So it was, from the time that he had made him overseer of his house and all that he had, that the Lord blessed the Egyptian’s house for Joseph’s sake; and the blessing of the Lord was on all that he had in the house and in the field.",
 
-"All the people in the potipher  house are not righteous, but the scripture say the lord blessed the Egyptian's house for Joseph's sake,",
+      "All the people in the potipher  house are not righteous, but the scripture say the lord blessed the Egyptian's house for Joseph's sake,",
 
-"What potipher and every one in the house was receiving is the reward of Joseph, he was using the reward of Joseph to prosper and yet Joseph was still his slave.",
+      "What potipher and every one in the house was receiving is the reward of Joseph, he was using the reward of Joseph to prosper and yet Joseph was still his slave.",
 
-"The scripture never say and the lord was with Potiphar, the scripture say and the lord was with Joseph,",
+      "The scripture never say and the lord was with Potiphar, the scripture say and the lord was with Joseph,",
 
-"Genesis 39:2 The Lord was with Joseph, and he was a successful man; and he was in the house of his master the Egyptian.",
+      "Genesis 39:2 The Lord was with Joseph, and he was a successful man; and he was in the house of his master the Egyptian.",
 
-"Meaning, whosoever that house Joseph has house the Lord, meaning, such people is qualified to begin to enjoy the presence of God, not because they carry the presence of God but they receive someone that carry the presence of God.",
+      "Meaning, whosoever that house Joseph has house the Lord, meaning, such people is qualified to begin to enjoy the presence of God, not because they carry the presence of God but they receive someone that carry the presence of God.",
 
-"There is a wisdom in Potiphar's heart that is missing in the rich man that house Lazarus.",
+      "There is a wisdom in Potiphar's heart that is missing in the rich man that house Lazarus.",
 
-"Potiphar knows that God was blessing him for the sake of Joseph and he begin to promote Joseph, he doesn't want Joseph to leave.",
+      "Potiphar knows that God was blessing him for the sake of Joseph and he begin to promote Joseph, he doesn't want Joseph to leave.",
 
-"Genesis 39:3 And his master saw that the Lord was with him and that the Lord made all he did to prosper in his hand.",
+      "Genesis 39:3 And his master saw that the Lord was with him and that the Lord made all he did to prosper in his hand.",
 
-"Genesis 39:4 So Joseph found favor in his sight, and served him. Then he made him overseer of his house, and all that he had he put under his authority.",
+      "Genesis 39:4 So Joseph found favor in his sight, and served him. Then he made him overseer of his house, and all that he had he put under his authority.",
 
-"But for the rich man, he become so rich based on the reward of Lazarus.",
+      "But for the rich man, he become so rich based on the reward of Lazarus.",
 
-"The scripture say when Lazarus died his angels Carried him, every righteous man has an angel guiding them, it was the angels of Lazarus making the rich man prospering.",
+      "The scripture say when Lazarus died his angels Carried him, every righteous man has an angel guiding them, it was the angels of Lazarus making the rich man prospering.",
 
-"There are many company that has employ a righteous man and the company is progressing because of the righteous man, literally speaking the righteous may not be productive in the place of work, but lack of discernment will make you not to know that his presence in your office is what is making everything to be productive.",
+      "There are many company that has employ a righteous man and the company is progressing because of the righteous man, literally speaking the righteous may not be productive in the place of work, but lack of discernment will make you not to know that his presence in your office is what is making everything to be productive.",
 
-"At times you give them sack letter because they are not productive and since they left, their angels left with them, it is because you don't know how to receive the rewards of the righteous.",
+      "At times you give them sack letter because they are not productive and since they left, their angels left with them, it is because you don't know how to receive the rewards of the righteous.",
 
-"You don't know how to accept the righteous in the name of his righteousness, not in the name of his productivity, not in the name of his sharpness and his creativity in the place of work but in the name of his righteous and if you understand this mystery you will receive the reward of the righteous.",
+      "You don't know how to accept the righteous in the name of his righteousness, not in the name of his productivity, not in the name of his sharpness and his creativity in the place of work but in the name of his righteous and if you understand this mystery you will receive the reward of the righteous.",
 
-"I write to you a mystery oh ye captain of industry, if your company survive unconsciously and you didn't involve in any ritual or diabolical things to make your company work, and the company is working, it is working on the strength of two things.",
+      "I write to you a mystery oh ye captain of industry, if your company survive unconsciously and you didn't involve in any ritual or diabolical things to make your company work, and the company is working, it is working on the strength of two things.",
 
-"1. You are enjoying the reward of a prophet or you are enjoy the reward of a righteous man.",
+      "1. You are enjoying the reward of a prophet or you are enjoy the reward of a righteous man.",
 
-"And the day you loose this wisdom of receiving that becomes the day your company begin to go down, it is spiritual, success is not hardworking, it is spiritual that only responds to spiritual code.",
+      "And the day you loose this wisdom of receiving that becomes the day your company begin to go down, it is spiritual, success is not hardworking, it is spiritual that only responds to spiritual code.",
 
-"And the code is what I just released now.",
+      "And the code is what I just released now.",
 
-"Do you have any righteous in your place of work? May God give you Grace to know how to receive them in the name of the righteous, promote them not because they are productive but in the name of the righteous, show kindness to them not because they are physically bringing benefit to the organisation but they are spiritually bring strange blessings to that organisation.",
+      "Do you have any righteous in your place of work? May God give you Grace to know how to receive them in the name of the righteous, promote them not because they are productive but in the name of the righteous, show kindness to them not because they are physically bringing benefit to the organisation but they are spiritually bring strange blessings to that organisation.",
 
-"If you can do this, you activate their angel to bless you more, this is the mystery of receiving the reward of the righteous.",
+      "If you can do this, you activate their angel to bless you more, this is the mystery of receiving the reward of the righteous.",
 
-"Someone is asking how do I receive the reward of the prophet also? What is the reward of the prophet ?",
+      "Someone is asking how do I receive the reward of the prophet also? What is the reward of the prophet ?",
 
-"The scripture say believe in the Lord and you shall be established and believe in the prophet and you shall prosper.",
+      "The scripture say believe in the Lord and you shall be established and believe in the prophet and you shall prosper.",
 
-`2 chronicles 20:20
+      `2 chronicles 20:20
 ................ Jehoshaphat stood and said, Hear me, O Judah, and ye inhabitants of Jerusalem; Believe in the LORD your God, so shall ye be established; believe his prophets, so shall ye prosper.`,
 
-"Many only believe in the lord but never believe in his prophet and that is why they are establish but are not prosper.",
+      "Many only believe in the lord but never believe in his prophet and that is why they are establish but are not prosper.",
 
-"Meaning, prosperity lies in the mouth of the prophet.",
+      "Meaning, prosperity lies in the mouth of the prophet.",
 
-"If you know how to triger the spirit of prophet in them which is by gift, you will receive the reward of a prophet.",
+      "If you know how to triger the spirit of prophet in them which is by gift, you will receive the reward of a prophet.",
 
-"These are spiritual code of receiving, mind you God has blessed us already with all spiritual blessings, but I am giving you the wisdom of receiving those spiritual blessings.",
+      "These are spiritual code of receiving, mind you God has blessed us already with all spiritual blessings, but I am giving you the wisdom of receiving those spiritual blessings.",
 
-"Because you receive the spiritual blessing through Christ, but many didn't know Christ, they only know the invisible Christ, they don't know the visible image of the invisible Christ, and the visible image of the invisible Christ is the body of Christ.",
+      "Because you receive the spiritual blessing through Christ, but many didn't know Christ, they only know the invisible Christ, they don't know the visible image of the invisible Christ, and the visible image of the invisible Christ is the body of Christ.",
 
-"It is through the body of Christ you receive every Grace, all Grace comes from God and God give all to us through Christ and we receive all from Christ through his BODY.",
+      "It is through the body of Christ you receive every Grace, all Grace comes from God and God give all to us through Christ and we receive all from Christ through his BODY.",
 
-"For instance If I want to give you something and you don't have relationship with my hand, you may not receive anything from me, because if I want to give anything I give it through my hand.",
+      "For instance If I want to give you something and you don't have relationship with my hand, you may not receive anything from me, because if I want to give anything I give it through my hand.",
 
-"The moment you have Faith you don't look unto me again, begin to look at my hand, because it is through my hand you will receive.",
+      "The moment you have Faith you don't look unto me again, begin to look at my hand, because it is through my hand you will receive.",
 
-"Same to us, once you have received Faith to receive anything begin to look at the body of Christ, it is through the body of Christ that all blessing available in the Spirit will get to you.",
+      "Same to us, once you have received Faith to receive anything begin to look at the body of Christ, it is through the body of Christ that all blessing available in the Spirit will get to you.",
 
-"And many unrighteous are tapping into this blessing than us, many of them have different men of God they are giving gift to but for you, all you do is to be claiming you are following his teachings.",
+      "And many unrighteous are tapping into this blessing than us, many of them have different men of God they are giving gift to but for you, all you do is to be claiming you are following his teachings.",
 
-"You are following the teaching of a man of God for years and you have never honour him with gift even though it is little out of what you have, you are violating spiritual code.",
+      "You are following the teaching of a man of God for years and you have never honour him with gift even though it is little out of what you have, you are violating spiritual code.",
 
-"That is why many Christians will die like Lazarus even though they will make it to Heaven.",
+      "That is why many Christians will die like Lazarus even though they will make it to Heaven.",
 
-"Truly every giving must be based on leading, but the leading of the spirit is always based on the revelational light you have in you, so that when it Lead you to do something, you will do it from revelational understanding.",
+      "Truly every giving must be based on leading, but the leading of the spirit is always based on the revelational light you have in you, so that when it Lead you to do something, you will do it from revelational understanding.",
 
-"You will do it spiritually not religiously.",
+      "You will do it spiritually not religiously.",
 
-"What is this prophet reward? Who are the prophet the scripture is talking about? How do the prophet released the reward.",
+      "What is this prophet reward? Who are the prophet the scripture is talking about? How do the prophet released the reward.",
 
-"And why must it be gift we use to trigger them to release the reward?.... it that scriptural?  Yes sir 100 percent scriptural.",
+      "And why must it be gift we use to trigger them to release the reward?.... it that scriptural?  Yes sir 100 percent scriptural.",
 
-"Just be following. ......"
-
+      "Just be following. ......",
     ],
   },
   {
@@ -2924,160 +2921,159 @@ He who receives a prophet in the name of a prophet shall receive a prophet’s r
       "Matthew 10:41 He who receives a prophet in the name of a prophet shall receive a prophet’s reward. And he who receives a righteous man in the name of a righteous man shall receive a righteous man’s reward.",
 
       "One of the mysteries of ministry is the ability to know your reward and the ability to give your reward as a gift to others to receive, because just as fish can only survive by water so also the financial life of anyone survives by the reward of men of God.",
-      
+
       "That is why the scripture says believe in His prophet (man of God) and you shall prosper.",
-      
+
       "2 Chronicles 20:20 ......: Believe in the Lord your God, and you shall be established; believe His prophets, and you shall prosper.”",
-      
+
       "Because prosperity is automatic for you when a man of God releases his reward on you.",
-      
+
       "The scripture says if you believe a prophet in the name of the prophet, you shall receive the reward of a prophet.",
-      
+
       "The first thing you must know is  that the prophet the scripture is talking about in this context are not seers, not those who stand in the office of prophet but everyone sent by God with a message.",
-      
+
       "Every man called by God in the new testament is a prophet of the lord, a prophet in this context means a mouth piece of the Lord, a voice of the Lord, someone that the Lord is speaking through to you.",
-      
+
       "If God is speaking through me to you then I am your prophet. If God is not speaking through me to you, then I am not your prophet.",
-      
+
       "A prophet is a person that gives prophecy and prophecy is the ability to speak the mind of God God through inspired teaching and preaching.",
-      
+
       "Kindly look at the way the Amplified version defines prophecy;",
-      
+
       `1 Corinthians 14:1
       1 EAGERLY PURSUE and seek to acquire [this] love [make it your aim, your great quest]; and earnestly desire and cultivate the spiritual endowments (gifts), especially that you may prophesy ([a]interpret the divine will and purpose in inspired preaching and teaching).`,
-      
+
       "So under the new covenant, anyone with the ability to interpret the divine will and purpose of God through inspired teaching and preaching is a prophet.",
-      
+
       `Take note of the emphasis in that scriptural definition, "interpret" not "speak"`,
-      
+
       "Under the old covenant, a prophet is someone with the the ability to speak the mind of God and all the mind of God they spoke is what we are reading now as scripture, but when God began to raise new testament prophets, their assignment differ, they don't just speak, they are to interpret what has been spoken by the old testament in the scripture through inspired teachings and preaching.",
-      
+
       "And this mind of God to interpret is the scripture, the old testament prophet spoke the mind of God, while the new testament prophets interprets the mind of God, and scripture is the mind of God.. May God deliver the body of christ from men with spirit of divination dragging themselves to be prophet.",
-      
+
       "If your pastor can interpret the mind of God( scripture) through inspired teaching and preaching and your spirit  receive your pastors  message as though God is speaking to you through them then your pastor is a prophet of the Lord and that pastor has a reward.",
-      
+
       "And you must be able to know the difference between the gift of a man of God and the reward of a man of God.",
-      
+
       "Don't make the mistake of letting a man of God bless you with money no matter how rich he may be, expecting money from a man of God is an act of rubbing yourself from an inheritance and birthright just because of pottage.",
-      
+
       "Truly a man of God can give you a material gift but don't expect it, the only thing you should expect from a man of God is the manifestation of their gift and the release of their reward.",
-      
+
       "Now the question is how do men of God have strange rewards that can be released into the life of people as gifts?",
-      
+
       "Once you do anything in life for men to pay you or do anything for men to praise you then you don't have reward in the spirit again, you have already received your reward from man, that is the picture of what Jesus is saying in Matthew 6:2",
-      
+
       "Matthew 6:2 Therefore, when you do a charitable deed, do not sound a trumpet before you as the hypocrites do in the synagogues and in the streets, that they may have glory from men. Assuredly, I say to you, they have their reward.",
-      
+
       "That is why I pity men of God selling their grace and gift, that I don't sell my books for instance doesn't mean I don't like money, it is not self discipline but it is an expression of a mystery of reward I am sharing now. I lost my reward with God once I get my reward from man.",
-      
+
       "The reason why it looks as if men of God are the one that have the most reward is because 90 percent of their life service is free.",
-      
+
       "Their assignment doesn't require you to do something to pay them or do something to praise them.",
-      
+
       "We have a gift from God and we also have a reward for using our gift free of charge, we trust God to pay us back after working for him full time, and what God pay us with is called REWARD.",
-      
+
       "But the sad news is that, the reward we receive for our service to God is not for our benefit, just as we give gifts to people so also we give our reward, you can see our gift but you cannot see our reward with physical eyes except men who can discern in the spirit.",
-      
+
       "But it is unfortunate that the highest of people benefiting from the gift and grace of a man of God doesn't know how to benefit from their reward, just showing you the mystery of the poverty of many christians.",
-      
+
       "Now the question is how do a man of God give his reward and how do they give their gift; how do they bless people with their gift and how do they bless people with their reward ?",
-      
+
       "Because the gift of a prophet is different from the reward of the prophet, the gift of a teacher is different from the reward of a teacher.",
-      
+
       "You can know how to give your gift as a prophet, gift your gift as a teacher for others to enjoy but lack the knowledge of how to give your reward.",
-      
+
       "For instance, what you are enjoying now is not my reward as a prophet of God , you are enjoying the gift of a prophet, you are enjoying the divine mind of God through inspired teaching from me.",
-      
+
       "The question is what is the reward of a prophet and what is the difference between the reward of a prophet and the gift of a prophet?",
-      
+
       "How can i tap into the grace and also tap into the reward?",
-      
+
       "As a man of God, how can I give grace and also give my reward, what is the benefit when you receive the gift of a man of God which is what you are reading now, what is also the benefit when you receive the reward of a man of God?",
-      
+
       "Get this, anything you receive in life as a gift is a reward of someone, that is, someone pays the price for it, for instance the grace I am using to minister now I didn't pay the price for it, christ pay the price for it, it is the reward of christ that I received as teaching grace.",
-      
+
       "Truly we pay a price in life, but we are not designed to receive and enjoy the rewards of our price, it is others that receive the rewards of our price from us.",
-      
+
       "Because everything we have also which we receive as a gift is a reward for someone, someone paid the price for it.",
-      
+
       "Every man of God has the capacity to give three gifts.",
-      
-      "1. They can give spiritual gifts." ,
+
+      "1. They can give spiritual gifts.",
       "2. They can give supernatural gifts.",
       "3. They can give physical gifts.",
-      
+
       `That is, they can bless you with their spirit (spiritual gift).
       They can bless you with their soul (supernatural gift).
       They can bless you with their hand (material) gift.`,
-      
+
       "Spiritual gift is the one they give based on the grace of God upon them, and this is released to people when they minister. For instance, now you are enjoying the gift of the spirit now not my reward.",
-      
+
       "A supernatural gift is the gift they give based on their reward, and this is released from them when they  pray for you.",
-      
+
       "A physical gift is the gift they give based on their good heart (they are material gifts).",
-      
+
       "So when the scripture says you receive the reward of a prophet, a prophet released their reward through prayer, and one of the ways to trigger their emotions to pray from their soul is to do something that makes them happy.",
-      
+
       "Get this, men of God don't pray from their spirit, they minister from the spirit and by the spirit.",
-      
+
       "But men of God pray from their emotion, it is the prayer they prayed for you from their emotions that produce results in your life.",
-      
+
       "So they release their gift through their spirit and release their reward through their emotions (soul)",
-      
+
       "Can you now understand why Issac was asking  Esau to get him sweet bush animals so that his soul can bless him.",
-      
+
       `Genesis 27:1 Isaac Blesses Jacob
       Now it came to pass, when Isaac was old and his eyes were so dim that he could not see, that he called Esau his older son and said to him, “My son.”
       And he answered him, “Here I am.”`,
-      
+
       "Genesis 27:2 Then he said, “Behold now, I am old. I do not know the day of my death.",
-      
+
       "Genesis 27:3 Now therefore, please take your weapons, your quiver and your bow, and go out to the field and hunt for me.",
-      
+
       "Genesis 27:4 And make me savory food, such as I love, and bring it to me that I may eat, that my soul may bless you before I die.”",
-      
+
       "Kindly look at verse 4, Isaac said make me a savory food which I love that my soul may bless you.",
-      
+
       "He didn't say that my spirit may bless you (that is a release of ministerial blessing) he didn't say that my hand may bless you, that is the release of material blessing, but he said that my soul may bless you, that is the release of his reward he has with God.",
-      
+
       "Isaac was telling Esau here the code to trigger this dimension of blessing, you must do what makes me happy, it is not a blessing I release because I am high in the spirit after praying in tongue, it is a gift I release after I am high in soul with happiness (that is you trigger my emotion) you do what makes me happy.",
-      
+
       "If the wife and biological children  of men of God can understand this, they should be the first to receive the reward of their husbands as wife and receive the reward of their father as children  but those that lose this reward most are those who allow over-familiarity to rub them off this strange supernatural blessing their man of God carry.",
-      
+
       "This blessing has nothing to do with whether a man of God can raise the dead or not, it only has to do with if you are called by God and you obey the call.",
-      
+
       "You must be wise enough to know how to trigger the emotions of men of God and this happen not when you just sow seed or give them gift, it happens when you give them gift that meet their needs, that is, you give them gift at the point of their need, gift that solve their needs, whatever they utter from their mouth by their emotions is their reward and men who understand this has tapped into it and become great in life with it.",
-      
+
       "Ability to study the need of a man of God and meet him at the point of his need is what triggers them to release their reward.",
-      
+
       "That is why this must either be done by the leading of the holy spirit because it is the holy spirit that knows their need or this is done by observations, you can literally look at a man of God and know his need.",
-      
+
       "Whenever the Holy Spirit leads you to give into the life of a man of God , just know that the Holy Spirit is about to open you up into the blessing of the lord that makes men rich.",
-      
+
       "Because the blessing of the Lord that make men rich is in the mouth of a man of God, that blessing of the Lord is their reward, many men of God has died with this because no body to trigger them to release it, and you see one unbeliever coming their way to just buy a car for them and suddenly they release the reward meant for their congregation on just one unbeliever who is not a member of the church.",
-      
+
       "Over familiarity could only make you see the gift of a man of God but you cannot see his reward.",
-      
+
       "Do you know I have been writing for years now and people are following and enjoying the gift.",
-      
+
       "But do you know that for me to be writing for five years, it means I have a five years reward of my labour with God and one unbeliever can come and trigger my emotion and you see me releasing my five years of reward upon him, and yet you see those following my grace growing spiritually but not growing financially, ignorance will now make them to think that they need another man of God with grace of prosperity, they only just lack the knowledge of how to receive my reward.",
-      
+
       "You don't know that once God gives you a man of God, everything your life needs both spiritually and materially is in the life of the man of God.",
-      
+
       "You  need the grace and gift of that man of God to grow spiritually and you need his reward to grow financially, their reward is what the scripture describes as the blessing of the Lord making people rich without adding sorrow to it.",
-      
+
       "Have you not observed that after some men of God have prayed  for you, they will just tell you by prophetic direction to give some man of God a gift, what they are saying is mystery just that they cannot explain it.",
-      
+
       "May God give you wisdom to learn how to make a man of God bless you from their soul, not from their spirit, not from their pocket, but from their soul.",
-      
+
       "What pains me most is that unbelievers are the ones enjoying our reward most, people who are not benefiting from our gift and ministerial grace are the ones benefiting from our reward.",
-      
-      "And the truth is that the reward is designed to be for our followers, for those benefiting from our spiritual gift, but ignorance of this mystery kept them behind. Spiritually they are growing because they are benefiting from our ministerial grace but financially they are not growing because they are not benefiting from our rewards.", 
-      
+
+      "And the truth is that the reward is designed to be for our followers, for those benefiting from our spiritual gift, but ignorance of this mystery kept them behind. Spiritually they are growing because they are benefiting from our ministerial grace but financially they are not growing because they are not benefiting from our rewards.",
+
       `I show you a mystery. ....
       I show you a code of the spirit...
       I show you a hidden wisdom of God....`,
-      
     ],
   },
   {
@@ -3130,219 +3126,219 @@ He who receives a prophet in the name of a prophet shall receive a prophet’s r
     content: [
       `The End of the Natural is the beginning of the Supernatural. The word "Above the Natural" is not talking about height.`,
 
-    "It means a realm that begins where natural ended.The word above in the spiritual realm is like ahead , like today is above yesterday and tomorrow is above today ,that is the same way supernatural is to the natural",
-    
-    "That is why aside from entering into the supernatural through Christ or entering into the supernatural through sacrifice from the devil the only way to enter into the supernatural is through physical Death.",
-    
-    "Once you are dead, you become supernatural, because where natural end is where supernatural begins, the end of the natural is the beginning of the supernatural, it has nothing to do with literia hight like from the ground to above the skye, it is just between a life in this time and life that begin when this time come to an end.",
-    
-    "That is why once a man is dead he become prophetic, he can know those that kill him, he can see the end of everything natural, because he is now seen into the past", 
-    
-    "He can see what will happen to us next week or next year.",
-    
-    "It is when you stand into the nature that you are trying to see into the future,  when you stand into the supernatural( heavenly places) you see into the past and what was captured as past in that realm is future in this realm",
-    
-    "Because this natural realm is a programmed realm, what happens today are what has been planned before the foundation of the world, it is just the opening of a scroll amongst many books from the library of eternity",
-    
-    "What is fustraction? it is an act of trying to act a role not according to what is written concerning you in the library of eternity",
-    
-    "Things that happen in the natural has been programmed long ago, so once you stand in the supernatural you can see what has been programmed, and begin to decode it to explain to men what will happen tomorrow, and if your spirit can pick your roles in those books of eternity that contain everyone born in Nigeria then you begin to walk in alignment and outstanding success in life",
-    
-    "There is holy book which is bible and there are holy books of destiny also which contain everything written concerning you, there are many books that will open on the last day aside from the book of life",
-    
-    "Revelation 20:12 And I saw the dead, small and great, standing before God, and books were opened. And another book was opened, which is the Book of Life. And the dead were judged according to their works, by the things which were written in the books.",
-    
-    "Look at the scripture ,  John said he saw that books were open, not book( singular) but books ( plural)",
-    
-    "you can't find it in the bible in your hand that you will be born in Nigeria and the bible doesn't contain how you will died, because it is not a book writen concerning you, it I'd about Book writen concerning just one man and that is Jesus, there are books in the spirit written concerning you, the prophecy of the Bible is not a book writen concerning us , it is only the promises of the bible that was written for us.",
-    
-    "That is why it was written clearly in the scripture how Jesus will be born, where he will be born, how he will die and where he will die.",
-    
-    "So the scripture is a book writen concerning christ not book written concerning you, it is a book that give the prophetic details of christ not prophetic details about you,",
-    
-    "The promises of the scripture is for us but the prophecy of the scripture is about Jesus",
-    
-    "We don't need any books of promises again, bible is enough, but we still need the rising of books of prophecy concerning individual that capture the details of our earthly existence and assignment",
-    
-    "Get this mystery, the plan of God is that just has he raised men and they begin to give prophecy in the old testament about christ because they accessed the scroll that contained things written concerning him, so also God want to raised different prophets who will speak different things concerning us before we where born and we will pick their books and something will be telling us in us that this prophet who live 200 years ago and wrote this prophecy was talking about me",
-    
-    "Just has jesus came and begin to read scripture and know that Isaiah was talking about him,  so also different writing books containing different prophecy of generations yet unborn should be available so that as those generation came and pick the book of Banjo Ayeka they will know Banjo Ayeka is talking about them",
-    
-    "Just image a book writen by a prophet 300 years ago saying a guy will be born from Nigeria and he will be a great writer in the hand of God, and through his book a revival will spread around the campus, just imagine me reading that prophecy,  something in me will be telling me this prophecy is talking about me",
-    
-    "It will become easy for me to just also said like jesus in luke 4: 18 when he read the book of Isaiah and he said this prophecy fulfilled in your hearing today",
-    
-    "Luke 4:20 Then He closed the book, and gave it back to the attendant and sat down. And the eyes of all who were in the synagogue were fixed on Him.",
-    
-    "Luke 4:21 And He began to say to them, “Today this Scripture is fulfilled in your hearing.”",
-    
-    "The way jesus was ready bible could have been the way I could have been reading that prophecy writen concerning me by a prophet who live 300 years ago.",
-    
-    "Jesus was able to easily have direction because he accessed a book of prophecy written concerning him, we lost direction because we lack a book of prophecy written concerning us.",
-    
-    "This is the dimension of prophetic writers and writing coming to pass before the end of the age.. I have seen it",
-    
-    "Scroll about the destiny of children yet on born are going to be opening in the supernatural realm, and men will be given access to see those scroll and inspiration to write will begin rest on them to write it down now and when the generations involved landed on earth, divine direction will lead them to that books",
-    
-    "Get this, it is not only Jesus that is designed to be born by prophecy,  everyone ordain to carry out Gods agenda on earth is a child of prophecy and to every child of prophecy there is a book of prophecy",
-    
-    "Some said bible is enough, those are religious voice ordain to silence the move of God that eyes has not seen, the move of God that ear has not hear and the move of God that has not enter into the heart of man",
-    
-    "the evil of religion spirit is that they want what God has done in the part to repeat itself when God is saying I will do a new things, is a spirit that just love to stay with the old traditions, it is an enemy of a new move.",
-    
-    "They want what ear has heard and what eyes has seen to be seen again when God is saying he want to do what eyes has not seen",
-    
-    `1 Corinthians 2:9.
+      "It means a realm that begins where natural ended.The word above in the spiritual realm is like ahead , like today is above yesterday and tomorrow is above today ,that is the same way supernatural is to the natural",
+
+      "That is why aside from entering into the supernatural through Christ or entering into the supernatural through sacrifice from the devil the only way to enter into the supernatural is through physical Death.",
+
+      "Once you are dead, you become supernatural, because where natural end is where supernatural begins, the end of the natural is the beginning of the supernatural, it has nothing to do with literia hight like from the ground to above the skye, it is just between a life in this time and life that begin when this time come to an end.",
+
+      "That is why once a man is dead he become prophetic, he can know those that kill him, he can see the end of everything natural, because he is now seen into the past",
+
+      "He can see what will happen to us next week or next year.",
+
+      "It is when you stand into the nature that you are trying to see into the future,  when you stand into the supernatural( heavenly places) you see into the past and what was captured as past in that realm is future in this realm",
+
+      "Because this natural realm is a programmed realm, what happens today are what has been planned before the foundation of the world, it is just the opening of a scroll amongst many books from the library of eternity",
+
+      "What is fustraction? it is an act of trying to act a role not according to what is written concerning you in the library of eternity",
+
+      "Things that happen in the natural has been programmed long ago, so once you stand in the supernatural you can see what has been programmed, and begin to decode it to explain to men what will happen tomorrow, and if your spirit can pick your roles in those books of eternity that contain everyone born in Nigeria then you begin to walk in alignment and outstanding success in life",
+
+      "There is holy book which is bible and there are holy books of destiny also which contain everything written concerning you, there are many books that will open on the last day aside from the book of life",
+
+      "Revelation 20:12 And I saw the dead, small and great, standing before God, and books were opened. And another book was opened, which is the Book of Life. And the dead were judged according to their works, by the things which were written in the books.",
+
+      "Look at the scripture ,  John said he saw that books were open, not book( singular) but books ( plural)",
+
+      "you can't find it in the bible in your hand that you will be born in Nigeria and the bible doesn't contain how you will died, because it is not a book writen concerning you, it I'd about Book writen concerning just one man and that is Jesus, there are books in the spirit written concerning you, the prophecy of the Bible is not a book writen concerning us , it is only the promises of the bible that was written for us.",
+
+      "That is why it was written clearly in the scripture how Jesus will be born, where he will be born, how he will die and where he will die.",
+
+      "So the scripture is a book writen concerning christ not book written concerning you, it is a book that give the prophetic details of christ not prophetic details about you,",
+
+      "The promises of the scripture is for us but the prophecy of the scripture is about Jesus",
+
+      "We don't need any books of promises again, bible is enough, but we still need the rising of books of prophecy concerning individual that capture the details of our earthly existence and assignment",
+
+      "Get this mystery, the plan of God is that just has he raised men and they begin to give prophecy in the old testament about christ because they accessed the scroll that contained things written concerning him, so also God want to raised different prophets who will speak different things concerning us before we where born and we will pick their books and something will be telling us in us that this prophet who live 200 years ago and wrote this prophecy was talking about me",
+
+      "Just has jesus came and begin to read scripture and know that Isaiah was talking about him,  so also different writing books containing different prophecy of generations yet unborn should be available so that as those generation came and pick the book of Banjo Ayeka they will know Banjo Ayeka is talking about them",
+
+      "Just image a book writen by a prophet 300 years ago saying a guy will be born from Nigeria and he will be a great writer in the hand of God, and through his book a revival will spread around the campus, just imagine me reading that prophecy,  something in me will be telling me this prophecy is talking about me",
+
+      "It will become easy for me to just also said like jesus in luke 4: 18 when he read the book of Isaiah and he said this prophecy fulfilled in your hearing today",
+
+      "Luke 4:20 Then He closed the book, and gave it back to the attendant and sat down. And the eyes of all who were in the synagogue were fixed on Him.",
+
+      "Luke 4:21 And He began to say to them, “Today this Scripture is fulfilled in your hearing.”",
+
+      "The way jesus was ready bible could have been the way I could have been reading that prophecy writen concerning me by a prophet who live 300 years ago.",
+
+      "Jesus was able to easily have direction because he accessed a book of prophecy written concerning him, we lost direction because we lack a book of prophecy written concerning us.",
+
+      "This is the dimension of prophetic writers and writing coming to pass before the end of the age.. I have seen it",
+
+      "Scroll about the destiny of children yet on born are going to be opening in the supernatural realm, and men will be given access to see those scroll and inspiration to write will begin rest on them to write it down now and when the generations involved landed on earth, divine direction will lead them to that books",
+
+      "Get this, it is not only Jesus that is designed to be born by prophecy,  everyone ordain to carry out Gods agenda on earth is a child of prophecy and to every child of prophecy there is a book of prophecy",
+
+      "Some said bible is enough, those are religious voice ordain to silence the move of God that eyes has not seen, the move of God that ear has not hear and the move of God that has not enter into the heart of man",
+
+      "the evil of religion spirit is that they want what God has done in the part to repeat itself when God is saying I will do a new things, is a spirit that just love to stay with the old traditions, it is an enemy of a new move.",
+
+      "They want what ear has heard and what eyes has seen to be seen again when God is saying he want to do what eyes has not seen",
+
+      `1 Corinthians 2:9.
     “Eye has not seen, nor ear heard,
     Nor have entered into the heart of man
     The things which God has prepared for those who love Him.”`,
-    
-    "If you claim bible is enough,  show me from the bible how you will directly know that lagos is where God want you to be, but for Jesus he can see clearly how he will be born in Bethlehem, moved to Egypt,  raised in Nazareth and many more, it was prophetically and literally stated, that is why it become easy for christ to get direction",
-    
-    "And such as we saw what was writen concerning christ, there are liberary in heaven full of scroll written concerning us, just as men studied the prophecy about jesus and wait for it, so also men should be studying about prophecy writen concerning us and be waiting for it hopefully it will come to pass in their time.",
-    
-    "David was able to see this and he said all my members was written in your books , he wasn't talking about bible,", 
-    
-    "Psalm 139:16-17. “All the days ordained for me were written in your book before one of them came to be.",
-    
-    "And this book of prophecy become posible if men can begin to learn to stand at the supernatural and see into the natural, because what is future here is past there.",
-    
-    `So using the word "Above" to explain supernatural become what is difficult for man to capture the position of the supernatural.`,
-    
-    `The word "Above" in the spirit realm is different from the word Above in the natural realm.`,
-    
-    "In the natural the word Above is in terms of height, like two story buildings for instance whereby the second floor is above the first floor.",
-    
-    "But in the Spirit, Time is what is use to explan Above.",
-    
-    "Like today now is above yesterday why tomorrow is above today.",
-    
-    "So when you stand in the supernatural you begin to see what we count as future in the nature to be past in the supernatural.",
-    
-    "Because as far as this natural realm is concerned, there is nothing that will happen to those in the supernatural by surprise, they see everything as what has happened,",
-    
-    "So when you stand in that realm you speak as if you are talking about history, like what has happened and when what you think is history enter into the natural it become future and prophecy.",
-    
-    "That was why when Isaiah was given the prophecy about Jesus he wasn't given prophecy as what will happen, he talked as though it has happened.",
-    
-    `Isaiah 9:6
+
+      "If you claim bible is enough,  show me from the bible how you will directly know that lagos is where God want you to be, but for Jesus he can see clearly how he will be born in Bethlehem, moved to Egypt,  raised in Nazareth and many more, it was prophetically and literally stated, that is why it become easy for christ to get direction",
+
+      "And such as we saw what was writen concerning christ, there are liberary in heaven full of scroll written concerning us, just as men studied the prophecy about jesus and wait for it, so also men should be studying about prophecy writen concerning us and be waiting for it hopefully it will come to pass in their time.",
+
+      "David was able to see this and he said all my members was written in your books , he wasn't talking about bible,",
+
+      "Psalm 139:16-17. “All the days ordained for me were written in your book before one of them came to be.",
+
+      "And this book of prophecy become posible if men can begin to learn to stand at the supernatural and see into the natural, because what is future here is past there.",
+
+      `So using the word "Above" to explain supernatural become what is difficult for man to capture the position of the supernatural.`,
+
+      `The word "Above" in the spirit realm is different from the word Above in the natural realm.`,
+
+      "In the natural the word Above is in terms of height, like two story buildings for instance whereby the second floor is above the first floor.",
+
+      "But in the Spirit, Time is what is use to explan Above.",
+
+      "Like today now is above yesterday why tomorrow is above today.",
+
+      "So when you stand in the supernatural you begin to see what we count as future in the nature to be past in the supernatural.",
+
+      "Because as far as this natural realm is concerned, there is nothing that will happen to those in the supernatural by surprise, they see everything as what has happened,",
+
+      "So when you stand in that realm you speak as if you are talking about history, like what has happened and when what you think is history enter into the natural it become future and prophecy.",
+
+      "That was why when Isaiah was given the prophecy about Jesus he wasn't given prophecy as what will happen, he talked as though it has happened.",
+
+      `Isaiah 9:6
     For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.`,
-    
-    "By his stripes we are healed, not will shall be heal.",
-    
-    `Isaiah 53:5 
+
+      "By his stripes we are healed, not will shall be heal.",
+
+      `Isaiah 53:5 
     But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.`,
-    
-    "He never said a time is coming that unto us a child will be born",
-    
-    "He said unto us a child is born and unto us a son is given.",
-    
-    "He was speaking as though it has taken place whereas it is in the Future.",
-    
-    "That is why when you see a man who speak Truth as someone speaking from the supernatural, it will take the help of the Holy Spirit to understand what he is saying.",
-    
-    "You can't understand the prophecy until it has come to fulfilment.Not all this prediction we are seeing every where which they tag to be prophecy.",
-    
-    "You can never understand true prophecy if it has not come to pass, except the Holy Spirit interpret it to you.",
-    
-    "Can't you see the book of Revelation, we are still struggling to understand many things written in it.",
-    
-    "Some of it will only be understood by those that will be alive after the last rapture.",
-    
-    "If you give a prophecy and a natural man can understand what you are saying, what you give is just prediction not prophecy.",
-    
-    "Because when you stand in the supernatural to speak, you speak what will happen as though it has happen.",
-    
-    "It will look as though you are watching history.",
-    
-    "Because you are standing at the end of the Natural, so you see the end of everything already.",
-    
-    "The greatest weakness of a natural man is that he doesn't know tomorrow, and the greatest strength of a supernatural man is that he stand in the realm above tomorrow and see what you call tomorrow as yesterday.",
-    
-    "It is the ability to tap into the ability of the world to come, and begin to manifest it in this world.",
-    
-    "Get this, we believers are designed to be strange beings, a realm is opened to us called the world to come, just imagine God Opening the door of the world to come for you to tap into the resources available in that realm to handle situations and solve problems in this present world.",
-    
-    "That is why we have different Heavens and those Heavens are above each other.",
-    
-    "For instance if you stand in the second heaven now known as the supernatural, in that realm there are Angels, it is a realm of the angelic but if you stand in the third heaven which is the realm of some heavenly beings which are not Angels like the 24 elders you can also begin to see into the future of the Angels",
-    
-    "That is you can also prophesy to Angels because you are now standing in the realm that is far above the angelic realm",
-    
-    "Because just as supernatural realm begin from where natural realm end so also there is a realm that begin where supernatural realm ended.",
-    
-    "That realm also there is a realm that begins where that realm ended, and that is how it happens until the many Heavens.",
-    
-    "I think you can now understand the meaning of eternity, and eternal life that is in you.",
-    
-    "It means at the time that even the supernatural realm will be coming to an end when angels are going to be judged also you will be available to witness and still be much in existence.",
-    
-    "When the third heaven also will be coming to an end you will also be in existence.",
-    
-    "Because time has not begin yet in the supernatural realm, it is still a timeless realm now, but once this natural realm come to an end, day one begins in the supernatural realm.",
-    
-    "Because just as there will be a new Earth so also there will be a new Heaven.", 
-    
-    "Because the old heaven will also pas away.",
-    
-    `2 Peter 3:10
+
+      "He never said a time is coming that unto us a child will be born",
+
+      "He said unto us a child is born and unto us a son is given.",
+
+      "He was speaking as though it has taken place whereas it is in the Future.",
+
+      "That is why when you see a man who speak Truth as someone speaking from the supernatural, it will take the help of the Holy Spirit to understand what he is saying.",
+
+      "You can't understand the prophecy until it has come to fulfilment.Not all this prediction we are seeing every where which they tag to be prophecy.",
+
+      "You can never understand true prophecy if it has not come to pass, except the Holy Spirit interpret it to you.",
+
+      "Can't you see the book of Revelation, we are still struggling to understand many things written in it.",
+
+      "Some of it will only be understood by those that will be alive after the last rapture.",
+
+      "If you give a prophecy and a natural man can understand what you are saying, what you give is just prediction not prophecy.",
+
+      "Because when you stand in the supernatural to speak, you speak what will happen as though it has happen.",
+
+      "It will look as though you are watching history.",
+
+      "Because you are standing at the end of the Natural, so you see the end of everything already.",
+
+      "The greatest weakness of a natural man is that he doesn't know tomorrow, and the greatest strength of a supernatural man is that he stand in the realm above tomorrow and see what you call tomorrow as yesterday.",
+
+      "It is the ability to tap into the ability of the world to come, and begin to manifest it in this world.",
+
+      "Get this, we believers are designed to be strange beings, a realm is opened to us called the world to come, just imagine God Opening the door of the world to come for you to tap into the resources available in that realm to handle situations and solve problems in this present world.",
+
+      "That is why we have different Heavens and those Heavens are above each other.",
+
+      "For instance if you stand in the second heaven now known as the supernatural, in that realm there are Angels, it is a realm of the angelic but if you stand in the third heaven which is the realm of some heavenly beings which are not Angels like the 24 elders you can also begin to see into the future of the Angels",
+
+      "That is you can also prophesy to Angels because you are now standing in the realm that is far above the angelic realm",
+
+      "Because just as supernatural realm begin from where natural realm end so also there is a realm that begin where supernatural realm ended.",
+
+      "That realm also there is a realm that begins where that realm ended, and that is how it happens until the many Heavens.",
+
+      "I think you can now understand the meaning of eternity, and eternal life that is in you.",
+
+      "It means at the time that even the supernatural realm will be coming to an end when angels are going to be judged also you will be available to witness and still be much in existence.",
+
+      "When the third heaven also will be coming to an end you will also be in existence.",
+
+      "Because time has not begin yet in the supernatural realm, it is still a timeless realm now, but once this natural realm come to an end, day one begins in the supernatural realm.",
+
+      "Because just as there will be a new Earth so also there will be a new Heaven.",
+
+      "Because the old heaven will also pas away.",
+
+      `2 Peter 3:10
     But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up.`,
-    
-    `Revelation 21:1 All Things Made New
+
+      `Revelation 21:1 All Things Made New
     Now I saw a new heaven and a new earth, for the first heaven and the first earth had passed away. Also there was no more sea.`,
-    
-    "Mind you they are not going to pass away at the same time this Earth will pass away.",
-    
-    "John wrote them as if it is going to be an event that will happen at the same time, it is because John was standing in a realm where he saw the end of the supernatural also." ,
-    
-    "Because there was an invitation for him to come up hither.",
-    
-    `Revelation 4:1
+
+      "Mind you they are not going to pass away at the same time this Earth will pass away.",
+
+      "John wrote them as if it is going to be an event that will happen at the same time, it is because John was standing in a realm where he saw the end of the supernatural also.",
+
+      "Because there was an invitation for him to come up hither.",
+
+      `Revelation 4:1
     After this I looked, and, behold, a door was opened in heaven: and the first voice which I heard was as it were of a trumpet talking with me; which said, Come up hither, and I will shew thee things which must be hereafter.`,
-    
-    "Before he was Invited to come up hither he was still busy writing to the seven churches, he was still busy correcting the body of Christ, as some are busy doing now.",
-    
-    "But when he entered into another realm, he doesn't have time for those ones again, he was not only one seeing the end of the natural, he also began to see the end of the supernatural.",
-    
-    "He was not only seeing the end of man, he was also seeing the end of angels, and seeing the end of the devil.",
-    
-    "He saw that Satan will be bound for 1000 years and after that again he begin to see what will happen.",
-    
-  `Revelation 20:1
+
+      "Before he was Invited to come up hither he was still busy writing to the seven churches, he was still busy correcting the body of Christ, as some are busy doing now.",
+
+      "But when he entered into another realm, he doesn't have time for those ones again, he was not only one seeing the end of the natural, he also began to see the end of the supernatural.",
+
+      "He was not only seeing the end of man, he was also seeing the end of angels, and seeing the end of the devil.",
+
+      "He saw that Satan will be bound for 1000 years and after that again he begin to see what will happen.",
+
+      `Revelation 20:1
     And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand.`,
-    
-    "2 And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,",
-    
-    "He saw the end of the natural, also saw the end of the supernatural, just imagine john given prophecy to the devil also, because devil himself got to know this about himself through john that he will be captured and throw into the bottomless pit.",
-    
-    "If you can see the end of the natural, then you are a prophet to the natural, and if you can see into the end of the supernatural that is you become a prophet to the angels.",
-    
-    "And God's plan for we the children of God is not only to be the prophet to men but to also be the prophet to the angels.",
-    
-    "That is, angels now stand in the supernatural they can know the end of man, they know our future, but there is a realm also we can stand, which is the third Heaven and in that realm we can know the future of the angels and also begin to tell them.",
-    
-    "That is why the scriptures say the manifold wisdom of God shall be made known to the Angels.",
-    
-    `Ephesians 3:10
+
+      "2 And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,",
+
+      "He saw the end of the natural, also saw the end of the supernatural, just imagine john given prophecy to the devil also, because devil himself got to know this about himself through john that he will be captured and throw into the bottomless pit.",
+
+      "If you can see the end of the natural, then you are a prophet to the natural, and if you can see into the end of the supernatural that is you become a prophet to the angels.",
+
+      "And God's plan for we the children of God is not only to be the prophet to men but to also be the prophet to the angels.",
+
+      "That is, angels now stand in the supernatural they can know the end of man, they know our future, but there is a realm also we can stand, which is the third Heaven and in that realm we can know the future of the angels and also begin to tell them.",
+
+      "That is why the scriptures say the manifold wisdom of God shall be made known to the Angels.",
+
+      `Ephesians 3:10
     To the intent that now unto the principalities and powers in heavenly places might be known by the church the manifold wisdom of God`,
-    
-    "Meaning, we are to give word of knowledge to angels also.",
-    
-    "We have access to a place that is far above where they stand and dwell." ,
-    
-    "If the scripture say Christ is sitted far above all Heavens.",
-    
-    "Ephesians 4:10 He who descended is also the One who ascended far above all the heavens, that He might fill all things.)",
-    
-    "And the scripture say we are sitted with him, it means we have access to a realm that is far above the heaven",
-    
-    "Where we didn't see alone the end of the race of man but we see the end of the race of the angels.",
-    
-    "We can have access to the heavenly and also have access to the realm that is far above all the heavenly places.", 
-    
-    "It is a realm of the God's family, if you are not part of God's family you are not permitted to be there.",
-    
-    "And once we are born again that realm is available for us, because we are now part of Godhead ( if is a realm of God and his children)",
+
+      "Meaning, we are to give word of knowledge to angels also.",
+
+      "We have access to a place that is far above where they stand and dwell.",
+
+      "If the scripture say Christ is sitted far above all Heavens.",
+
+      "Ephesians 4:10 He who descended is also the One who ascended far above all the heavens, that He might fill all things.)",
+
+      "And the scripture say we are sitted with him, it means we have access to a realm that is far above the heaven",
+
+      "Where we didn't see alone the end of the race of man but we see the end of the race of the angels.",
+
+      "We can have access to the heavenly and also have access to the realm that is far above all the heavenly places.",
+
+      "It is a realm of the God's family, if you are not part of God's family you are not permitted to be there.",
+
+      "And once we are born again that realm is available for us, because we are now part of Godhead ( if is a realm of God and his children)",
     ],
   },
   {
@@ -3354,209 +3350,208 @@ He who receives a prophet in the name of a prophet shall receive a prophet’s r
       `Ephesians 4
 10He Who descended is the [very] same as He Who also has ascended high above all the heavens, that He [His presence] might fill all things (the whole universe, from the lowest to the highest).`,
 
-"When you look at this scripture, you will know that there is nothing in life you need that you lack, there are many things you have that you just don't know.",
+      "When you look at this scripture, you will know that there is nothing in life you need that you lack, there are many things you have that you just don't know.",
 
-"The scripture says and Christ descended and he ascended again that he might fill all things.",
+      "The scripture says and Christ descended and he ascended again that he might fill all things.",
 
-"Ephesians 4:10 He who descended is also the One who ascended far above all the heavens, that He might fill all things.)",
+      "Ephesians 4:10 He who descended is also the One who ascended far above all the heavens, that He might fill all things.)",
 
-"Meaning, as far as heaven is concerned now, everyone is already filled with the holy ghost.",
+      "Meaning, as far as heaven is concerned now, everyone is already filled with the holy ghost.",
 
-"Because when he first descended, he descended as Jesus of Nazareth and when he ascended, he ascended has Christ and when he descended again he descended as spirit, because the Lord is that Spirit",
+      "Because when he first descended, he descended as Jesus of Nazareth and when he ascended, he ascended has Christ and when he descended again he descended as spirit, because the Lord is that Spirit",
 
-"2 Corinthians 3:17 Now the Lord is the Spirit; and where the Spirit of the Lord is, there is liberty.",
+      "2 Corinthians 3:17 Now the Lord is the Spirit; and where the Spirit of the Lord is, there is liberty.",
 
-"And the scripture now say that he descended that he might fill all things.",
+      "And the scripture now say that he descended that he might fill all things.",
 
-"So you only look at Peter and say peter was filled with the holy ghost.", 
+      "So you only look at Peter and say peter was filled with the holy ghost.",
 
-`NKJV, The Acts 4:8
+      `NKJV, The Acts 4:8
 Then Peter, filled with the Holy Spirit, said to them, “Rulers of the people and elders of Israel:`,
 
-"I tell you today that it is not only Peter that was filled with the holy ghost, all things were filled with the holy ghost. Once you are born again you are filled with the holy ghost.",
+      "I tell you today that it is not only Peter that was filled with the holy ghost, all things were filled with the holy ghost. Once you are born again you are filled with the holy ghost.",
 
-"In fact, all the stones and trees were filled with the holy ghost.... the scripture say that he might filled all things", 
+      "In fact, all the stones and trees were filled with the holy ghost.... the scripture say that he might filled all things",
 
-"The descending of the holy ghost is not only to fill all people but to fill all things.",
+      "The descending of the holy ghost is not only to fill all people but to fill all things.",
 
-"Look at the scripture again...",
+      "Look at the scripture again...",
 
-`Ephesians 4
+      `Ephesians 4
 10He Who descended is the [very] same as He Who also has ascended high above all the heavens, that He [His presence] might fill all things (the whole universe, from the lowest to the highest).`,
 
-"So once you are born again, you are filled with the holy ghost already.",
+      "So once you are born again, you are filled with the holy ghost already.",
 
-"Not that you are looking for means to be filled with the holy ghost, not that you are looking for men of God to fill you with the holy ghost, but you are filled with the holy ghost already.",
+      "Not that you are looking for means to be filled with the holy ghost, not that you are looking for men of God to fill you with the holy ghost, but you are filled with the holy ghost already.",
 
-"You only need men of God and teaching that will open the eyes of your understanding to see this.",
+      "You only need men of God and teaching that will open the eyes of your understanding to see this.",
 
-"It is a reality that you are filled with the holy ghost.",
+      "It is a reality that you are filled with the holy ghost.",
 
-"It is not something you receive by faith, the faith of Jesus has made you receive it already, you only need the right revelational knowledge to manifest it.",
+      "It is not something you receive by faith, the faith of Jesus has made you receive it already, you only need the right revelational knowledge to manifest it.",
 
-"The only thing we need that we lack in the body of Christ is revelational knowledge that will open the eyes of our understanding to see what we have that we don't know.",
+      "The only thing we need that we lack in the body of Christ is revelational knowledge that will open the eyes of our understanding to see what we have that we don't know.",
 
-"And this is the assignment of the Holy spirit we receive",
+      "And this is the assignment of the Holy spirit we receive",
 
-"1 Corinthians 2:12 Now we have received, not the spirit of the world, but the Spirit who is from God, that we might know the things that have been freely given to us by God.",
+      "1 Corinthians 2:12 Now we have received, not the spirit of the world, but the Spirit who is from God, that we might know the things that have been freely given to us by God.",
 
-`Look at the purpose why you have Holy ghost,...." that you might know the things that has been freely given to you by God" not that you might know the things that will be freely given to you by God, but the things that have been freely given already`,
+      `Look at the purpose why you have Holy ghost,...." that you might know the things that has been freely given to you by God" not that you might know the things that will be freely given to you by God, but the things that have been freely given already`,
 
-"There is nothing again that you lack, show me what you claim you lack and I will show you from the scripture that you have them already.", 
+      "There is nothing again that you lack, show me what you claim you lack and I will show you from the scripture that you have them already.",
 
-"That you are not seeing the manifestation doesn't mean you lack them.", 
+      "That you are not seeing the manifestation doesn't mean you lack them.",
 
-"That is why the creatures are waiting to see the manifestation of the sons of God because they know the sons of God have everything already, but the sons didn't just manifest anything.. and why? They lack the light of the holy ghost.",
+      "That is why the creatures are waiting to see the manifestation of the sons of God because they know the sons of God have everything already, but the sons didn't just manifest anything.. and why? They lack the light of the holy ghost.",
 
-"Instead of them to be seeking for the light of the holy ghost they are busy seeking the for the power and fire of the holy ghost, they don't know that they have the power in them already, they only need the light that will make the power and fire in them to break out.",
+      "Instead of them to be seeking for the light of the holy ghost they are busy seeking the for the power and fire of the holy ghost, they don't know that they have the power in them already, they only need the light that will make the power and fire in them to break out.",
 
-"When the scripture begins to talk about the reality of the heir who is still a child in the scripture, he said even though the heir is the lord of all.",
+      "When the scripture begins to talk about the reality of the heir who is still a child in the scripture, he said even though the heir is the lord of all.",
 
-"Galatians 4:1 Now I say that the heir, as long as he is a child, does not differ at all from a slave, though he is lord of all,",
+      "Galatians 4:1 Now I say that the heir, as long as he is a child, does not differ at all from a slave, though he is lord of all,",
 
-`The word "Lord" means owner, that is someone that owns everything but yet we never see anything manifesting in their life.`,
+      `The word "Lord" means owner, that is someone that owns everything but yet we never see anything manifesting in their life.`,
 
-"The question is why? As long as the heir is still a child, he is not different from the slave even though he has been filled with the holy ghost, he will not see the manifestation.",
+      "The question is why? As long as the heir is still a child, he is not different from the slave even though he has been filled with the holy ghost, he will not see the manifestation.",
 
-"No matter how much the son fast and prays, he will not see the manifestation of what he has.",
+      "No matter how much the son fast and prays, he will not see the manifestation of what he has.",
 
-"Because once you are born again, all things you have are tied to spiritual maturity.", 
+      "Because once you are born again, all things you have are tied to spiritual maturity.",
 
-"That is why all you need is spiritual food that will grow your spirit.",
+      "That is why all you need is spiritual food that will grow your spirit.",
 
-"You need heavenly information that will grow your spirit.",
+      "You need heavenly information that will grow your spirit.",
 
-"In fact, it is not your mind you develop,  it is your spirit you grow, all you need is the growth of your spirit, I have said that your spirit has all the information needed for your mind to develop",
+      "In fact, it is not your mind you develop,  it is your spirit you grow, all you need is the growth of your spirit, I have said that your spirit has all the information needed for your mind to develop",
 
-"That is why the scripture never says if you want to grow your mind listen to messages, he said if you want to grow your mind, it is through renewal of mind.",
+      "That is why the scripture never says if you want to grow your mind listen to messages, he said if you want to grow your mind, it is through renewal of mind.",
 
-"Romans 12:2 And do not be conformed to this world, but be transformed by the renewing of your mind, that you may prove what is that good and acceptable and perfect will of God.",
+      "Romans 12:2 And do not be conformed to this world, but be transformed by the renewing of your mind, that you may prove what is that good and acceptable and perfect will of God.",
 
-"And renewal of mind happens when your mind sits under your spirit and your spirit begins to educate your mind, you may call it meditation. Your mind can never be renewed by information you receive from external, any information you receive in your mind  that is not your spirit that teach and educate your mind, is what the scripture refers to as stronghold and you must learn to use the knowledge of the word of God to pull it down.",
+      "And renewal of mind happens when your mind sits under your spirit and your spirit begins to educate your mind, you may call it meditation. Your mind can never be renewed by information you receive from external, any information you receive in your mind  that is not your spirit that teach and educate your mind, is what the scripture refers to as stronghold and you must learn to use the knowledge of the word of God to pull it down.",
 
-"The only knowledge that your spirit needs from external is interpretation of scripture and as your spirit begins to grow, he will begin to educate your mind and step to take in life and decisions to make in life.",
+      "The only knowledge that your spirit needs from external is interpretation of scripture and as your spirit begins to grow, he will begin to educate your mind and step to take in life and decisions to make in life.",
 
-"Spiritual maturity is not based on your mind development, it is based on your spirit development.", 
+      "Spiritual maturity is not based on your mind development, it is based on your spirit development.",
 
-"In the physical, your mind development is a proof of  maturity but in the realm of the spirit, your spirit development is the proof of spiritual maturity in the sight of God and upon this dimension you receive your inheritance.",
+      "In the physical, your mind development is a proof of  maturity but in the realm of the spirit, your spirit development is the proof of spiritual maturity in the sight of God and upon this dimension you receive your inheritance.",
 
-"You don't receive inheritance because your mind is developed, you receive inheritance because your spirit is developed, God doesn't need the development of your mind, mind development is an hindrance to faith journey ,God want your mind to be renew and narrow, narrow in  the sense that your mind you only be filled with the knowledge of Gods will in all spiritual wisdom and understanding received from your spirit.",
+      "You don't receive inheritance because your mind is developed, you receive inheritance because your spirit is developed, God doesn't need the development of your mind, mind development is an hindrance to faith journey ,God want your mind to be renew and narrow, narrow in  the sense that your mind you only be filled with the knowledge of Gods will in all spiritual wisdom and understanding received from your spirit.",
 
-`Colossians 1:9.
+      `Colossians 1:9.
 For this reason we also, since the day we heard it, do not cease to pray for you, and to ask that you may be filled with the knowledge of His will in all wisdom and spiritual understanding;`,
 
-"If you have not obtained your inheritance, may you be humble enough to accept that it is because you are heir who is still a child.",
+      "If you have not obtained your inheritance, may you be humble enough to accept that it is because you are heir who is still a child.",
 
-"Someone said what is my inheritance?",
+      "Someone said what is my inheritance?",
 
-"The answer is in Psalm 2:8",
+      "The answer is in Psalm 2:8",
 
-`Psalms 2:7-8
+      `Psalms 2:7-8
 [7]The king proclaims the lord’s decree: 
 “The lord said to me, ‘You are my son. 
     Today I have become your Father.
 [8]Only ask, and I will give you the nations as your inheritance, 
     the whole earth as your possession.`,
 
-"Can you now see why Galatians 4vs 1 said you are lord of all...",
+      "Can you now see why Galatians 4vs 1 said you are lord of all...",
 
-"Your father is the owner of all physical and material things you can think of and imagine on earth,  that is why the scripture says the Earth is the lord and the full",
+      "Your father is the owner of all physical and material things you can think of and imagine on earth,  that is why the scripture says the Earth is the lord and the full",
 
-`Psalms 24:1
+      `Psalms 24:1
 [1]The earth is the lord’s, and everything in it. The world and all its people belong to him.`,
 
-"And Gods plan is to give this earth and everything to you as inheritance.",
+      "And Gods plan is to give this earth and everything to you as inheritance.",
 
-"The only people that are not permitted to receive material things of this life as inheritance are the priest by calling, truly everyone born again are royal priesthood but not everyone are servant priesthood, a servant priesthood is different from a royal priesthood", 
+      "The only people that are not permitted to receive material things of this life as inheritance are the priest by calling, truly everyone born again are royal priesthood but not everyone are servant priesthood, a servant priesthood is different from a royal priesthood",
 
-"The servant priesthood are  those designed by God to be full time pastors, because just has  God denied them from physical inheritance in the land of cannan, same reality in the spirit ...",
+      "The servant priesthood are  those designed by God to be full time pastors, because just has  God denied them from physical inheritance in the land of cannan, same reality in the spirit ...",
 
-"Once you are Priest by calling, the scripture say the lord is your inheritance",
+      "Once you are Priest by calling, the scripture say the lord is your inheritance",
 
-`Deuteronomy 18:1.
+      `Deuteronomy 18:1.
 “The priests, the Levites—all the tribe of Levi—shall have no part nor inheritance with Israel; they shall eat the offerings of the Lord made by fire, and His portion.`,
 
-"Deuteronomy 18:2 Therefore they shall have no inheritance among their brethren; the Lord is their inheritance, as He said to them.",
+      "Deuteronomy 18:2 Therefore they shall have no inheritance among their brethren; the Lord is their inheritance, as He said to them.",
 
-"And the fact is that if you are  truly called into priesthood assignment,  you can never suffer in life, you may suffer for some season but you can never suffer for life",
+      "And the fact is that if you are  truly called into priesthood assignment,  you can never suffer in life, you may suffer for some season but you can never suffer for life",
 
-"Those that your grace is impacting will not allow you to suffer, as God is using you to minister to them in spiritual things, God will surely use them to minister to you in material things, without you beging them", 
+      "Those that your grace is impacting will not allow you to suffer, as God is using you to minister to them in spiritual things, God will surely use them to minister to you in material things, without you beging them",
 
-"This is the scripture that captured the reality of how material blessings are to come to we full time pastors.",
+      "This is the scripture that captured the reality of how material blessings are to come to we full time pastors.",
 
-"1 Corinthians 9:11 If we have sown spiritual things for you, is it a great thing if we reap your material things?",
+      "1 Corinthians 9:11 If we have sown spiritual things for you, is it a great thing if we reap your material things?",
 
-"1 Corinthians 9:13 Do you not know that those who minister the holy things eat of the things of the temple, and those who serve at the altar partake of the offerings of the altar?",
+      "1 Corinthians 9:13 Do you not know that those who minister the holy things eat of the things of the temple, and those who serve at the altar partake of the offerings of the altar?",
 
-"1 Corinthians 9:14 Even so the Lord has commanded that those who preach the gospel should live from the gospel.",
+      "1 Corinthians 9:14 Even so the Lord has commanded that those who preach the gospel should live from the gospel.",
 
-"Galatians 6:6 also testify to that.",
+      "Galatians 6:6 also testify to that.",
 
-"NKJV, Galatians 6:6 Let him who is taught the word share in all good things with him who teaches.",
+      "NKJV, Galatians 6:6 Let him who is taught the word share in all good things with him who teaches.",
 
-"But for the material things of this life, God want to give it to you as inheritance",
+      "But for the material things of this life, God want to give it to you as inheritance",
 
-"Someone said but the children of darkness are in possession of them and yet they are not sons, yes sir, they are in possession of them because the heirs are still a child.",
+      "Someone said but the children of darkness are in possession of them and yet they are not sons, yes sir, they are in possession of them because the heirs are still a child.",
 
-"It is like when you the father hand over the properties of the house to your house maid because you are going on 2 days journey  just because your son is just 2 years old", 
+      "It is like when you the father hand over the properties of the house to your house maid because you are going on 2 days journey  just because your son is just 2 years old",
 
-"So you kept your son under the house maid and handover everything in the house to the house maid, even though your child is the heir, but as long as he is a child he is not different from slave, not in identity but in access, even though he is the lord of all",
+      "So you kept your son under the house maid and handover everything in the house to the house maid, even though your child is the heir, but as long as he is a child he is not different from slave, not in identity but in access, even though he is the lord of all",
 
-"This is the mystery  why you see unrighteous in high places and the children of God in low places, it is because they are child, they remain in high places as long as we remain a child, as long as we refuse to grow.",
+      "This is the mystery  why you see unrighteous in high places and the children of God in low places, it is because they are child, they remain in high places as long as we remain a child, as long as we refuse to grow.",
 
-"when your spirit grow, a law will begin to be automatically working in you and for you which is the law of wealth trasfer from the children of the house maid to your hand the sons of the owner.",
+      "when your spirit grow, a law will begin to be automatically working in you and for you which is the law of wealth trasfer from the children of the house maid to your hand the sons of the owner.",
 
-"When you see any rich man who is not born again just know that you are the lord of all he possess, the earth is of the lord, meaning your father is the owner of everything in his hand, God helps it with them for you because your spirit is still a child", 
+      "When you see any rich man who is not born again just know that you are the lord of all he possess, the earth is of the lord, meaning your father is the owner of everything in his hand, God helps it with them for you because your spirit is still a child",
 
-"That is why the scripture says you shall inherit the wealth of the gentiles.",
+      "That is why the scripture says you shall inherit the wealth of the gentiles.",
 
-"If you have not seen this law working in you as a son may you be humble enough to accept that it is because you are heir who is stil a child.",
+      "If you have not seen this law working in you as a son may you be humble enough to accept that it is because you are heir who is stil a child.",
 
-"Show me anything you claim you lack aside from light and I will show you everything you have that you didn't know.",
+      "Show me anything you claim you lack aside from light and I will show you everything you have that you didn't know.",
 
-"I just show you now that everything has been filled, you are filled with the holy ghost already you are not waiting for it, you don't tarry for it.",
+      "I just show you now that everything has been filled, you are filled with the holy ghost already you are not waiting for it, you don't tarry for it.",
 
-"If you are tarrying to be filled, it means you don't know what you have that you don't know.",
+      "If you are tarrying to be filled, it means you don't know what you have that you don't know.",
 
-"The scripture says all things have been filled already.",
+      "The scripture says all things have been filled already.",
 
-"If you don't have something already,  Jesus will not say out of your belly shall flow the river of living water.", 
+      "If you don't have something already,  Jesus will not say out of your belly shall flow the river of living water.",
 
-"John 7:38 He who believes in Me, as the Scripture has said, out of his heart will flow rivers of living water.”",
+      "John 7:38 He who believes in Me, as the Scripture has said, out of his heart will flow rivers of living water.”",
 
-"John 7:39 But this He spoke concerning the Spirit, whom those believing in Him would receive; for the Holy Spirit was not yet given, because Jesus was not yet glorified.",
+      "John 7:39 But this He spoke concerning the Spirit, whom those believing in Him would receive; for the Holy Spirit was not yet given, because Jesus was not yet glorified.",
 
-"The Apostles are the only one permitted to wait for it, because they Holy Ghost has not come, but for us we meet holy ghost on earth, the earth has been filled with him since the day of Pentecost, that is why Holy ghost doesn't come from heaven to rest upon us again, out of our belly shall flow rivers of living water.. and water is a symbol of the Holy Ghost",
+      "The Apostles are the only one permitted to wait for it, because they Holy Ghost has not come, but for us we meet holy ghost on earth, the earth has been filled with him since the day of Pentecost, that is why Holy ghost doesn't come from heaven to rest upon us again, out of our belly shall flow rivers of living water.. and water is a symbol of the Holy Ghost",
 
-"It is what you don't have already that you wait for, it is what is not with you that you tarry like the day of pentecost to wait.",
+      "It is what you don't have already that you wait for, it is what is not with you that you tarry like the day of pentecost to wait.",
 
-"They wait to receive, but beginning from the day of pentecost, we wait to manifest, we don't wait to receive we only wait to manifest.",
+      "They wait to receive, but beginning from the day of pentecost, we wait to manifest, we don't wait to receive we only wait to manifest.",
 
-"Because we have everything already and the scripture says it flows out of your belly that they follow out from.",
+      "Because we have everything already and the scripture says it flows out of your belly that they follow out from.",
 
-"Revelational knowledge in the new testament is like well, you have to dig it to bring out the water.", 
+      "Revelational knowledge in the new testament is like well, you have to dig it to bring out the water.",
 
-"And digging has to do with removing the soil blocking the surface, and the soil is your ignorance, what you have as knowledge that is not true knowledge is the soil you must dig out, it is called unlearning to relearn, and that is the most difficult things for man",
+      "And digging has to do with removing the soil blocking the surface, and the soil is your ignorance, what you have as knowledge that is not true knowledge is the soil you must dig out, it is called unlearning to relearn, and that is the most difficult things for man",
 
-"It is easy to teach someone who didn't know and accept he didn't know, but can be difficult to teach someone who no wrong things but thinks what he knows is the truth... they argue blindly",
+      "It is easy to teach someone who didn't know and accept he didn't know, but can be difficult to teach someone who no wrong things but thinks what he knows is the truth... they argue blindly",
 
-"So there are many wrong knowledge that have covered the glory and blessing of God in our spirit, all we need is to begin to use the light of the scripture to remove them.",
+      "So there are many wrong knowledge that have covered the glory and blessing of God in our spirit, all we need is to begin to use the light of the scripture to remove them.",
 
-"I repeat again, all you need is the LIGHT OF THE HOLY GHOST",
+      "I repeat again, all you need is the LIGHT OF THE HOLY GHOST",
 
-"the power of the holy ghost is in you already,  do you have christ in you? if yes then christ is the power and wisdom of God.",
+      "the power of the holy ghost is in you already,  do you have christ in you? if yes then christ is the power and wisdom of God.",
 
-"That is why the scripture said it is according to the power at work in you that God will use to solve your problem",
+      "That is why the scripture said it is according to the power at work in you that God will use to solve your problem",
 
-`Ephesians 3:20
+      `Ephesians 3:20
 [20]Now all glory to God, who is able, through his mighty power at work within us, to accomplish infinitely more than we might ask or think.`,
 
-"Jesus said you shall receive power after the holy ghost has come upon you and by Gods grace the Holy ghost has come and he has filled all things, you are filled with the holy ghost already meaning you have power already",
+      "Jesus said you shall receive power after the holy ghost has come upon you and by Gods grace the Holy ghost has come and he has filled all things, you are filled with the holy ghost already meaning you have power already",
 
-"All you need is the Light of the holy Ghost to manifest all that has been freely given to you that you didn't known .. SEEK LIGHT",
+      "All you need is the Light of the holy Ghost to manifest all that has been freely given to you that you didn't known .. SEEK LIGHT",
 
-"Because you are already filled with the Holy Ghost, you already have the power of the Holy Ghost, you only need the light of the Holy Ghost",
-
+      "Because you are already filled with the Holy Ghost, you already have the power of the Holy Ghost, you only need the light of the Holy Ghost",
     ],
   },
   {
@@ -3567,164 +3562,163 @@ For this reason we also, since the day we heard it, do not cease to pray for you
     content: [
       "Because of the wrong knowledge we were brought up with that didn't produce any supernatural result for us, so we now felt there is something we need aside from knowledge.",
 
-"It is like saying,  because you eat a food and the food is not working in your body and you claim there is something you need outside food, no sir it is not that food is not working, it is the kind of food you are eating that lack chemicals substances that can bring nutrients into your body",
+      "It is like saying,  because you eat a food and the food is not working in your body and you claim there is something you need outside food, no sir it is not that food is not working, it is the kind of food you are eating that lack chemicals substances that can bring nutrients into your body",
 
-"Same to knowledge, we felt there is more to knowledge, We now felt just as we need Knowledge, so also we need power, we don't know that all the power we need is already inside our spirit.",
+      "Same to knowledge, we felt there is more to knowledge, We now felt just as we need Knowledge, so also we need power, we don't know that all the power we need is already inside our spirit.",
 
-"We grow up under wrong knowledge that is why those knowledge cripple us rather than enabling us, the knowledge we grew up with become a padlock that close the channel of our spirit rather that becoming a keys of the kingdom that open the channels of our spirit and allow living water to flow out of our belly.",
+      "We grow up under wrong knowledge that is why those knowledge cripple us rather than enabling us, the knowledge we grew up with become a padlock that close the channel of our spirit rather that becoming a keys of the kingdom that open the channels of our spirit and allow living water to flow out of our belly.",
 
-"If a knowledge comes to you as light, it wake everything sleeping in you, power that is available in us already lacking revelational knowledge ( light) is like electrical equipment lacking a light from electricity",
+      "If a knowledge comes to you as light, it wake everything sleeping in you, power that is available in us already lacking revelational knowledge ( light) is like electrical equipment lacking a light from electricity",
 
-"Just as everything an electrical equipment need to works is inside the electrical equipment but needed a light from electricity to work, so also everything pertaining to your life and godliness is inside of you, but needed a light from revelational knowledge to work.",
+      "Just as everything an electrical equipment need to works is inside the electrical equipment but needed a light from electricity to work, so also everything pertaining to your life and godliness is inside of you, but needed a light from revelational knowledge to work.",
 
-"When a light from the Holy Ghost comes to you and you receive it as revelation, that is all you need.",
+      "When a light from the Holy Ghost comes to you and you receive it as revelation, that is all you need.",
 
-"What we claimed to be knowledge is not the light of the Holy Ghost, that is why it look as if we need another things with it, when a light is not from the holy ghost it can become religion in your hand and put you in bondage rather than set you free",
+      "What we claimed to be knowledge is not the light of the Holy Ghost, that is why it look as if we need another things with it, when a light is not from the holy ghost it can become religion in your hand and put you in bondage rather than set you free",
 
-"You now see people saying there's a place of prayer and there is a place of knowledge.",
+      "You now see people saying there's a place of prayer and there is a place of knowledge.",
 
-"Show me all the prayer points recommended for us in the scripture if it is not about knowledge.",
+      "Show me all the prayer points recommended for us in the scripture if it is not about knowledge.",
 
-"This scripture say if anyone lack wisdom let him pray.",
+      "This scripture say if anyone lack wisdom let him pray.",
 
-`James 1:5
+      `James 1:5
 If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.`,
 
-"Another scripture said;",
+      "Another scripture said;",
 
-`Colossians 1:9
+      `Colossians 1:9
 For this cause we also, since the day we heard it, do not cease to pray for you, and to desire that ye might be filled with the knowledge of his will in all wisdom and spiritual understanding;`,
 
-"This scripture say my prayer for you is that you should be filled with the knowledge of God will in all wisdom and understanding.",
+      "This scripture say my prayer for you is that you should be filled with the knowledge of God will in all wisdom and understanding.",
 
-"Look at another one again;",
+      "Look at another one again;",
 
-`Ephesians 1:17
+      `Ephesians 1:17
 That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:`,
 
-"This scripture say I pray that God will grant you the Spirit of wisdom and Revelation.",
+      "This scripture say I pray that God will grant you the Spirit of wisdom and Revelation.",
 
-"Here's another one;",
+      "Here's another one;",
 
-`2 Peter 1:3
+      `2 Peter 1:3
 According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue.`,
 
-"This scripture say all things pertaining to life and godliness as been given to you already but you see the manifestation of them through knowledge.",
+      "This scripture say all things pertaining to life and godliness as been given to you already but you see the manifestation of them through knowledge.",
 
-"Here's another one;",
+      "Here's another one;",
 
-`2 Peter 1:2
+      `2 Peter 1:2
 Grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord,`,
 
-"This scripture says Grace be multiplied to you through knowledge.",
+      "This scripture says Grace be multiplied to you through knowledge.",
 
-"Consider this scripture again;",
+      "Consider this scripture again;",
 
-`Jeremiah 33:3
+      `Jeremiah 33:3
 Call unto me, and I will answer thee, and shew thee great and mighty things, which thou knowest not.`,
 
-"This scripture say ask me in prayer and I will show you great and mighty things you didn't know.",
+      "This scripture say ask me in prayer and I will show you great and mighty things you didn't know.",
 
-"Here's what John said;",
+      "Here's what John said;",
 
-"John 8:32 And ye shall know the truth, and the truth shall make you free.",
+      "John 8:32 And ye shall know the truth, and the truth shall make you free.",
 
-"This scripture say you shall know the truth and the knowledge of the truth have the power to set you free.",
+      "This scripture say you shall know the truth and the knowledge of the truth have the power to set you free.",
 
-"Show me your prayer point, if it is not about knowledge, I can tell you that you are not praying at all, you are far from new testament prayer point,",
+      "Show me your prayer point, if it is not about knowledge, I can tell you that you are not praying at all, you are far from new testament prayer point,",
 
-"Because there is nothing you need that has not been given.",
+      "Because there is nothing you need that has not been given.",
 
-"Lack of revelational knowledge is what make you think there is place of knowledge, there's place of fasting and prayer.",
+      "Lack of revelational knowledge is what make you think there is place of knowledge, there's place of fasting and prayer.",
 
-"As long as new testament is concerned, if you are fasting and praying, you are fasting and praying for light, you are fasting and praying that the eyes of your understanding might be opened just like Daniel who go goes into fasting not for power  but to set his heart unto understanding",
+      "As long as new testament is concerned, if you are fasting and praying, you are fasting and praying for light, you are fasting and praying that the eyes of your understanding might be opened just like Daniel who go goes into fasting not for power  but to set his heart unto understanding",
 
-"Daniel 10:2 In those days I, Daniel, was mourning three full weeks",
+      "Daniel 10:2 In those days I, Daniel, was mourning three full weeks",
 
-"Daniel 10:3 I ate no pleasant food, no meat or wine came into my mouth, nor did I anoint myself at all, till three whole weeks were fulfilled.",
+      "Daniel 10:3 I ate no pleasant food, no meat or wine came into my mouth, nor did I anoint myself at all, till three whole weeks were fulfilled.",
 
-"Daniel 10:12 Then he said to me, “Do not fear, Daniel, for from the first day that you set your heart to understand, and to humble yourself before your God, your words were heard; and I have come because of your words.",
+      "Daniel 10:12 Then he said to me, “Do not fear, Daniel, for from the first day that you set your heart to understand, and to humble yourself before your God, your words were heard; and I have come because of your words.",
 
-"You can't be wiser than God that said with all thy getting get wisdom, and get understanding",
+      "You can't be wiser than God that said with all thy getting get wisdom, and get understanding",
 
-"Because we are blind, but we didn't know, the god of this world is doing a serious business and the business is to blind us.",
+      "Because we are blind, but we didn't know, the god of this world is doing a serious business and the business is to blind us.",
 
-"And the instrument he is using for the blindness is not ignorance, but wrong knowledge, false knowledge that appears to be truth but lack power to set you free.",
+      "And the instrument he is using for the blindness is not ignorance, but wrong knowledge, false knowledge that appears to be truth but lack power to set you free.",
 
-"So because what you know didn't solve any of your problems, you now felt there is more to knowledge, you now begin to think you must engage in much fasting for power.",
+      "So because what you know didn't solve any of your problems, you now felt there is more to knowledge, you now begin to think you must engage in much fasting for power.",
 
-"No sir, there is no more to knowledge, there is more in knowledge.",
+      "No sir, there is no more to knowledge, there is more in knowledge.",
 
-"Get this anywhere sacrifice is needed under the new covenant it mean knowledge is missing,",
+      "Get this anywhere sacrifice is needed under the new covenant it mean knowledge is missing,",
 
-"What you know is not light that is why it is not setting you free.",
+      "What you know is not light that is why it is not setting you free.",
 
-"What you know is not the light of the Holy Ghost that is why you are frustrated with it.",
+      "What you know is not the light of the Holy Ghost that is why you are frustrated with it.",
 
-"The new testament is a testament of light.",
+      "The new testament is a testament of light.",
 
-"Light is what bring every power in you into manifestation, we travel in the spirit realm on the wings of light.",
+      "Light is what bring every power in you into manifestation, we travel in the spirit realm on the wings of light.",
 
-"My advice for you is to seek for men called into the office of teacher they are the one that have the true knowledge for the mature , they are the one gifted with the light of the holy ghost",
+      "My advice for you is to seek for men called into the office of teacher they are the one that have the true knowledge for the mature , they are the one gifted with the light of the holy ghost",
 
-"The problem of many of us is that we are listening to those who teach because they know how to teach, rather than those who teach because they are called by God into teaching ministry.",
+      "The problem of many of us is that we are listening to those who teach because they know how to teach, rather than those who teach because they are called by God into teaching ministry.",
 
-"We don't do ministerial  in this kingdom because you know how to do it, you do it because you are called by God to do it", 
+      "We don't do ministerial  in this kingdom because you know how to do it, you do it because you are called by God to do it",
 
-"Once you know how to teach, you can be a teacher to baby Christians,  but once God called you into teaching ministry then your information become only for the mature",
+      "Once you know how to teach, you can be a teacher to baby Christians,  but once God called you into teaching ministry then your information become only for the mature",
 
-"That is why Paul said whenever we speak the hidden wisdom of God, we only speak it amongs the mature,",
+      "That is why Paul said whenever we speak the hidden wisdom of God, we only speak it amongs the mature,",
 
-`1 Corinthians 2:6 Spiritual Wisdom
+      `1 Corinthians 2:6 Spiritual Wisdom
 However, we speak wisdom among those who are mature, yet not the wisdom of this age, nor of the rulers of this age, who are coming to nothing.`,
 
-"1 Corinthians 2:7 But we speak the wisdom of God in a mystery, the hidden wisdom which God ordained before the ages for our glory,",
+      "1 Corinthians 2:7 But we speak the wisdom of God in a mystery, the hidden wisdom which God ordained before the ages for our glory,",
 
-"Mystery is not for babies Christians, that is why this Banjo Ayeka's DIARY devotional is not for babies, it is a deep designed to called unto deep,",
+      "Mystery is not for babies Christians, that is why this Banjo Ayeka's DIARY devotional is not for babies, it is a deep designed to called unto deep,",
 
-"That is why once you begin to climb the latter of spiritual maturity seek after those called into the office of a teacher, for that purpose they where raised by God.",
+      "That is why once you begin to climb the latter of spiritual maturity seek after those called into the office of a teacher, for that purpose they where raised by God.",
 
-"This is the difference between the office of a teacher and every other fivefold office, any office be it apostle, prophet, evangelist, pastor can teach, but not every office can teach the mature Christians",
+      "This is the difference between the office of a teacher and every other fivefold office, any office be it apostle, prophet, evangelist, pastor can teach, but not every office can teach the mature Christians",
 
-"Once you are called into the office of a teacher, your teaching are deep things of the kingdom that can only attract deep people,  it is a deep that only calleth unto deep, that is why the gift of the mystery of the kingdom are committed into the hand of those called into the office of a teacher.",
+      "Once you are called into the office of a teacher, your teaching are deep things of the kingdom that can only attract deep people,  it is a deep that only calleth unto deep, that is why the gift of the mystery of the kingdom are committed into the hand of those called into the office of a teacher.",
 
-"If you really want to feed on light seek after teachers , not those that can teach, but those called into the office of a teacher and anointed by God into such assignment",
+      "If you really want to feed on light seek after teachers , not those that can teach, but those called into the office of a teacher and anointed by God into such assignment",
 
-"Their messages is an iron that only designed to shappen others iron, it is for those that can crack strong bones",
+      "Their messages is an iron that only designed to shappen others iron, it is for those that can crack strong bones",
 
-"You can't listen to people like Myles Munroe,  and claim everything is not knowledge, sit down with his teaching and see how your heart will be flooded with light.",
+      "You can't listen to people like Myles Munroe,  and claim everything is not knowledge, sit down with his teaching and see how your heart will be flooded with light.",
 
-"The problem of many of us is that we don't know who to listen to.",
+      "The problem of many of us is that we don't know who to listen to.",
 
-"It is not first about what you need to know, it is first about who you need to know, know your teachers, anyone called to teach is gifted with the light of the Holy Ghost, there are angels of light working with their calling.",
+      "It is not first about what you need to know, it is first about who you need to know, know your teachers, anyone called to teach is gifted with the light of the Holy Ghost, there are angels of light working with their calling.",
 
-"And let them begin to use light to open your understanding to what you have that you didn't know.",
+      "And let them begin to use light to open your understanding to what you have that you didn't know.",
 
-"Because everything you need has been given.",
+      "Because everything you need has been given.",
 
-"Look at the scripture again;",
+      "Look at the scripture again;",
 
-`2 Peter 1:3
+      `2 Peter 1:3
 According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue:",
 
 "He said the power of God has given us all things pertaining to your life and godliness and he said you receive them true knowledge.`,
 
-"And some who doesn't know what knowledge is all about is telling you knowledge alone is not what you need.",
+      "And some who doesn't know what knowledge is all about is telling you knowledge alone is not what you need.",
 
-"Get this all you need is within you, and knowledge alone is the key to unlock all of them into manifestation.",
+      "Get this all you need is within you, and knowledge alone is the key to unlock all of them into manifestation.",
 
-"Show me what you need, and I will show you from the scripture that God has given them to you already ..... why are you not manifesting it? I will show you from scripture that all you need is light",
+      "Show me what you need, and I will show you from the scripture that God has given them to you already ..... why are you not manifesting it? I will show you from scripture that all you need is light",
 
-"When your light come, everything with you begin to rise and shine",
+      "When your light come, everything with you begin to rise and shine",
 
-"For the babies, law come through knowledge to them, but for the mature light come through knowledge to them",
+      "For the babies, law come through knowledge to them, but for the mature light come through knowledge to them",
 
-"All I need is to spend few minutes to listen to the knowledge you are given, if law is coming out of the knowledge, I know you are not for me, but if light is coming from the knowledge opening the eyes of my understanding, I know you are for me, your deep is calling upon the deep in me,",
+      "All I need is to spend few minutes to listen to the knowledge you are given, if law is coming out of the knowledge, I know you are not for me, but if light is coming from the knowledge opening the eyes of my understanding, I know you are for me, your deep is calling upon the deep in me,",
 
-"Many thought knowledge produce transformation why power produce manifestation, no sir , when light come through knowledge consistently into your life, the resultant effect is the manifestation of the power in you...",
+      "Many thought knowledge produce transformation why power produce manifestation, no sir , when light come through knowledge consistently into your life, the resultant effect is the manifestation of the power in you...",
 
-"With all thy getting get understanding....... your spiritual life depent on it",
-
+      "With all thy getting get understanding....... your spiritual life depent on it",
     ],
   },
 ];
