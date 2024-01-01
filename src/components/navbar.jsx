@@ -40,11 +40,11 @@ export const MyComponent = () => {
   const [show, setShow] = useState(false);
 
   return (
-    <nav className=" font-primary hero__gradient shadow-sky-950 border-b-2  shadow-sm z-30 fixed top-0 left-0 right-0 backdrop-blur-md ">
+    <nav className=" font-primary hero__gradient shadow-sky-950 border-b-2  shadow-sm z-30 fixed top-0 left-0 right-0 backdrop-blur-sm ">
       <div className="max-w-screen-xl mx-auto ">
         <div className="flex items-center gap-5 justify-between px-5 pr-9  ">
           <div>
-            <Link to="/">
+            <Link to="/#">
               <img src={pstBanjo} className="block max-w-[6rem]" />
             </Link>
           </div>

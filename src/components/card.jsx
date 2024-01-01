@@ -4,19 +4,23 @@ import { motion } from "framer-motion";
 
 const Card = ({ pages, intersection }) => {
   const reversedPages = [...pages].reverse(); // Create a copy of the array and reverse it
-  const slideIn = {
-    opacity: [0, 1],
-    scale: 1,
+  const variant = {
+    slideIn: {
+      opacity: [0, 1],
+      scale: 1,
+    },
   };
+
   return (
     <>
       {reversedPages.map((page, id) => (
         <motion.div
           initial={{ scale: 0 }}
-          whileInView={slideIn}
+          whileInView="slideIn"
           transition={{ duration: 0.2, delay: id * 0.01 }}
           viewport={intersection}
           key={page.id}
+          variants={variant}
           className="border p-4 m-4 cursor-pointer hover:bg-gray-100 mb-4 space-y-2"
         >
           <Link to={`/diary/${page.id}`}>

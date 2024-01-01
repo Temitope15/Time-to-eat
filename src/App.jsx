@@ -9,25 +9,26 @@ import Diary from "./pages/diary";
 import AboutBanjo from "./pages/about";
 import Contact from "./pages/contact";
 import Navbar from "./components/navbar";
-
-const App =() =>{
-  return(
+import BackToTop from "./components/BackToTop";
+import "./App.css";
+const App = () => {
+  return (
     <Router>
-        <Navbar/>
-        <Routes>
-          <Route path="/" element={<Home/>} />
-          <Route path="book-list" element={<BooksList/>}/>
-          <Route path="/book-list/:bookId" element={<BookDescription/>} />
-          <Route path="/diary" element={<Diary/>} />
-          <Route path="/about" element={<AboutBanjo />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/diary/:id/" element={<DiaryPages/>} />
-         
-          <Route path="*" element={<NotFound/>} />
-        </Routes>
-        <Footer/>
+      <Navbar />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="book-list" element={<BooksList />} />
+        <Route path="/book-list/:bookId" element={<BookDescription />} />
+        <Route path="/diary" element={<Diary />} />
+        <Route path="/about" element={<AboutBanjo />} />
+        <Route path="/contact" element={<Contact />} />
+        <Route path="/diary/:id/" element={<DiaryPages />} />
+
+        <Route path="*" element={<NotFound />} />
+      </Routes>
+      <Footer />
+      <BackToTop />
     </Router>
-  
-  )
-}
-export default App
+  );
+};
+export default App;

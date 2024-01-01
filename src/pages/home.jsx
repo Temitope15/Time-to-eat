@@ -38,12 +38,12 @@ const Home = () => {
               transition={{
                 duration: 1,
               }}
-              className="span"
+              className="span font-secondary"
             >
               {bookLibraryText}
             </motion.span>
           </h1>
-          <BooksLibrary books={slicedBooks} instersection={{ once: false }} />
+          <BooksLibrary books={slicedBooks} instersection={{ once: true }} />
           <ViewMore link="/book-list" text="Go to Library" />
         </div>
 
