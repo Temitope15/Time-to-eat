@@ -6,10 +6,10 @@ const Footer = () => {
   const d = new Date();
 
   return (
-    <div className="bg-blue-500 p-5 text-white text-center">
+    <div className="bg-blue-500 p-5 md:pl-10 text-white text-center">
       <div className=" flex items-center">
         <Link to="/">
-          <img src={Logo} className=" max-h-40 w-[16rem] " />
+          <img src={Logo} className=" max-h-40 w-[12rem] " />
         </Link>
 
         <div className=" mx-auto">
@@ -26,7 +26,7 @@ const Footer = () => {
           </ul>
         </div>
       </div>
-      <div className="flex justify-around items-center md:mt-[-0.9rem] mt-2">
+      <div className="flex justify-center gap-4 items-center md:mt-[-0.9rem] mt-2">
         {socialMedia.map((media, i) => (
           <div key={i}>
             <SocialMedia link={media.link} icon={media.icon} />
@@ -34,7 +34,7 @@ const Footer = () => {
         ))}
       </div>
       <div className="mt-4">
-        <p>copyright@{d.getFullYear()}</p>
+        <p>copyright ©{d.getFullYear()}</p>
       </div>
     </div>
   );

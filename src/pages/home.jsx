@@ -38,13 +38,13 @@ const Home = () => {
               transition={{
                 duration: 1,
               }}
-              className="span"
+              className="span font-secondary"
             >
               {bookLibraryText}
             </motion.span>
           </h1>
-          <BooksLibrary books={slicedBooks} instersection={{ once: false }} />
-          <ViewMore link="/book-list" text="Go to Library"/>
+          <BooksLibrary books={slicedBooks} instersection={{ once: true }} />
+          <ViewMore link="/book-list" text="Go to Library" />
         </div>
 
         <motion.div>
@@ -54,8 +54,8 @@ const Home = () => {
               <BsPenFill className="text-blue-500" />
               Latest on {currentBook}...
             </h1>
-            <Card pages={slicedDiary} />
-            <ViewMore text="Read previous pages" link="/diary"/>
+            <Card pages={slicedDiary} instersection={{ once: true }} />
+            <ViewMore text="Read previous pages" link="/diary" />
           </div>
           <AudioTeaching />
         </motion.div>
