@@ -280,7 +280,7 @@ export const banjoDiary = [
 
       "Luke 14:31-32",
       `Or what king would go to war against another king without first sitting down with his counselors to discuss whether his army of 10,000 could defeat the 20,000 soldiers marching against him?",
-"[32] And if he can’t, he will send a delegation to discuss terms of peace while the enemy is still far away`,
+     "[32] And if he can’t, he will send a delegation to discuss terms of peace while the enemy is still far away`,
 
       "Now the question is how can I discuss the terms and condition of peace while my enemies are still far away",
 
@@ -348,7 +348,7 @@ export const banjoDiary = [
       "Because what the word of God said is that if your way pleases the Lord, he will make your enemy to be at peace with you",
 
       `Proverbs 16:7 When a man’s ways please the Lord,
-He makes even his enemies to be at peace with him`,
+      He makes even his enemies to be at peace with him`,
 
       "How does Jesus overcome the devil? It is by surrendering his life to the devil to kill it, it is the mystery of negotiations, at the time the devil will come to Jesus, he couldn't find anything in him again because he had surrendered everything to him",
 
