@@ -2,9 +2,9 @@ import Card from "../components/card";
 import { banjoDiary } from "./../data/banjo-diary";
 const Diary = () => {
   return (
-    <>
-      <Card pages={banjoDiary} />
-    </>
+    <section className=" pt-24">
+      <Card pages={banjoDiary} instersection={{ once: true }} />
+    </section>
   );
 };
 

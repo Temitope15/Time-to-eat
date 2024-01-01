@@ -1,9 +1,11 @@
 const Contact = () => {
-    return ( <>
-        <div className="container">
-            <h1>Contact Us</h1>
-        </div>
-    </> );
-}
- 
+  return (
+    <>
+      <section className="pt-24">
+        <h1>Contact Us</h1>
+      </section>
+    </>
+  );
+};
+
 export default Contact;

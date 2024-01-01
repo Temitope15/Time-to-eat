@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 import SearchBox from "./SearchBox";
 import { motion, AnimatePresence, delay } from "framer-motion";
 
-function Navbar(showSearch = true) {
+function Navbar() {
   /*
 const variants = {
   open: { opacity: 1, x: 0 },
@@ -40,7 +40,7 @@ export const MyComponent = () => {
   const [show, setShow] = useState(false);
 
   return (
-    <nav className=" font-primary hero__gradient shadow-sky-950 border-b-2  shadow-sm z-30 fixed top-0 left-0 right-0 ">
+    <nav className=" font-primary hero__gradient shadow-sky-950 border-b-2  shadow-sm z-30 fixed top-0 left-0 right-0 backdrop-blur-md ">
       <div className="max-w-screen-xl mx-auto ">
         <div className="flex items-center gap-5 justify-between px-5 pr-9  ">
           <div>
@@ -49,7 +49,7 @@ export const MyComponent = () => {
             </Link>
           </div>
 
-          {showSearch ? <SearchBox /> : " "}
+          <SearchBox />
 
           <ul className="text-white flex gap-3 desktop__nav__links text-2xl max-lg:hidden ">
             <li className="  border-slate-500   hover:bg-yellow-500">
@@ -113,7 +113,11 @@ export const MyComponent = () => {
                   transition={{ delay: 0.2 }}
                   className="  border-slate-500 border-b-2 border-b-white hover:bg-yellow-500"
                 >
-                  <Link className="block pl-6 py-4" to={"/book-list"}>
+                  <Link
+                    className="block pl-6 py-4"
+                    to={"/book-list"}
+                    onClick={() => setShow((prev) => !prev)}
+                  >
                     Books
                   </Link>
                 </motion.li>
@@ -123,9 +127,13 @@ export const MyComponent = () => {
                   transition={{ delay: 0.4 }}
                   className="  border-slate-500  hover:bg-yellow-500"
                 >
-
-                  <Link className="block pl-6 py-4" to={"/about"}>About</Link>
-
+                  <Link
+                    className="block pl-6 py-4"
+                    to={"/about"}
+                    onClick={() => setShow((prev) => !prev)}
+                  >
+                    About
+                  </Link>
                 </motion.li>
               </motion.ul>
             </motion.div>

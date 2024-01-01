@@ -16,8 +16,11 @@ function Hero() {
     }}
   />
 */
-    <main className="hero__gradient py-8 px-2 pt-28 lg:pt-16 min-h-screen  text-white ">
-      <section className=" mx-auto md:flex md:justify-between md:items-center px-10 ">
+    <main
+      id="#"
+      className="hero__gradient py-8 px-2 pt-28 lg:pt-14 text-white "
+    >
+      <section className=" mx-auto md:flex md:justify-between  min-h-min md:items-center px-10 ">
         <motion.div
           className="opacity-0"
           animate={{
@@ -31,9 +34,7 @@ function Hero() {
         >
           <h2 className="relative text-5xl font-semibold  text-center font-secondary md:text-start  lg:text-6xl ">
             <span>Grow up Spriritually</span> <br />{" "}
-            <span className=" inline-block leading-none  font-tertiary">
-              with
-            </span>{" "}
+            <span className=" inline-block leading-none">with</span>{" "}
             <span className="font-secondary text-yellow-400">
               Pastor Banjo's <br />
               Spiritual books.
@@ -60,7 +61,7 @@ function Hero() {
               delay: 1,
               duration: 0.5,
             }}
-            className="text-center -m-2 pl-2 gap-3 text-2xl flex items-center  text-yellow-400 md:pl-2"
+            className="text-center -m-2 pl-2 gap-2 text-2xl flex items-center  text-yellow-400 md:pl-2"
           >
             {" "}
             <span>

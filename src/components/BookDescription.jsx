@@ -10,7 +10,6 @@ function BookDescription() {
 
   return (
     <div className="bg-yellow-100  min-h-screen">
-      <Navbar />
       <section className="py-28">
         {books?.map((e) => {
           if (
