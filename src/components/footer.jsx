@@ -6,7 +6,7 @@ const Footer = () => {
   const d = new Date();
 
   return (
-    <div className="bg-blue-500 p-5 md:pl-10 text-white text-center">
+    <div className="hero__gradient p-5 md:pl-10 text-white text-center">
       <div className=" flex items-center">
         <Link to="/">
           <img src={Logo} className=" max-h-40 w-[12rem] " />
